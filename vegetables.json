@@ -1,0 +1,1834 @@
+[
+
+  {
+    "name": "lime (limbu / nimbu)",
+    "amount": "Rs.5.00",
+    "discountedPrice": "Rs.3.00",
+    "img": "http://baniyababu.com/wp-content/uploads/limbu-143x143.jpg",
+    "price": 3,
+    "quantity": 1,
+    "hostedImg": "limbu-143x143.jpg"
+  },
+  {
+    "name": "Potato (Batata / aloo) 1 KG",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "batata-143x143.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-143x143.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "kanda-143x143.jpg"
+  },
+  {
+    "name": "tomato (tamatar) 1 KG",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-143x143.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "tomato-143x143.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "bhendi-143x143.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 500 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-143x143.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "flower-143x143.jpg"
+  },
+  {
+    "name": "Bottle Gourd (Doodhi Bhopla / Lauki) 1 PC",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.23.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhudhi-143x143.jpg",
+    "price": 23,
+    "quantity": 1,
+    "hostedImg": "dhudhi-143x143.jpg"
+  },
+  {
+    "name": "Garlic (Lasun) 250 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "lasun-143x143.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kobi-143x143.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.16.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-143x143.jpg",
+    "price": 16,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-143x143.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 250 GM",
+    "amount": "Rs.22.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-143x143.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "carrot-english-143x143.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "val-143x143.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-143x143.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "karali-143x143.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "faras-bee-143x143.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 250 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "ginger-143x143.jpg"
+  },
+  {
+    "name": "tomato (tamatar) 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-143x143.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "tomato-143x143.jpg"
+  },
+  {
+    "name": "lime (limbu / nimbu)",
+    "amount": "Rs.5.00",
+    "discountedPrice": "Rs.3.00",
+    "img": "http://baniyababu.com/wp-content/uploads/limbu-186x186.jpg",
+    "price": 3,
+    "quantity": 1,
+    "hostedImg": "limbu-186x186.jpg"
+  },
+  {
+    "name": "Potato (Batata / aloo) 1 KG",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "batata-186x186.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-186x186.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "kanda-186x186.jpg"
+  },
+  {
+    "name": "tomato (tamatar) 1 KG",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-186x186.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "tomato-186x186.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "bhendi-186x186.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 500 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-186x186.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "flower-186x186.jpg"
+  },
+  {
+    "name": "Bottle Gourd (Doodhi Bhopla / Lauki) 1 PC",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.23.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhudhi-186x186.jpg",
+    "price": 23,
+    "quantity": 1,
+    "hostedImg": "dhudhi-186x186.jpg"
+  },
+  {
+    "name": "Garlic (Lasun) 250 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "lasun-186x186.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kobi-186x186.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.16.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-186x186.jpg",
+    "price": 16,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-186x186.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 250 GM",
+    "amount": "Rs.22.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-186x186.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "carrot-english-186x186.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "val-186x186.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-186x186.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "karali-186x186.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "faras-bee-186x186.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 250 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "ginger-186x186.jpg"
+  },
+  {
+    "name": "tomato (tamatar) 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-186x186.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "tomato-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 250 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.23.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-143x143.jpg",
+    "price": 23,
+    "quantity": 1,
+    "hostedImg": "tondli-143x143.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-143x143.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "beet-143x143.jpg"
+  },
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-143x143.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 250 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.24.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-143x143.jpg",
+    "price": 24,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-143x143.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 250 GM",
+    "amount": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "bhendi-143x143.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "vangi-white-143x143.jpg"
+  },
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "shewaga-143x143.jpg"
+  },
+  {
+    "name": "ridge gourd (Dodka / Tori) 250 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.22.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-143x143.jpg",
+    "price": 22,
+    "quantity": 1,
+    "hostedImg": "dodka-143x143.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-143x143.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "ratali-143x143.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "kanda-143x143.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "gavar-143x143.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 1 KG",
+    "amount": "Rs.75.00",
+    "discountedPrice": "Rs.65.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-143x143.jpg",
+    "price": 65,
+    "quantity": 1,
+    "hostedImg": "shenga-143x143.jpg"
+  },
+  {
+    "name": "mint leaves (pudina)",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/pudina-143x143.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "pudina-143x143.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kobi-143x143.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "flower-143x143.jpg"
+  },
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 250 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.23.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-186x186.jpg",
+    "price": 23,
+    "quantity": 1,
+    "hostedImg": "tondli-186x186.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-186x186.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "beet-186x186.jpg"
+  },
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-186x186.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 250 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.24.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-186x186.jpg",
+    "price": 24,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-186x186.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 250 GM",
+    "amount": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "bhendi-186x186.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "vangi-white-186x186.jpg"
+  },
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "shewaga-186x186.jpg"
+  },
+  {
+    "name": "ridge gourd (Dodka / Tori) 250 GM",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.22.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-186x186.jpg",
+    "price": 22,
+    "quantity": 1,
+    "hostedImg": "dodka-186x186.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-186x186.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "ratali-186x186.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "kanda-186x186.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "gavar-186x186.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 1 KG",
+    "amount": "Rs.75.00",
+    "discountedPrice": "Rs.65.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-186x186.jpg",
+    "price": 65,
+    "quantity": 1,
+    "hostedImg": "shenga-186x186.jpg"
+  },
+  {
+    "name": "mint leaves (pudina)",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/pudina-186x186.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "pudina-186x186.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kobi-186x186.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "flower-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "Potato (Batata / aloo) 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.13.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-143x143.jpg",
+    "price": 13,
+    "quantity": 1,
+    "hostedImg": "batata-143x143.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-143x143.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-143x143.jpg"
+  },
+  {
+    "name": "Radish White (Mula Pandhara / Muli) 4Pc",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mula-white-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "mula-white-143x143.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.28.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-143x143.jpg",
+    "price": 28,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-143x143.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-143x143.jpg"
+  },
+  {
+    "name": "Chawali 1 Bunch",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chawalai-143x143.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "chawalai-143x143.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.17.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-143x143.jpg",
+    "price": 17,
+    "quantity": 1,
+    "hostedImg": "shenga-143x143.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-143x143.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 500 GM",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-143x143.jpg",
+    "price": 35,
+    "quantity": 1,
+    "hostedImg": "carrot-english-143x143.jpg"
+  },
+  {
+    "name": "Lemongrass (Gavati chaha)",
+    "amount": "Rs.12.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavati-chaha-143x143.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "gavati-chaha-143x143.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-143x143.jpg"
+  },
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-143x143.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-143x143.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "faras-bee-143x143.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "beet-143x143.jpg"
+  },
+  {
+    "name": "Tomato Green 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-143x143.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "tomato-green-143x143.jpg"
+  },
+  {
+    "name": "Potato (Batata / aloo) 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.13.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-186x186.jpg",
+    "price": 13,
+    "quantity": 1,
+    "hostedImg": "batata-186x186.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-186x186.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 250 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-186x186.jpg"
+  },
+  {
+    "name": "Radish White (Mula Pandhara / Muli) 4Pc",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mula-white-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "mula-white-186x186.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.28.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-186x186.jpg",
+    "price": 28,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-186x186.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-186x186.jpg"
+  },
+  {
+    "name": "Chawali 1 Bunch",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chawalai-186x186.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "chawalai-186x186.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.17.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-186x186.jpg",
+    "price": 17,
+    "quantity": 1,
+    "hostedImg": "shenga-186x186.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-186x186.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 500 GM",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-186x186.jpg",
+    "price": 35,
+    "quantity": 1,
+    "hostedImg": "carrot-english-186x186.jpg"
+  },
+  {
+    "name": "Lemongrass (Gavati chaha)",
+    "amount": "Rs.12.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavati-chaha-186x186.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "gavati-chaha-186x186.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-186x186.jpg"
+  },
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-186x186.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-186x186.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "faras-bee-186x186.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 500 GM",
+    "amount": "Rs.30.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "beet-186x186.jpg"
+  },
+  {
+    "name": "Tomato Green 500 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-186x186.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "tomato-green-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "ridge gourd (Dodka / Tori) 500 GM",
+    "amount": "Rs.50.00",
+    "discountedPrice": "Rs.44.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-143x143.jpg",
+    "price": 44,
+    "quantity": 1,
+    "hostedImg": "dodka-143x143.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-white-143x143.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 500 GM",
+    "amount": "Rs.32.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "val-143x143.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "flower-143x143.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-143x143.jpg"
+  },
+  {
+    "name": "Tomato Green 250 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-143x143.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "tomato-green-143x143.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-143x143.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 500 GM",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-143x143.jpg",
+    "price": 35,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-143x143.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.32.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-143x143.jpg",
+    "price": 32,
+    "quantity": 1,
+    "hostedImg": "karali-143x143.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 500 GM",
+    "amount": "Rs.38.00",
+    "discountedPrice": "Rs.33.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-143x143.jpg",
+    "price": 33,
+    "quantity": 1,
+    "hostedImg": "shenga-143x143.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-143x143.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "suran-143x143.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "ratali-143x143.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kanda-143x143.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-143x143.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "suran-143x143.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "bhendi-143x143.jpg"
+  },
+  {
+    "name": "ridge gourd (Dodka / Tori) 500 GM",
+    "amount": "Rs.50.00",
+    "discountedPrice": "Rs.44.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-186x186.jpg",
+    "price": 44,
+    "quantity": 1,
+    "hostedImg": "dodka-186x186.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-white-186x186.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 500 GM",
+    "amount": "Rs.32.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "val-186x186.jpg"
+  },
+  {
+    "name": "Cauliflower (Phoolgobi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/flower-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "flower-186x186.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 250 GM",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-186x186.jpg"
+  },
+  {
+    "name": "Tomato Green 250 GM",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-186x186.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "tomato-green-186x186.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-186x186.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 500 GM",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-186x186.jpg",
+    "price": 35,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-186x186.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.32.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-186x186.jpg",
+    "price": 32,
+    "quantity": 1,
+    "hostedImg": "karali-186x186.jpg"
+  },
+  {
+    "name": "Ground Nut Whole (Shenga / munagaphali) 500 GM",
+    "amount": "Rs.38.00",
+    "discountedPrice": "Rs.33.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shenga-186x186.jpg",
+    "price": 33,
+    "quantity": 1,
+    "hostedImg": "shenga-186x186.jpg"
+  },
+  {
+    "name": "Brinjal Small (Vangi Lahan / Baingan) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-lahan-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-lahan-186x186.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "suran-186x186.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "ratali-186x186.jpg"
+  },
+  {
+    "name": "Onion (Kanda / Pyaj) 250 GM",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kanda-186x186.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-186x186.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "suran-186x186.jpg"
+  },
+  {
+    "name": "Lady Finger (Bhendi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/bhendi-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "bhendi-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-143x143.jpg"
+  },
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 500 GM",
+    "amount": "Rs.45.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-143x143.jpg",
+    "price": 45,
+    "quantity": 1,
+    "hostedImg": "tondli-143x143.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "gavar-143x143.jpg"
+  },
+  {
+    "name": "Raw Banana (Kachchi Keli)",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kacchi-keli-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "kacchi-keli-143x143.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 1 KG",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-143x143.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "kobi-143x143.jpg"
+  },
+  {
+    "name": "Tinda",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tinda-143x143.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "tinda-143x143.jpg"
+  },
+  {
+    "name": "ridge gourd (Dodka / Tori) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-143x143.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "dodka-143x143.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-white-143x143.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 1 KG",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.65.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-143x143.jpg",
+    "price": 65,
+    "quantity": 1,
+    "hostedImg": "carrot-english-143x143.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 500 GM",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-143x143.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "ginger-143x143.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 250 GM",
+    "amount": "Rs.24.00",
+    "discountedPrice": "Rs.22.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-143x143.jpg",
+    "price": 22,
+    "quantity": 1,
+    "hostedImg": "padwal-143x143.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "suran-143x143.jpg"
+  },
+  {
+    "name": "Potato (Batata / aloo) 250 GM",
+    "amount": "Rs.10.00",
+    "discountedPrice": "Rs.9.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-143x143.jpg",
+    "price": 9,
+    "quantity": 1,
+    "hostedImg": "batata-143x143.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 1 KG",
+    "amount": "Rs.100.00",
+    "discountedPrice": "Rs.90.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-143x143.jpg",
+    "price": 90,
+    "quantity": 1,
+    "hostedImg": "ratali-143x143.jpg"
+  },
+  {
+    "name": "Garlic (Lasun) 1 KG",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.120.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-143x143.jpg",
+    "price": 120,
+    "quantity": 1,
+    "hostedImg": "lasun-143x143.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 500 GM",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-143x143.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "double-bee-143x143.jpg"
+  },
+  {
+    "name": "Cucumber White ( Kaakdi Pandhari) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-white-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "kakadi-white-186x186.jpg"
+  },
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 500 GM",
+    "amount": "Rs.45.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-186x186.jpg",
+    "price": 45,
+    "quantity": 1,
+    "hostedImg": "tondli-186x186.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 500 GM",
+    "amount": "Rs.28.00",
+    "discountedPrice": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "gavar-186x186.jpg"
+  },
+  {
+    "name": "Raw Banana (Kachchi Keli)",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kacchi-keli-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "kacchi-keli-186x186.jpg"
+  },
+  {
+    "name": "Cabbage (Kobi / Pattagobi) 1 KG",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kobi-186x186.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "kobi-186x186.jpg"
+  },
+  {
+    "name": "Tinda",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tinda-186x186.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "tinda-186x186.jpg"
+  },
+  {
+    "name": "ridge gourd (Dodka / Tori) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dodka-186x186.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "dodka-186x186.jpg"
+  },
+  {
+    "name": "Brinjal White (Vangi Pandhari / Safed Baingan) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-white-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-white-186x186.jpg"
+  },
+  {
+    "name": "Carrot English (Gajar ) 1 KG",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.65.00",
+    "img": "http://baniyababu.com/wp-content/uploads/carrot-english-186x186.jpg",
+    "price": 65,
+    "quantity": 1,
+    "hostedImg": "carrot-english-186x186.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 500 GM",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-186x186.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "ginger-186x186.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 250 GM",
+    "amount": "Rs.24.00",
+    "discountedPrice": "Rs.22.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-186x186.jpg",
+    "price": 22,
+    "quantity": 1,
+    "hostedImg": "padwal-186x186.jpg"
+  },
+  {
+    "name": "Yam (Taro / Suran / Surti Kand) 500 GM",
+    "amount": "Rs.35.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/suran-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "suran-186x186.jpg"
+  },
+  {
+    "name": "Potato (Batata / aloo) 250 GM",
+    "amount": "Rs.10.00",
+    "discountedPrice": "Rs.9.00",
+    "img": "http://baniyababu.com/wp-content/uploads/batata-186x186.jpg",
+    "price": 9,
+    "quantity": 1,
+    "hostedImg": "batata-186x186.jpg"
+  },
+  {
+    "name": "Sweet Potato (Ratali / Surti Kand) 1 KG",
+    "amount": "Rs.100.00",
+    "discountedPrice": "Rs.90.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ratali-186x186.jpg",
+    "price": 90,
+    "quantity": 1,
+    "hostedImg": "ratali-186x186.jpg"
+  },
+  {
+    "name": "Garlic (Lasun) 1 KG",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.120.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-186x186.jpg",
+    "price": 120,
+    "quantity": 1,
+    "hostedImg": "lasun-186x186.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 500 GM",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-186x186.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "double-bee-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "Garlic (Lasun) 500 GM",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "lasun-143x143.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 250 GM",
+    "amount": "Rs.23.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-143x143.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "double-bee-143x143.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-143x143.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "faras-bee-143x143.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.47.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-143x143.jpg",
+    "price": 47,
+    "quantity": 1,
+    "hostedImg": "beet-143x143.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-143x143.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-143x143.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 1 KG",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "karali-143x143.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "val-143x143.jpg"
+  },
+  {
+    "name": "Safflower (Kardai) 1 Bunch",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kardai-143x143.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "kardai-143x143.jpg"
+  },
+  {
+    "name": "Tomato Green 1 KG",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.38.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-143x143.jpg",
+    "price": 38,
+    "quantity": 1,
+    "hostedImg": "tomato-green-143x143.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 1 KG",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-143x143.jpg",
+    "price": 100,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-143x143.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-143x143.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "padwal-143x143.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 500 GM",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-143x143.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "padwal-143x143.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 1 KG",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-143x143.jpg",
+    "price": 100,
+    "quantity": 1,
+    "hostedImg": "ginger-143x143.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-143x143.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-143x143.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "double-bee-143x143.jpg"
+  },
+  {
+    "name": "Garlic (Lasun) 500 GM",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lasun-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "lasun-186x186.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 250 GM",
+    "amount": "Rs.23.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-186x186.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "double-bee-186x186.jpg"
+  },
+  {
+    "name": "Eggplant (Vangi Jambhali / Baingan 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/vangi-bharit-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "vangi-bharit-186x186.jpg"
+  },
+  {
+    "name": "French Beans (Ghevda Farasbi) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/faras-bee-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "faras-bee-186x186.jpg"
+  },
+  {
+    "name": "Beet Root (Beet/ Chukandar) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.47.00",
+    "img": "http://baniyababu.com/wp-content/uploads/beet-186x186.jpg",
+    "price": 47,
+    "quantity": 1,
+    "hostedImg": "beet-186x186.jpg"
+  },
+  {
+    "name": "Capsicum Green (Dhobli Mirchi Hirvi / Simla Mirch) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.55.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dhobali-green-186x186.jpg",
+    "price": 55,
+    "quantity": 1,
+    "hostedImg": "dhobali-green-186x186.jpg"
+  },
+  {
+    "name": "Bitter Gourd (Karle/ Karela) 1 KG",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/karali-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "karali-186x186.jpg"
+  },
+  {
+    "name": "Broad Beans (Papdi /Val) 1 KG",
+    "amount": "Rs.65.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/val-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "hostedImg": "val-186x186.jpg"
+  },
+  {
+    "name": "Safflower (Kardai) 1 Bunch",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kardai-186x186.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "kardai-186x186.jpg"
+  },
+  {
+    "name": "Tomato Green 1 KG",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.38.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tomato-green-186x186.jpg",
+    "price": 38,
+    "quantity": 1,
+    "hostedImg": "tomato-green-186x186.jpg"
+  },
+  {
+    "name": "Cucumber Green (Kaakdi ) 1 KG",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kakadi-green-186x186.jpg",
+    "price": 100,
+    "quantity": 1,
+    "hostedImg": "kakadi-green-186x186.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-186x186.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "padwal-186x186.jpg"
+  },
+  {
+    "name": "snake gourd (padwal / parora) 500 GM",
+    "amount": "Rs.45.00",
+    "discountedPrice": "Rs.40.00",
+    "img": "http://baniyababu.com/wp-content/uploads/padwal-186x186.jpg",
+    "price": 40,
+    "quantity": 1,
+    "hostedImg": "padwal-186x186.jpg"
+  },
+  {
+    "name": "ginger (ala / adrak) 1 KG",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ginger-186x186.jpg",
+    "price": 100,
+    "quantity": 1,
+    "hostedImg": "ginger-186x186.jpg"
+  },
+  {
+    "name": "Red Pumpkin (Lal Bhopla / Kaddu) 1 KG",
+    "amount": "Rs.60.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-bhopala-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "lal-bhopala-186x186.jpg"
+  },
+  {
+    "name": "Double Beans (Boda) 1 KG",
+    "amount": "Rs.90.00",
+    "discountedPrice": "Rs.80.00",
+    "img": "http://baniyababu.com/wp-content/uploads/double-bee-186x186.jpg",
+    "price": 80,
+    "quantity": 1,
+    "hostedImg": "double-bee-186x186.jpg"
+  }
+
+,
+
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 1 KG",
+    "amount": "Rs.100.00",
+    "discountedPrice": "Rs.90.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-143x143.jpg",
+    "price": 90,
+    "quantity": 1,
+    "hostedImg": "shewaga-143x143.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 1 KG",
+    "amount": "Rs.75.00",
+    "discountedPrice": "Rs.70.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-143x143.jpg",
+    "price": 70,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-143x143.jpg"
+  },
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 1 KG",
+    "amount": "Rs.85.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-143x143.jpg",
+    "price": 85,
+    "quantity": 1,
+    "hostedImg": "tondli-143x143.jpg"
+  },
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "shewaga-143x143.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "gavar-143x143.jpg"
+  },
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 1 KG",
+    "amount": "Rs.100.00",
+    "discountedPrice": "Rs.90.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-186x186.jpg",
+    "price": 90,
+    "quantity": 1,
+    "hostedImg": "shewaga-186x186.jpg"
+  },
+  {
+    "name": "Green Chili (Hirvi Mirchi / Hari Mirch) 1 KG",
+    "amount": "Rs.75.00",
+    "discountedPrice": "Rs.70.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mirchi-grren-186x186.jpg",
+    "price": 70,
+    "quantity": 1,
+    "hostedImg": "mirchi-grren-186x186.jpg"
+  },
+  {
+    "name": "Ivy Gourd (Tendli / Parval) 1 KG",
+    "amount": "Rs.85.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tondli-186x186.jpg",
+    "price": 85,
+    "quantity": 1,
+    "hostedImg": "tondli-186x186.jpg"
+  },
+  {
+    "name": "Drumstick (Shevagyachi sheng / Sahjan ki phali) 500 GM",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shewaga-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "shewaga-186x186.jpg"
+  },
+  {
+    "name": "Cluster Beans (Gavar) 1 KG",
+    "amount": "Rs.55.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/gavar-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "hostedImg": "gavar-186x186.jpg"
+  }
+
+]

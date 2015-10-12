@@ -1,0 +1,1279 @@
+[
+
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No.4, Kanchan Ganga Society, Western Express Highway, Kandivali East, Mumbai - 400101, Near Dattani Park",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No.4, Kanchan Ganga Society, Western Express Highway, Kandivali East, Mumbai - 400101, Near Dattani Park",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No.4, Kanchan Ganga Society, Western Express Highway, Kandivali East, Mumbai - 400101, Near Dattani Park",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Lotus Dailies",
+    "phone": "+(91)-22-60609609, +(91)-7710015004",
+    "address": "Shop No 1, Premier Emperor Building, Marwah Road, Andheri East, Mumbai - 400072, Next To Indian Bank, Opposite Awesome Heights, Behind Ashok Nagar, Off Military Road, Marol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.887253,
+        19.115392
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7710015004"
+  },
+  {
+    "name": "Lotus Dailies",
+    "phone": "+(91)-22-60609609, +(91)-7710015004",
+    "address": "Shop No 1, Premier Emperor Building, Marwah Road, Andheri East, Mumbai - 400072, Next To Indian Bank, Opposite Awesome Heights, Behind Ashok Nagar, Off Military Road, Marol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.887253,
+        19.115392
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7710015004"
+  },
+  {
+    "name": "Lotus Dailies",
+    "phone": "+(91)-22-60609609, +(91)-7710015004",
+    "address": "Shop No 1, Premier Emperor Building, Marwah Road, Andheri East, Mumbai - 400072, Next To Indian Bank, Opposite Awesome Heights, Behind Ashok Nagar, Off Military Road, Marol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.887253,
+        19.115392
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7710015004"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-22-28738607, +(91)-8097067865",
+    "address": "298/2366, M G Road, Motilal Nagar No 2-Goregaon West, Mumbai - 400104, Behind Manthan Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.837018,
+        19.158893
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097067865"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-22-28738607, +(91)-8097067865",
+    "address": "298/2366, M G Road, Motilal Nagar No 2-Goregaon West, Mumbai - 400104, Behind Manthan Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.837018,
+        19.158893
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097067865"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-22-28738607, +(91)-8097067865",
+    "address": "298/2366, M G Road, Motilal Nagar No 2-Goregaon West, Mumbai - 400104, Behind Manthan Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.837018,
+        19.158893
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8097067865"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-8424030508",
+    "address": "Shop No 32, Emp Phase -4, Thakur Village-Kandivali East, Mumbai - 400101, Opposite Sunflower Building",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424030508"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-8424030508",
+    "address": "Shop No 32, Emp Phase -4, Thakur Village-Kandivali East, Mumbai - 400101, Opposite Sunflower Building",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424030508"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-8424030508",
+    "address": "Shop No 32, Emp Phase -4, Thakur Village-Kandivali East, Mumbai - 400101, Opposite Sunflower Building",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424030508"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9987800006",
+    "address": "Shop No 10, New Shivam Apartment, Kulupwadi-Borivali East, Mumbai - 400066, Opposite Raheja Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.864288,
+        19.230137
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987800006"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9987800006",
+    "address": "Shop No 10, New Shivam Apartment, Kulupwadi-Borivali East, Mumbai - 400066, Opposite Raheja Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.864288,
+        19.230137
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987800006"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9987800006",
+    "address": "Shop No 10, New Shivam Apartment, Kulupwadi-Borivali East, Mumbai - 400066, Opposite Raheja Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.864288,
+        19.230137
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987800006"
+  },
+  {
+    "name": "Mahalaxmi Mango House",
+    "phone": "+(91)-22-26822804, +(91)-9820467510",
+    "address": "Shop No.3/60, Ahsih Bhavan, Sahar Road., Andheri East, Mumbai - 400069, Near Andheri Railway Station, Opp. Better Home Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.84813,
+        19.118075
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820467510"
+  },
+  {
+    "name": "Mahalaxmi Mango House",
+    "phone": "+(91)-22-26822804, +(91)-9820467510",
+    "address": "Shop No.3/60, Ahsih Bhavan, Sahar Road., Andheri East, Mumbai - 400069, Near Andheri Railway Station, Opp. Better Home Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.84813,
+        19.118075
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820467510"
+  },
+  {
+    "name": "Mahalaxmi Mango House",
+    "phone": "+(91)-22-26822804, +(91)-9820467510",
+    "address": "Shop No.3/60, Ahsih Bhavan, Sahar Road., Andheri East, Mumbai - 400069, Near Andheri Railway Station, Opp. Better Home Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.84813,
+        19.118075
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820467510"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No 13, Dheeraj Residency, Borivali East, Mumbai - 400066, Opposite Bhorland",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No 13, Dheeraj Residency, Borivali East, Mumbai - 400066, Opposite Bhorland",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Freshkins",
+    "phone": "+(91)-9820441081",
+    "address": "Shop No 13, Dheeraj Residency, Borivali East, Mumbai - 400066, Opposite Bhorland",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820441081"
+  },
+  {
+    "name": "Thakur fruits",
+    "phone": "+(91)-8976551545",
+    "address": "Omkar apartment, Rambaug lane no4, Kalyan City, Thane - 421301, Opp Manchuria sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136497,
+        19.24227
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8976551545"
+  },
+  {
+    "name": "Thakur fruits",
+    "phone": "+(91)-8976551545",
+    "address": "Omkar apartment, Rambaug lane no4, Kalyan City, Thane - 421301, Opp Manchuria sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136497,
+        19.24227
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8976551545"
+  },
+  {
+    "name": "Thakur fruits",
+    "phone": "+(91)-8976551545",
+    "address": "Omkar apartment, Rambaug lane no4, Kalyan City, Thane - 421301, Opp Manchuria sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136497,
+        19.24227
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8976551545"
+  },
+  {
+    "name": "KGN fruit",
+    "phone": "+(91)-8689925213",
+    "address": "Sherya palace, Rambaug lane 04, Kalyan City, Thane - 421301, Next to madhurima sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136528,
+        19.242213
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8689925213"
+  },
+  {
+    "name": "KGN fruit",
+    "phone": "+(91)-8689925213",
+    "address": "Sherya palace, Rambaug lane 04, Kalyan City, Thane - 421301, Next to madhurima sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136528,
+        19.242213
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8689925213"
+  },
+  {
+    "name": "KGN fruit",
+    "phone": "+(91)-8689925213",
+    "address": "Sherya palace, Rambaug lane 04, Kalyan City, Thane - 421301, Next to madhurima sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.136528,
+        19.242213
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8689925213"
+  },
+  {
+    "name": "dinesh fruits shop",
+    "phone": "+(91)-9920527993",
+    "address": "shop no. 1, Opp manisha nager geat no. 1, Kalwa, Thane - 400605, Manisha nager gate no. 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.991312,
+        19.196947
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920527993"
+  },
+  {
+    "name": "dinesh fruits shop",
+    "phone": "+(91)-9920527993",
+    "address": "shop no. 1, Opp manisha nager geat no. 1, Kalwa, Thane - 400605, Manisha nager gate no. 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.991312,
+        19.196947
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920527993"
+  },
+  {
+    "name": "dinesh fruits shop",
+    "phone": "+(91)-9920527993",
+    "address": "shop no. 1, Opp manisha nager geat no. 1, Kalwa, Thane - 400605, Manisha nager gate no. 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.991312,
+        19.196947
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9920527993"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "P & G Vegitabels & Fruits",
+    "phone": "+(91)-8693083829",
+    "address": "Shanti Buld Apart.Shop No.02, Sector.04, Navi Mumbai - 410206, Opp.Shivshakti Chs",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.118142,
+        19.001933
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8693083829"
+  },
+  {
+    "name": "P & G Vegitabels & Fruits",
+    "phone": "+(91)-8693083829",
+    "address": "Shanti Buld Apart.Shop No.02, Sector.04, Navi Mumbai - 410206, Opp.Shivshakti Chs",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.118142,
+        19.001933
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8693083829"
+  },
+  {
+    "name": "P & G Vegitabels & Fruits",
+    "phone": "+(91)-8693083829",
+    "address": "Shanti Buld Apart.Shop No.02, Sector.04, Navi Mumbai - 410206, Opp.Shivshakti Chs",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        73.118142,
+        19.001933
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8693083829"
+  },
+  {
+    "name": "Siddhivinayak Fruit Vegetables",
+    "phone": "+(91)-9167601584",
+    "address": "Near Depodil Building, Central Avenue Road, Powai, Mumbai - 400076, opp. Janata Bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906687,
+        19.115233
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167601584"
+  },
+  {
+    "name": "Siddhivinayak Fruit Vegetables",
+    "phone": "+(91)-9167601584",
+    "address": "Near Depodil Building, Central Avenue Road, Powai, Mumbai - 400076, opp. Janata Bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906687,
+        19.115233
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167601584"
+  },
+  {
+    "name": "Siddhivinayak Fruit Vegetables",
+    "phone": "+(91)-9167601584",
+    "address": "Near Depodil Building, Central Avenue Road, Powai, Mumbai - 400076, opp. Janata Bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906687,
+        19.115233
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167601584"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Krishna's Fresh",
+    "phone": "+(91)-22-28423680, +(91)-9833433680",
+    "address": "Shop No 8, D Wing, SAI Chand Tara Building, SAI Baba Complex, Goregaon East, Mumbai - 400063, Near Oberoi International School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.86722,
+        19.16885
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833433680"
+  },
+  {
+    "name": "Krishna's Fresh",
+    "phone": "+(91)-22-28423680, +(91)-9833433680",
+    "address": "Shop No 8, D Wing, SAI Chand Tara Building, SAI Baba Complex, Goregaon East, Mumbai - 400063, Near Oberoi International School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.86722,
+        19.16885
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833433680"
+  },
+  {
+    "name": "Krishna's Fresh",
+    "phone": "+(91)-22-28423680, +(91)-9833433680",
+    "address": "Shop No 8, D Wing, SAI Chand Tara Building, SAI Baba Complex, Goregaon East, Mumbai - 400063, Near Oberoi International School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.86722,
+        19.16885
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9833433680"
+  }
+
+,
+
+  {
+    "name": "Gupta Fruit Center",
+    "phone": "+(91)-8898398856",
+    "address": "Shop No 3,, S V P Road,, Borivali East, Mumbai - 400066, Near Boriwali Flyover",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.855142,
+        19.23713
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898398856"
+  },
+  {
+    "name": "Gupta Fruit Center",
+    "phone": "+(91)-8898398856",
+    "address": "Shop No 3,, S V P Road,, Borivali East, Mumbai - 400066, Near Boriwali Flyover",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.855142,
+        19.23713
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898398856"
+  },
+  {
+    "name": "Gupta Fruit Center",
+    "phone": "+(91)-8898398856",
+    "address": "Shop No 3,, S V P Road,, Borivali East, Mumbai - 400066, Near Boriwali Flyover",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.855142,
+        19.23713
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8898398856"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Nikam Fruit Mart",
+    "phone": "+(91)-9594096803",
+    "address": "ghatkopar Bhajipala Mandai, Ghatkopar East, Mumbai - 400077, near N ward",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906647,
+        19.083675
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594096803"
+  },
+  {
+    "name": "Nikam Fruit Mart",
+    "phone": "+(91)-9594096803",
+    "address": "ghatkopar Bhajipala Mandai, Ghatkopar East, Mumbai - 400077, near N ward",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906647,
+        19.083675
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594096803"
+  },
+  {
+    "name": "Nikam Fruit Mart",
+    "phone": "+(91)-9594096803",
+    "address": "ghatkopar Bhajipala Mandai, Ghatkopar East, Mumbai - 400077, near N ward",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.906647,
+        19.083675
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9594096803"
+  },
+  {
+    "name": "Raghav Fruit",
+    "phone": "+(91)-9819864166",
+    "address": "Shop No-2, T.P Road,, Malad West, Mumbai - 400064, Opp- icici Bank ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8404617222,
+        19.1801204444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819864166"
+  },
+  {
+    "name": "Raghav Fruit",
+    "phone": "+(91)-9819864166",
+    "address": "Shop No-2, T.P Road,, Malad West, Mumbai - 400064, Opp- icici Bank ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8404617222,
+        19.1801204444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819864166"
+  },
+  {
+    "name": "Raghav Fruit",
+    "phone": "+(91)-9819864166",
+    "address": "Shop No-2, T.P Road,, Malad West, Mumbai - 400064, Opp- icici Bank ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8404617222,
+        19.1801204444
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9819864166"
+  },
+  {
+    "name": "Sanjay Fruits",
+    "phone": "+(91)-9892419398",
+    "address": "Sai baba Super Market, Sector 15, Airoli, Navi Mumbai - 400708, Near Hanuman Mandir",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892419398"
+  },
+  {
+    "name": "Sanjay Fruits",
+    "phone": "+(91)-9892419398",
+    "address": "Sai baba Super Market, Sector 15, Airoli, Navi Mumbai - 400708, Near Hanuman Mandir",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892419398"
+  },
+  {
+    "name": "Sanjay Fruits",
+    "phone": "+(91)-9892419398",
+    "address": "Sai baba Super Market, Sector 15, Airoli, Navi Mumbai - 400708, Near Hanuman Mandir",
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892419398"
+  },
+  {
+    "name": "Ram fruit shop",
+    "phone": "+(91)-9892774802",
+    "address": "Adarsh nagar, New link road, Andheri West, Mumbai - 400053, Opp-hp petrol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.830405,
+        19.145742
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892774802"
+  },
+  {
+    "name": "Ram fruit shop",
+    "phone": "+(91)-9892774802",
+    "address": "Adarsh nagar, New link road, Andheri West, Mumbai - 400053, Opp-hp petrol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.830405,
+        19.145742
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892774802"
+  },
+  {
+    "name": "Ram fruit shop",
+    "phone": "+(91)-9892774802",
+    "address": "Adarsh nagar, New link road, Andheri West, Mumbai - 400053, Opp-hp petrol",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.830405,
+        19.145742
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9892774802"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Raj fruit shop",
+    "phone": "+(91)-8424816004",
+    "address": "Samarth nagar, Andheri West, Mumbai - 400053, Near-celebration club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.826492,
+        19.145942
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424816004"
+  },
+  {
+    "name": "Raj fruit shop",
+    "phone": "+(91)-8424816004",
+    "address": "Samarth nagar, Andheri West, Mumbai - 400053, Near-celebration club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.826492,
+        19.145942
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424816004"
+  },
+  {
+    "name": "Raj fruit shop",
+    "phone": "+(91)-8424816004",
+    "address": "Samarth nagar, Andheri West, Mumbai - 400053, Near-celebration club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.826492,
+        19.145942
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8424816004"
+  },
+  {
+    "name": "Ambika fruits & vegetable",
+    "phone": "+(91)-22-26395458, +(91)-9987771202",
+    "address": "B-26, wellington bldg shop no-7/A, shashri nagar, Andheri West, Mumbai - 400053, near lokhandwala complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8294219722,
+        19.1371955833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987771202"
+  },
+  {
+    "name": "Ambika fruits & vegetable",
+    "phone": "+(91)-22-26395458, +(91)-9987771202",
+    "address": "B-26, wellington bldg shop no-7/A, shashri nagar, Andheri West, Mumbai - 400053, near lokhandwala complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8294219722,
+        19.1371955833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987771202"
+  },
+  {
+    "name": "Ambika fruits & vegetable",
+    "phone": "+(91)-22-26395458, +(91)-9987771202",
+    "address": "B-26, wellington bldg shop no-7/A, shashri nagar, Andheri West, Mumbai - 400053, near lokhandwala complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8294219722,
+        19.1371955833
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987771202"
+  },
+  {
+    "name": "Rajpoot vegetable",
+    "phone": "+(91)-9768404565",
+    "address": "Shop no-1,twin tower, Lokhandwala market, Lokhandwala Complex-Andheri West, Mumbai - 400053, Near-high point",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.824425,
+        19.143097
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768404565"
+  },
+  {
+    "name": "Rajpoot vegetable",
+    "phone": "+(91)-9768404565",
+    "address": "Shop no-1,twin tower, Lokhandwala market, Lokhandwala Complex-Andheri West, Mumbai - 400053, Near-high point",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.824425,
+        19.143097
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768404565"
+  },
+  {
+    "name": "Rajpoot vegetable",
+    "phone": "+(91)-9768404565",
+    "address": "Shop no-1,twin tower, Lokhandwala market, Lokhandwala Complex-Andheri West, Mumbai - 400053, Near-high point",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.824425,
+        19.143097
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768404565"
+  }
+
+,
+
+  {
+    "name": "Vijay fruits",
+    "phone": "+(91)-8879164315",
+    "address": "Irla Markets, S V Road, Vile Parle West, Mumbai - 400056, Alfa lane",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.839012,
+        19.108167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879164315"
+  },
+  {
+    "name": "Vijay fruits",
+    "phone": "+(91)-8879164315",
+    "address": "Irla Markets, S V Road, Vile Parle West, Mumbai - 400056, Alfa lane",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.839012,
+        19.108167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879164315"
+  },
+  {
+    "name": "Vijay fruits",
+    "phone": "+(91)-8879164315",
+    "address": "Irla Markets, S V Road, Vile Parle West, Mumbai - 400056, Alfa lane",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.839012,
+        19.108167
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8879164315"
+  },
+  {
+    "name": "Tarana fruit Center",
+    "phone": "+(91)-9167996489",
+    "address": "Shop No-3, Dhake Colony, J.P.road, Andheri West, Mumbai - 400053, Dhake colony bus stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8242721388,
+        19.1239356944
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167996489"
+  },
+  {
+    "name": "Tarana fruit Center",
+    "phone": "+(91)-9167996489",
+    "address": "Shop No-3, Dhake Colony, J.P.road, Andheri West, Mumbai - 400053, Dhake colony bus stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8242721388,
+        19.1239356944
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167996489"
+  },
+  {
+    "name": "Tarana fruit Center",
+    "phone": "+(91)-9167996489",
+    "address": "Shop No-3, Dhake Colony, J.P.road, Andheri West, Mumbai - 400053, Dhake colony bus stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8242721388,
+        19.1239356944
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9167996489"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Sarabjeet Jaiswal",
+    "phone": "+(91)-9702562370",
+    "address": "Nehru Road, Santacruz East, Mumbai - 400055",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.842828,
+        19.080631
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702562370"
+  },
+  {
+    "name": "Sarabjeet Jaiswal",
+    "phone": "+(91)-9702562370",
+    "address": "Nehru Road, Santacruz East, Mumbai - 400055",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.842828,
+        19.080631
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702562370"
+  },
+  {
+    "name": "Sarabjeet Jaiswal",
+    "phone": "+(91)-9702562370",
+    "address": "Nehru Road, Santacruz East, Mumbai - 400055",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.842828,
+        19.080631
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9702562370"
+  },
+  {
+    "name": "Dinesh Fruits",
+    "phone": "+(91)-9820301985",
+    "address": "Shop No-3, Nehru Road, Santacruz East, Mumbai - 400055, opp- Vihar Hotel,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8435287222,
+        19.0794906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820301985"
+  },
+  {
+    "name": "Dinesh Fruits",
+    "phone": "+(91)-9820301985",
+    "address": "Shop No-3, Nehru Road, Santacruz East, Mumbai - 400055, opp- Vihar Hotel,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8435287222,
+        19.0794906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820301985"
+  },
+  {
+    "name": "Dinesh Fruits",
+    "phone": "+(91)-9820301985",
+    "address": "Shop No-3, Nehru Road, Santacruz East, Mumbai - 400055, opp- Vihar Hotel,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8435287222,
+        19.0794906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9820301985"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Rahul Fruit Shop",
+    "phone": "+(91)-9768231837",
+    "address": "Shop No.1, Jay Prakash Road, Khar East, Mumbai - 400051, Opp- Rajdeep Collection",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8429641666,
+        19.06300925
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768231837"
+  },
+  {
+    "name": "Rahul Fruit Shop",
+    "phone": "+(91)-9768231837",
+    "address": "Shop No.1, Jay Prakash Road, Khar East, Mumbai - 400051, Opp- Rajdeep Collection",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8429641666,
+        19.06300925
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768231837"
+  },
+  {
+    "name": "Rahul Fruit Shop",
+    "phone": "+(91)-9768231837",
+    "address": "Shop No.1, Jay Prakash Road, Khar East, Mumbai - 400051, Opp- Rajdeep Collection",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8429641666,
+        19.06300925
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9768231837"
+  },
+  {
+    "name": "Mahadev Gadekar",
+    "phone": "+(91)-9987749066",
+    "address": "Cadell Road, Dadar West, Mumbai - 400028, Near Hanuman Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8410186666,
+        19.0197257777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987749066"
+  },
+  {
+    "name": "Mahadev Gadekar",
+    "phone": "+(91)-9987749066",
+    "address": "Cadell Road, Dadar West, Mumbai - 400028, Near Hanuman Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8410186666,
+        19.0197257777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987749066"
+  },
+  {
+    "name": "Mahadev Gadekar",
+    "phone": "+(91)-9987749066",
+    "address": "Cadell Road, Dadar West, Mumbai - 400028, Near Hanuman Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8410186666,
+        19.0197257777
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "9987749066"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+
+,
+
+  {
+    "name": "Om sainath  fruits",
+    "phone": "+(91)-7798124584",
+    "address": "Shop no.2, Station road, Virar East, Thane - 401305, Near,virar talav",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.813178,
+        19.455417
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7798124584"
+  },
+  {
+    "name": "Om sainath  fruits",
+    "phone": "+(91)-7798124584",
+    "address": "Shop no.2, Station road, Virar East, Thane - 401305, Near,virar talav",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.813178,
+        19.455417
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7798124584"
+  },
+  {
+    "name": "Om sainath  fruits",
+    "phone": "+(91)-7798124584",
+    "address": "Shop no.2, Station road, Virar East, Thane - 401305, Near,virar talav",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.813178,
+        19.455417
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "7798124584"
+  },
+  {
+    "name": "Jyosna Fruit",
+    "phone": "+(91)-8552073099",
+    "address": "Shop No 2, Manvelpada Road, Virar East, Thane - 401305, opp virar railway station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8116531111,
+        19.4551906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8552073099"
+  },
+  {
+    "name": "Jyosna Fruit",
+    "phone": "+(91)-8552073099",
+    "address": "Shop No 2, Manvelpada Road, Virar East, Thane - 401305, opp virar railway station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8116531111,
+        19.4551906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8552073099"
+  },
+  {
+    "name": "Jyosna Fruit",
+    "phone": "+(91)-8552073099",
+    "address": "Shop No 2, Manvelpada Road, Virar East, Thane - 401305, opp virar railway station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        72.8116531111,
+        19.4551906388
+      ]
+    },
+    "category": "Grocery",
+    "city": "Mumbai",
+    "mobile": "8552073099"
+  },
+  null,
+  null,
+  null
+
+]

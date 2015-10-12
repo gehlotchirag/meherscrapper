@@ -1,0 +1,4538 @@
+[
+
+  null,
+  null,
+  {
+    "name": "GOPALA FRESH PRODUCE PVT LTD",
+    "phone": "+(91)-9958667521",
+    "address": "Shop no-1, dda,market, DDA Market, Green Park, Delhi - 110016, Near metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207213,
+        28.55803
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958667521"
+  },
+  null,
+  {
+    "name": "Ashish General Store",
+    "phone": "+(91)-9868773989",
+    "address": "19/2, Yusuf Sarai, Yusuf Sarai-Green Park, Delhi - 110016, Near Mandir Wali Gali",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868773989"
+  },
+  {
+    "name": "Hari Chand General Store",
+    "phone": "+(91)-8826105614",
+    "address": "1295, Yusuf Sarai, Yusuf Sarai-Green Park, Delhi - 110016, Near Mandir Wali Gali",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826105614"
+  },
+  null,
+  {
+    "name": "Jagdish Provision Store",
+    "phone": "+(91)-9811640005",
+    "address": "40, Mandir Wali Gali, Yusuf Sarai-Green Park, Delhi - 110016, Near green park metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206663,
+        28.56015
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811640005"
+  },
+  {
+    "name": "Sanjay store",
+    "phone": "+(91)-9999312546",
+    "address": "Shop no.-17/23, Mandir wali gali, Yusuf Sarai-Green Park, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206667,
+        28.560667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999312546"
+  },
+  null
+
+,
+
+  null,
+  null,
+  null,
+  {
+    "name": "JAIN CONFECTIONERS",
+    "phone": "+(91)-9871203863",
+    "address": "Aurobindo Market Place, Hauz Khas Village Road, Green Park, Delhi - 110016, Near Green Park Church",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203903,
+        28.552637
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871203863"
+  },
+  null,
+  {
+    "name": "Kerla Store",
+    "phone": "+(91)-9811859166",
+    "address": "86/2, Yusuf Sarai, Yusuf Sarai-Green Park, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.199177,
+        28.567067
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811859166"
+  },
+  {
+    "name": "Aman General Shop",
+    "phone": "+(91)-9560111110",
+    "address": "40, Hauz Khas Village, Hauz Khas, Delhi - 110016, Near Dear Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560111110"
+  },
+  {
+    "name": "Sahil General Store",
+    "phone": "+(91)-9582716935",
+    "address": "86/2, Hauz Khas Village, Hauz Khas, Delhi - 110016, Near Dear Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582716935"
+  },
+  {
+    "name": "Ramesh Kumar",
+    "phone": "+(91)-9313755177",
+    "address": "F/138, Katwaria Sarai, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313755177"
+  },
+  {
+    "name": "Haryana Dairy",
+    "phone": "+(91)-9871710965",
+    "address": "F/93, Katwaria Sarai, Katwaria Sarai, Delhi - 110016, IIT",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204048,
+        28.55385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871710965"
+  }
+
+,
+
+  {
+    "name": "Seema General Store",
+    "phone": "+(91)-9871785716",
+    "address": "Shop no.15, Gulmohar market, Gulmohar Enclave-gautam Nagar, Delhi - 110049, Back to Kotak Mahindra bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.209,
+        28.558137
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871785716"
+  },
+  {
+    "name": "Pawan store",
+    "phone": "+(91)-9971198118",
+    "address": "Shop no 123, Aurobindo Place Market-Hauz Khas, Delhi - 110016, near main road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203842,
+        28.552612
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971198118"
+  },
+  null,
+  {
+    "name": "M K Traders",
+    "phone": "+(91)-9810265309",
+    "address": "Shop No 1 C LGF, Reliance Fresh Building S 7, Arjun Nagar-safdarjung Enclave, Delhi - 110029",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.200667,
+        28.561833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810265309"
+  },
+  {
+    "name": "Ramesh store",
+    "phone": "+(91)-9891828850",
+    "address": "shop no E 1, main market, Hauz Khas, Delhi - 110016, near hauz khas enclave",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.20752,
+        28.552288
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891828850"
+  },
+  {
+    "name": "Laxmi General Store",
+    "phone": "+(91)-9818517528",
+    "address": "70, Safdarjung Enclave, Delhi - 110029, Nr Mcd Primary School,,   Humayun Pur",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207401,
+        28.562396
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818517528"
+  },
+  null,
+  null,
+  {
+    "name": "Shri morning place",
+    "phone": "+(91)-9818360538",
+    "address": "E 44/B hauz market main road, Hauz Khas, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207122,
+        28.551808
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818360538"
+  },
+  {
+    "name": "prakash store",
+    "phone": "+(91)-9873575787",
+    "address": "shop no E 41/3, main market, Hauz Khas, Delhi - 110016, Hauz Khas Police Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207113,
+        28.551553
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873575787"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Big Apple",
+    "phone": "+(91)-9313928403",
+    "address": "E 22, Hauz Khas, Delhi - 110016, Main Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2081487442,
+        28.5509186489
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313928403"
+  },
+  null,
+  {
+    "name": "Soni General Store",
+    "phone": "+(91)-9971032426",
+    "address": "Arjun Nagar, Safdarjung Enclave, Delhi - 110029, Near Bada Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.197379,
+        28.562153
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971032426"
+  },
+  null,
+  {
+    "name": "On Departmental Store",
+    "phone": "+(91)-9910859986",
+    "address": "Shop No-122a/16, Gautam Nagar, Delhi - 110049, Near Bada Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211833,
+        28.5615
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910859986"
+  }
+
+,
+
+  {
+    "name": "OM SAI STORE",
+    "phone": "+(91)-9711792937",
+    "address": "Shop no:-B-69/1, Bada gurudwara, Gautam Nagar, Delhi - 110049, Near Post office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212,
+        28.561667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711792937"
+  },
+  {
+    "name": "Ganeshji General Store",
+    "phone": "+(91)-9650454574",
+    "address": "64, Arjun Nagar-Safdarjung Enclave, Delhi - 110029, Opp.-B4/188A",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.197542,
+        28.563453
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650454574"
+  },
+  null,
+  null,
+  {
+    "name": "Jai shri ram store",
+    "phone": "+(91)-9654861281",
+    "address": "45, Gautam Nagar, Delhi - 110049, Near new spicy restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213,
+        28.562333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654861281"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Shri Ram Store",
+    "phone": "+(91)-9811902345",
+    "address": "Humayun Pur, Safdarjung Enclave, Delhi - 110029, Near NCC Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195324,
+        28.563473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811902345"
+  },
+  null
+
+,
+
+  {
+    "name": "Bhavika General Store",
+    "phone": "+(91)-9818078668",
+    "address": "Krishna Nagar, Safdarjung Enclave, Delhi - 110029",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195324,
+        28.563473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818078668"
+  },
+  {
+    "name": "Sachin Pan Store",
+    "phone": "+(91)-9899663654",
+    "address": "Dda Flats, Safdarjung Enclave, Delhi - 110029, Near Humayun Pur",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195324,
+        28.563473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899663654"
+  },
+  {
+    "name": "Jatin Store",
+    "phone": "+(91)-9910560903",
+    "address": "Humayun Pur, Safdarjung Enclave, Delhi - 110029, Nr NCC Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195324,
+        28.563473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910560903"
+  },
+  {
+    "name": "Amit Store",
+    "phone": "+(91)-9871848878",
+    "address": "Humayun Pur, Safdarjung Enclave, Delhi - 110029",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195324,
+        28.563473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871848878"
+  },
+  {
+    "name": "Manav Super Store",
+    "phone": "+(91)-9211358830",
+    "address": "Shop no-A107, Humayupur, Safdarjung Enclave, Delhi - 110029, Main Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.193305,
+        28.560792
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211358830"
+  },
+  {
+    "name": "Friends Store",
+    "phone": "+(91)-9911457004",
+    "address": "Shop No 1A, Gautam Nagar, Delhi - 110049, Father Agnal School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215125,
+        28.561338
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911457004"
+  },
+  {
+    "name": "Baijnath store",
+    "phone": "+(91)-9540885787",
+    "address": "shop no F-1, main road, Shahpur Jat, Delhi - 110049, near police choki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211358,
+        28.548887
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540885787"
+  },
+  {
+    "name": "kamal General Store",
+    "phone": "+(91)-9654210979",
+    "address": "Shop no-9, Main Market Munirka, Safdarjung Enclave, Delhi - 110029, Humayupur",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.193322,
+        28.562228
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654210979"
+  },
+  {
+    "name": "Home breakers",
+    "phone": "+(91)-9716564651",
+    "address": "shop no 308, Shahpur Jat, Delhi - 110049, near police choki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211853,
+        28.54872
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716564651"
+  },
+  {
+    "name": "Deepak general store",
+    "phone": "+(91)-9999689764",
+    "address": "shop no. 252B, Shahpur Jat, Delhi - 110049, near police choki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211242,
+        28.548253
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999689764"
+  }
+
+,
+
+  {
+    "name": "Banku grocery store",
+    "phone": "+(91)-9654082517",
+    "address": "shop no . 238A, main market, Shahpur Jat, Delhi - 110049, near police chowki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211242,
+        28.54823
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654082517"
+  },
+  {
+    "name": "Om Prakash Dairy",
+    "phone": "+(91)-9953033059",
+    "address": "15C, Father Agnal school, Gautam Nagar, Delhi - 110049, Sai Baba Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215058,
+        28.562695
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953033059"
+  },
+  {
+    "name": "Aggarwal Store",
+    "phone": "+(91)-9958498954",
+    "address": "478, Gautam Nagar, Delhi - 110049",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215447,
+        28.562362
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958498954"
+  },
+  {
+    "name": "Khurana Provisional Store",
+    "phone": "+(91)-9871418713",
+    "address": "101/5, Krishna Nagar, Safdarjung Enclave, Delhi - 110029",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.193333,
+        28.563833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871418713"
+  },
+  {
+    "name": "Malti Store",
+    "phone": "+(91)-9810483528",
+    "address": "Krishna Nagar, Safdarjung Enclave, Delhi - 110029, Near Bikaji Cama Place",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.193148,
+        28.56369
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810483528"
+  },
+  {
+    "name": "Shri Shahab Ji store",
+    "phone": "+(91)-9582291688",
+    "address": "shop no 222, Main shahpur market, Shahpur Jat, Delhi - 110049, near police choki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212312,
+        28.547925
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582291688"
+  },
+  {
+    "name": "Pragati Store",
+    "phone": "+(91)-9971703250",
+    "address": "330, Shahpur Jat, Shahpur Jat, Delhi - 110049, SAI Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21394,
+        28.549064
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971703250"
+  },
+  {
+    "name": "Manish store",
+    "phone": "+(91)-9718708646",
+    "address": "shop no. 122/3, main market, Shahpur Jat, Delhi - 110049, near police chowki",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213455,
+        28.548583
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718708646"
+  },
+  {
+    "name": "Alad store",
+    "phone": "+(91)-9058116050",
+    "address": "shop no .254/3, main market, Shahpur Jat, Delhi - 110049, near dilip chowK",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213525,
+        28.548588
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9058116050"
+  },
+  {
+    "name": "Mansingh store",
+    "phone": "+(91)-8587839408",
+    "address": "shop no 401, main market, Shahpur Jat, Delhi - 110049, near Maui Chappal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213517,
+        28.548558
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8587839408"
+  }
+
+,
+
+  {
+    "name": "Chauhan Departmental Store",
+    "phone": "+(91)-9560767246",
+    "address": "Shop no-222A, Main Market, Shahpur Jat, Delhi - 110049",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212708,
+        28.547503
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560767246"
+  },
+  null,
+  {
+    "name": "SK communication",
+    "phone": "+(91)-9999562616",
+    "address": "shop No 213, Shahpur Jat, Delhi - 110049, Dilip Singh Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212958,
+        28.547272
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999562616"
+  },
+  {
+    "name": "Gupta Departmental Store",
+    "phone": "+(91)-9811608126",
+    "address": "C-25, SDA market, Sarvapriya Vihar, Delhi - 110016, Near chaos",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.196725,
+        28.54647
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811608126"
+  },
+  {
+    "name": "Lokesh store",
+    "phone": "+(91)-8860014609",
+    "address": "198/4, Shahpur Jat, Delhi - 110049, near Dilip chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215303,
+        28.5489
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860014609"
+  },
+  {
+    "name": "Faizan store",
+    "phone": "+(91)-8800363176",
+    "address": "shop 265, Shahpur Jat, Delhi - 110049, dilip chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213587,
+        28.54738
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800363176"
+  },
+  {
+    "name": "Soni general store",
+    "phone": "+(91)-9810560613",
+    "address": "shop no 120, Aisad road, Shahpur Jat, Delhi - 110049, near slice of italy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215905,
+        28.549455
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810560613"
+  },
+  null,
+  null,
+  {
+    "name": "Shankar Store",
+    "phone": "+(91)-9899720357",
+    "address": "128, Shahpur Jat, Shahpur Jat, Delhi - 110049, Purana Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215295,
+        28.548687
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899720357"
+  }
+
+,
+
+  {
+    "name": "Dipanshu store",
+    "phone": "+(91)-9313328195",
+    "address": "shop no. 9, Shahpur Jat, Delhi - 110049, behind Panchsheel club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.213478,
+        28.546828
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313328195"
+  },
+  {
+    "name": "Sanjeet store",
+    "phone": "+(91)-9873784043",
+    "address": "shop no. 149, Shahpur Jat, Delhi - 110049, near shiv mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215417,
+        28.548387
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873784043"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Shri Mahadev Store",
+    "phone": "+(91)-9818780925",
+    "address": "Shop no 1/B, Nauroji Nagar Market, Nauroji Nagar-Safdarjung Enclave, Delhi - 110029, Near Trauma Centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.194333,
+        28.567833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818780925"
+  },
+  {
+    "name": "Ahuja store",
+    "phone": "+(91)-9873697481",
+    "address": "Shop no. 12, Main mrkt, Nauroji Nagar, Delhi - 110023, Nr bhikaji cama",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.194245,
+        28.567822
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873697481"
+  },
+  null,
+  {
+    "name": "Shubh Store",
+    "phone": "+(91)-9718322062",
+    "address": "Shop no. 108 A, Shahpur Jat, Delhi - 110049, Dda Flat",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2156,
+        28.54725
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718322062"
+  },
+  null
+
+,
+
+  null,
+  {
+    "name": "Rahul General Store",
+    "phone": "+(91)-9868264773",
+    "address": "Sarita Vihar,New Delhi, Malviya Nagar, Delhi - 110017, Kohli Properties",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.202333,
+        28.542833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868264773"
+  },
+  {
+    "name": "AK Provision Store",
+    "phone": "+(91)-9650329004",
+    "address": "Shop No 163/3, Masjid Moth, South Extension 2, Delhi - 110049",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219597,
+        28.56272
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650329004"
+  },
+  {
+    "name": "J J General Store",
+    "phone": "+(91)-7838220121",
+    "address": "221, South Extension 2, Delhi - 110049, Majid Moth, Near Lila Ram Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218645,
+        28.564509
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838220121"
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Amit Store",
+    "phone": "+(91)-9555777892",
+    "address": "59, Kalu sarai market, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Near Masjid",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203087,
+        28.542213
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9555777892"
+  },
+  null
+
+,
+
+  {
+    "name": "Navneet General Store",
+    "phone": "+(91)-9650746832",
+    "address": "26,sarvapriya vihar, Hauz Khas, Delhi - 110016, DDA Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206812,
+        28.542262
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650746832"
+  },
+  {
+    "name": "Pravesh General Store",
+    "phone": "+(91)-8287237690",
+    "address": "Shop No 406, Masjid Moth, South Extension 2, Delhi - 110049, Lela ram Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219528,
+        28.564158
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8287237690"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Deeps store",
+    "phone": "+(91)-9971005769",
+    "address": "72, Mohammad Pur-Bhikaji Cama Place, Delhi - 110066, Behind mohammadpur bus stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.188833,
+        28.564833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971005769"
+  },
+  {
+    "name": "JK Provision General Store",
+    "phone": "+(91)-8447867877",
+    "address": "65A/1, Kalu Sarai, Sarvpriya Vihar, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204087,
+        28.541745
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447867877"
+  },
+  {
+    "name": "Bansal Store",
+    "phone": "+(91)-9871563905",
+    "address": "107/108, Kalu Sarai market, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Near Made Easy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204345,
+        28.54168
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871563905"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "Koshi Store",
+    "phone": "+(91)-9015977715",
+    "address": "261, Shahpur Jat, Shahpur Jat, Delhi - 110049, World Of Pets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218955,
+        28.54835
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9015977715"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Om Hari provision Store",
+    "phone": "+(91)-9717576646",
+    "address": "39, Main Road, Mohammad Pur-Bhikaji Cama Place, Delhi - 110066, Near ram mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.188667,
+        28.5655
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717576646"
+  },
+  {
+    "name": "Om Hari Provision Store",
+    "phone": "+(91)-8287072530",
+    "address": "Shop no-39, Main Road, Mohammadpur, Delhi - 110066, Nea Bus Stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.188667,
+        28.5655
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8287072530"
+  },
+  null,
+  {
+    "name": "Ram Shree Stop Shop",
+    "phone": "+(91)-9999714137",
+    "address": "Shop no:- 371, Masjid moth, South Extension 2, Delhi - 110049, Near Radha Krishna Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.220695,
+        28.564103
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999714137"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "Shree Krishna Store",
+    "phone": "+(91)-9810767795",
+    "address": "shop no 2, jia sarai market, Jia Sarai-IIT Delhi, Delhi - 110016, besides medical store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.189705,
+        28.546392
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810767795"
+  },
+  null,
+  {
+    "name": "Pankaj Store",
+    "phone": "+(91)-8800487801",
+    "address": "Shop No 3, Mohammadpur, Delhi - 110066, Near Lalit Store, Mohammadpur Village",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.187167,
+        28.566
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800487801"
+  },
+  {
+    "name": "Goyal Store",
+    "phone": "+(91)-9953066490",
+    "address": "H 18, Jia Saria market, Jia Sarai-IIT Delhi, Delhi - 110016, Near IIT Delhi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.188713,
+        28.546433
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953066490"
+  },
+  {
+    "name": "Chai pani sutta",
+    "phone": "+(91)-7838162023",
+    "address": "shop no- 1 DDA flat panch sheel, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21177,
+        28.540728
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838162023"
+  },
+  {
+    "name": "Sharma grocery store",
+    "phone": "+(91)-8750003686",
+    "address": "Shop no-1, Main Jia Saray Market, Jia Sarai-IIT Delhi, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.189278,
+        28.545142
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8750003686"
+  },
+  null,
+  {
+    "name": "Kushal Store",
+    "phone": "+(91)-9958740309",
+    "address": "Shop No 4, Indira Market, Tamil Sangam Marg, Rk Puram Sector 6, Delhi - 110022, Opposite C N G Pump",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.183944,
+        28.555303
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958740309"
+  },
+  {
+    "name": "Maya store",
+    "phone": "+(91)-9910172107",
+    "address": "Shop no e-128, Mohammadpur, Delhi - 110066, Near shiv mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186333,
+        28.565833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910172107"
+  },
+  {
+    "name": "Sharma Store",
+    "phone": "+(91)-9958829378",
+    "address": "B-130, Gautam Nagar, Delhi - 110049, Near Kumar Property, Gautam Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221748,
+        28.56645
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958829378"
+  }
+
+,
+
+  null,
+  {
+    "name": "Pardeep Store",
+    "phone": "+(91)-9899048211",
+    "address": "67, Shahpur Jat, Shahpur Jat, Delhi - 110049, Purani Chopal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221748,
+        28.56645
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899048211"
+  },
+  {
+    "name": "Kanhiya Store",
+    "phone": "+(91)-9211309560",
+    "address": "51, Shahpur Jat, Shahpur Jat, Delhi - 110049, Govt. School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221748,
+        28.56645
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211309560"
+  },
+  {
+    "name": "JAY Ram Store",
+    "phone": "+(91)-9868006256",
+    "address": "330, Shahpur Jat, Shahpur Jat, Delhi - 110049, Dilip Singh Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221748,
+        28.56645
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868006256"
+  },
+  {
+    "name": "Foji Store",
+    "phone": "+(91)-9611970368",
+    "address": "138/1, Shahpur Jat, Shahpur Jat, Delhi - 110049, Samsung Store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221748,
+        28.56645
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9611970368"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Pawan Store",
+    "phone": "+(91)-9560704742",
+    "address": "Shop No 10, Sec 6 Rk Puram, R K Puram, Delhi - 110022, Near CNG Pump",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.183654,
+        28.554836
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560704742"
+  },
+  {
+    "name": "Anil super shopee",
+    "phone": "+(91)-9540517947",
+    "address": "F-128, Mohammadpur, Delhi - 110066, Opposite car parking",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1855,
+        28.565333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540517947"
+  }
+
+,
+
+  {
+    "name": "Deepak store",
+    "phone": "+(91)-9999491250",
+    "address": "Shop no 139, Mohammadpur, Delhi - 110066, Near car parking",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186,
+        28.566333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999491250"
+  },
+  {
+    "name": "Sandeep Store",
+    "phone": "+(91)-9873583852",
+    "address": "64,begum pour, Begumpur, Delhi - 110017, Near shivmandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207333,
+        28.538833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873583852"
+  },
+  null,
+  null,
+  {
+    "name": "Tiwari General Store",
+    "phone": "+(91)-9810058277",
+    "address": "S No-7, R K Puram, Delhi - 110022, Sec-3",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.18257,
+        28.55452
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810058277"
+  },
+  {
+    "name": "Mayank general store",
+    "phone": "+(91)-9910592346",
+    "address": "47a,beghampur, Malviya Nagar, Delhi - 110017, Near shiv mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207353,
+        28.537908
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910592346"
+  },
+  {
+    "name": "Manish general store",
+    "phone": "+(91)-9911744630",
+    "address": "Begampur,313, Malviya Nagar, Delhi - 110017, Near mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207467,
+        28.537908
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911744630"
+  },
+  null,
+  {
+    "name": "A k enterprises",
+    "phone": "+(91)-8447228747",
+    "address": "134-a/1, Begumpur park, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.209258,
+        28.538072
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447228747"
+  },
+  {
+    "name": "Point Store",
+    "phone": "+(91)-8802505115",
+    "address": "267, Shahpur Jat, Shahpur Jat, Delhi - 110049, Ncba Exports (P) Ltd",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.220995,
+        28.570714
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8802505115"
+  }
+
+,
+
+  null,
+  {
+    "name": "Sagar General Store",
+    "phone": "+(91)-9818995723",
+    "address": "Shop no. 113, Aurobindo marg, Adchini-Sarvodaya Enclave, Delhi - 110017, Near Govardhan Restaurant",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.198303,
+        28.537763
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818995723"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Real Departmental Store",
+    "phone": "+(91)-9540857486",
+    "address": "I-196, Main road, Savitri Nagar-Sheikh Sarai, Delhi - 110017, Opposite Panchsheel Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218833,
+        28.541
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540857486"
+  },
+  {
+    "name": "Anand Confectionery",
+    "phone": "+(91)-9818732561",
+    "address": "C1 housing society, South Extension 1, Delhi - 110049, Near ALLAHABAD BANK",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.223333,
+        28.569333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818732561"
+  },
+  null,
+  {
+    "name": "Aggarwal Tea Stall",
+    "phone": "+(91)-9811955332",
+    "address": "11/1, Malviya Nagar, Delhi - 110017, Savitri Ngr",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.217667,
+        28.54
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811955332"
+  },
+  {
+    "name": "Rakesh Store",
+    "phone": "+(91)-9717558424",
+    "address": "F-70, katwaria sarai market, Katwaria Sarai, Delhi - 110016, Near panchayat Garh",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.187775,
+        28.54208
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717558424"
+  }
+
+,
+
+  {
+    "name": "Purple Lillies Retail Pvt Ltd",
+    "phone": "+(91)-9136666577",
+    "address": "58 A, Ground Floor, Adchini-Sarvodaya Enclave, Delhi - 110017, Near IIT Gate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.198306,
+        28.536953
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9136666577"
+  },
+  {
+    "name": "Ahuja Telecom",
+    "phone": "+(91)-9899470212",
+    "address": "X 220, Main Road, Malviya Nagar, Delhi - 110017, Opposite Maruti Showroom, Savitri Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21675,
+        28.539342
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899470212"
+  },
+  null,
+  {
+    "name": "Mukesh Store",
+    "phone": "+(91)-9873739890",
+    "address": "F/27, Katwaria Sarai, Delhi - 110016, Near Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186167,
+        28.543167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873739890"
+  },
+  {
+    "name": "Hari Ram Baghel General Store",
+    "phone": "+(91)-9999567368",
+    "address": "Shop No.4, Sadiq Nagar, Delhi - 110049, Opp.Ansal Plaza",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.228255,
+        28.558708
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999567368"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "S K STORE",
+    "phone": "+(91)-9990590464",
+    "address": "Shop no 12/78, Main road, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1875,
+        28.541833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990590464"
+  },
+  {
+    "name": "Jaiswal store",
+    "phone": "+(91)-9999613821",
+    "address": "P-57, Sarojini Nagar, Delhi - 110023, Pillanji village",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.201167,
+        28.578333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999613821"
+  }
+
+,
+
+  {
+    "name": "Amar Store",
+    "phone": "+(91)-7503646532",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016, Near J. N. U.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181765,
+        28.549095
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7503646532"
+  },
+  null,
+  {
+    "name": "Chaudhary Super Store",
+    "phone": "+(91)-9871367155",
+    "address": "Shop No.5, Main Road, Malviya Nagar, Delhi - 110017, Old Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212372,
+        28.537013
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871367155"
+  },
+  null,
+  {
+    "name": "Janta store",
+    "phone": "+(91)-9818401354",
+    "address": "Shop no D-55, Dda park road, South Extension 1, Delhi - 110049, Near union bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.22062,
+        28.573162
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818401354"
+  },
+  {
+    "name": "Sachin traders",
+    "phone": "+(91)-9873307262",
+    "address": "Shop no f108, Well no 3, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.187667,
+        28.541333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873307262"
+  },
+  {
+    "name": "KFBP",
+    "phone": "+(91)-9350245628",
+    "address": "F 109, katwaria sarai market, Katwaria Sarai, Delhi - 110016, near coopretive centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.187058,
+        28.541805
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350245628"
+  },
+  {
+    "name": "Mama general store",
+    "phone": "+(91)-8285688753",
+    "address": "Shop no 91, Main road, Katwaria Sarai, Delhi - 110016, Near well no 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185928,
+        28.542788
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8285688753"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "DMS",
+    "phone": "+(91)-9971653507",
+    "address": "669, 669, Sarojini Nagar, Delhi - 110023",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.191,
+        28.5755
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971653507"
+  },
+  null,
+  {
+    "name": "Kartika General Store",
+    "phone": "+(91)-8144826703",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016, Near J. N. U.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8144826703"
+  },
+  {
+    "name": "Singhla Store",
+    "phone": "+(91)-9818255398",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818255398"
+  },
+  {
+    "name": "SAI General Store",
+    "phone": "+(91)-9718727163",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016, Near J. N. U.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718727163"
+  },
+  {
+    "name": "Pawar General Store",
+    "phone": "+(91)-9968651895",
+    "address": "Shop No 7a, Ber Sarai, Delhi - 110016, Near Easy Made Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968651895"
+  },
+  {
+    "name": "Aggarwal General Store",
+    "phone": "+(91)-9268388955",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9268388955"
+  },
+  {
+    "name": "R. C. Bansal Store",
+    "phone": "+(91)-9250951854",
+    "address": "Ber Sarai, Ber Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9250951854"
+  },
+  {
+    "name": "KBCY",
+    "phone": "+(91)-7428467771",
+    "address": "Shop No.C-3, Main Market, Malviya Nagar, Delhi - 110017, Near Moti Sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211937,
+        28.536483
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7428467771"
+  },
+  null
+
+,
+
+  {
+    "name": "Cas Hospitality",
+    "phone": "+(91)-9811165781",
+    "address": "B-11, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1851,
+        28.5432
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811165781"
+  },
+  {
+    "name": "Ramesh Genral Store",
+    "phone": "+(91)-9313755117",
+    "address": "F-138, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1851,
+        28.5432
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313755117"
+  },
+  {
+    "name": "Rakesh Store",
+    "phone": "+(91)-9250865184",
+    "address": "44, Shahpur Jat, Shahpur Jat, Delhi - 110049, High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224055,
+        28.570407
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9250865184"
+  },
+  {
+    "name": "Goyal Store",
+    "phone": "+(91)-9811192549",
+    "address": "Shahpur Jat, Shahpur Jat, Delhi - 110049, Hari Jan Chopal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224055,
+        28.570407
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811192549"
+  },
+  {
+    "name": "Goyal Store",
+    "phone": "+(91)-9211806046",
+    "address": "43, Shahpur Jat, Shahpur Jat, Delhi - 110049, High School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224055,
+        28.570407
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211806046"
+  },
+  {
+    "name": "Super store",
+    "phone": "+(91)-9810339205",
+    "address": "Shop no 1810, Kotla Mubarakpur, Delhi - 110003, Near south ex part 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221333,
+        28.573167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810339205"
+  },
+  {
+    "name": "Aryan store",
+    "phone": "+(91)-8447653082",
+    "address": "Shop no  f67, Main road, Katwaria Sarai, Delhi - 110016, Near well no 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1855,
+        28.542667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447653082"
+  },
+  {
+    "name": "Jain departmental store",
+    "phone": "+(91)-7838981438",
+    "address": "Shop no 16, katwaria sarai market, Katwaria Sarai, Delhi - 110016, Near panchayat Garh",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.187912,
+        28.540478
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838981438"
+  },
+  {
+    "name": "Madan Store",
+    "phone": "+(91)-9999080805",
+    "address": "1820, Kotla Mubarak, New Delhi, Gurudwara Road, Kotla Mubarakpur, Delhi - 110003, Near Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2241666666,
+        28.5705555555
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999080805"
+  },
+  {
+    "name": "Bhanwar singh and sons",
+    "phone": "+(91)-9999799450",
+    "address": "Shop no 1825/4, Udai chand marg, Kotla Mubarakpur, Delhi - 110003, Near gurudwara road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.223667,
+        28.571167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999799450"
+  }
+
+,
+
+  {
+    "name": "Harmilapi store",
+    "phone": "+(91)-7838315191",
+    "address": "Shop n 27, Main market, Malviya Nagar, Delhi - 110017, Behind moti sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212013,
+        28.536197
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838315191"
+  },
+  null,
+  {
+    "name": "Tapasya Gernal store",
+    "phone": "+(91)-9873999584",
+    "address": "1525, Wazir Nagar, Kotla Mubarakpur, Kotla Mubarakpur, Delhi - 110003, Near patwar ghar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.225272,
+        28.569692
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873999584"
+  },
+  null,
+  null,
+  {
+    "name": "Kanika Store",
+    "phone": "+(91)-9818781130",
+    "address": "1515/3-A lower Ground Floor, Main Road, Kotla Mubarakpur, Delhi - 110003, Opp Axis Bank, defence colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226005,
+        28.569095
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818781130"
+  },
+  {
+    "name": "Sharma Store",
+    "phone": "+(91)-9717962240",
+    "address": "1515/3 Ground Floor, Wazir Nagar, Kotla Mubarakpur, Delhi - 110003, Next to sweet palace",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.22612,
+        28.56895
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717962240"
+  },
+  null,
+  null,
+  null
+
+,
+
+  null,
+  {
+    "name": "Millan Food & Vegetable",
+    "phone": "+(91)-9891786537",
+    "address": "Malviya Nagar, Delhi - 110017, Ramji LAL Mkt,Pushp Vihar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212636,
+        28.535747
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891786537"
+  },
+  {
+    "name": "Gaurav General Store",
+    "phone": "+(91)-9899007516",
+    "address": "J-4/49a, Khirki Extention, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212636,
+        28.535747
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899007516"
+  },
+  null,
+  {
+    "name": "Raju General Store",
+    "phone": "+(91)-9540308293",
+    "address": "164, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186054,
+        28.540987
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540308293"
+  },
+  {
+    "name": "Parvatia Store",
+    "phone": "+(91)-9811696427",
+    "address": "Shop No  .-2, Dda Mini Market, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186054,
+        28.540987
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811696427"
+  },
+  {
+    "name": "Mukesh Store",
+    "phone": "+(91)-9873739810",
+    "address": "F-27, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186054,
+        28.540987
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873739810"
+  },
+  {
+    "name": "Mishra Store",
+    "phone": "+(91)-9582314008",
+    "address": "F-27, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.186054,
+        28.540987
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582314008"
+  },
+  {
+    "name": "Akash store",
+    "phone": "+(91)-8287562295",
+    "address": "Shop no.1511/1, Kotla Mubarakpur, Delhi - 110003, Gurudwara road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226,
+        28.5695
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8287562295"
+  },
+  {
+    "name": "Shri Sai General Store",
+    "phone": "+(91)-9818910344",
+    "address": "P-231, Pillanji, Sarojini Nagar, Delhi - 110023, Near PNB ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.199883,
+        28.579675
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818910344"
+  }
+
+,
+
+  {
+    "name": "Vijay store",
+    "phone": "+(91)-9958061477",
+    "address": "Shop no 1660, Bapu park, Kotla Mubarakpur, Delhi - 110003, Near bapu park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.222667,
+        28.573333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958061477"
+  },
+  null,
+  null,
+  {
+    "name": "Tara store",
+    "phone": "+(91)-8130787846",
+    "address": "1417, Wazir nagar, Kotla Mubarakpur, Delhi - 110003, Near gurudwara road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224833,
+        28.571333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8130787846"
+  },
+  null,
+  null,
+  {
+    "name": "Sree Krishna Store",
+    "phone": "+(91)-9868611762",
+    "address": "Shop No- 231, Ina Market, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178112,
+        28.560176
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868611762"
+  },
+  null,
+  null,
+  {
+    "name": "V S Traders",
+    "phone": "+(91)-9654655444",
+    "address": "943/B, Kotla Mubarakpur, Delhi - 110003, Arjun Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.222502,
+        28.574149
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654655444"
+  }
+
+,
+
+  null,
+  {
+    "name": "Sagar Store",
+    "phone": "+(91)-9213162796",
+    "address": "1407,, Gurudwara Road, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2250137222,
+        28.5717716111
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213162796"
+  },
+  null,
+  {
+    "name": "Nishant bakeries",
+    "phone": "+(91)-8127782933",
+    "address": "Shop No- D-88, Street No-10, Katwaria Sarai, Delhi - 110016, Near Well No- 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1855,
+        28.5405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8127782933"
+  },
+  {
+    "name": "Shukla store",
+    "phone": "+(91)-9718740773",
+    "address": "Shop no a124, Main road, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185,
+        28.540833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718740773"
+  },
+  {
+    "name": "S negi general store",
+    "phone": "+(91)-9717688354",
+    "address": "A125, Shaheed jeet Singh marg, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185,
+        28.540833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717688354"
+  },
+  {
+    "name": "Pushpa store",
+    "phone": "+(91)-8285220672",
+    "address": "F123, Main road, Katwaria Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.184833,
+        28.540833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8285220672"
+  },
+  null,
+  {
+    "name": "Up dairy",
+    "phone": "+(91)-9555703676",
+    "address": "Shop no b23, Babu park, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221833,
+        28.575167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9555703676"
+  },
+  null
+
+,
+
+  {
+    "name": "Shivalik grocers",
+    "phone": "+(91)-9212662897",
+    "address": "B-7, Shivalik, Shivalik-Malviya Nagar, Delhi - 110017, Near apple store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206588,
+        28.533608
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9212662897"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Ahuja Rice Shop",
+    "phone": "+(91)-9717263814",
+    "address": "Shop No 115, Main market, Ina Market, Delhi - 110022, Oppsite Dilli Haat",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178551,
+        28.565205
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717263814"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Girdhari lal corner",
+    "phone": "+(91)-9716122806",
+    "address": "Shop no -2, Main DDA market, Munirka, Delhi - 110067, Near capital court",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.176422,
+        28.55532
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716122806"
+  },
+  null
+
+,
+
+  {
+    "name": "PUNJAB DAIRY",
+    "phone": "+(91)-9999513559",
+    "address": "Shop No.T 7, Krishna Mandir Road, Khirki-Malviya Nagar, Delhi - 110017, Near Aakash Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.214417,
+        28.534412
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999513559"
+  },
+  {
+    "name": "Shri Ganesh General Store",
+    "phone": "+(91)-8375885090",
+    "address": "E-6/11,12 , Shop no. 4, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207833,
+        28.532908
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8375885090"
+  },
+  {
+    "name": "Aggarwal Kiryana Store",
+    "phone": "+(91)-9266323947",
+    "address": "968, Kotla Mubarakpur, New Delhi, Gurudwara Road, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2256927222,
+        28.5729274722
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9266323947"
+  },
+  {
+    "name": "Annapurna store",
+    "phone": "+(91)-7838215094",
+    "address": "12/32, Nehru market, Malviya Nagar, Delhi - 110017, Near by gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2099,
+        28.533325
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838215094"
+  },
+  {
+    "name": "Khandelwal bros",
+    "phone": "+(91)-9871819081",
+    "address": "Shop no 1464/1, Kotla Mubarakpur, Delhi - 110003, Ner gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.225667,
+        28.573
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871819081"
+  },
+  {
+    "name": "hind raj store",
+    "phone": "+(91)-9971882645",
+    "address": "Shop no 967, Gurdwara road, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.225667,
+        28.573
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971882645"
+  },
+  null,
+  {
+    "name": "R. K store",
+    "phone": "+(91)-9871311776",
+    "address": "Shop n 4, Main road, Malviya Nagar, Delhi - 110017, Main road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207467,
+        28.532758
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871311776"
+  },
+  {
+    "name": "Wadhawa store",
+    "phone": "+(91)-9711510646",
+    "address": "L 58, Malviya Nagar, Delhi - 110017, Malviya Nagar Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210153,
+        28.53303
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711510646"
+  },
+  {
+    "name": "KBS fair price",
+    "phone": "+(91)-9968418691",
+    "address": "shop No- L 58A ground floor, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210197,
+        28.53303
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968418691"
+  }
+
+,
+
+  {
+    "name": "Goyal General Store",
+    "phone": "+(91)-9971032417",
+    "address": "526 A, Subhash Market, Kotla Mubarakpur, Delhi - 110003, Sambhu Dayal Kirana Store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224333,
+        28.574833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971032417"
+  },
+  {
+    "name": "Brijwasi store",
+    "phone": "+(91)-9873979463",
+    "address": "526, Subhash Market, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224333,
+        28.574833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873979463"
+  },
+  {
+    "name": "Manoj store",
+    "phone": "+(91)-8586842078",
+    "address": "Shop no 961, Kotla Mubarakpur, Delhi - 110003, Near main road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.227,
+        28.572333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8586842078"
+  },
+  null,
+  null,
+  {
+    "name": "Sunil store",
+    "phone": "+(91)-9211614909",
+    "address": "2/15, Lene, Malviya Nagar, Delhi - 110017, Nrar Krishna mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.209288,
+        28.532297
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211614909"
+  },
+  null,
+  null,
+  {
+    "name": "Universal Enterprises- Sahara ...",
+    "phone": "+(91)-9910126063",
+    "address": "Sahara Q Shop, Malviya Nagar, Delhi - 110017, E - 7/11 Malavia Nagar Near Git Bhavan",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910126063"
+  },
+  {
+    "name": "Suman Store",
+    "phone": "+(91)-9313689283",
+    "address": "E12/39, Haus Rani Gali, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313689283"
+  }
+
+,
+
+  null,
+  {
+    "name": "K. B. S. Fair Prince",
+    "phone": "+(91)-9582310436",
+    "address": "90/31, Malviya Nagar, Delhi - 110017, Opp. ITI College",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582310436"
+  },
+  {
+    "name": "Nashim General Store",
+    "phone": "+(91)-9953701938",
+    "address": "230, Hauz Rani, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953701938"
+  },
+  {
+    "name": "Sakil Store",
+    "phone": "+(91)-9310768395",
+    "address": "F12/12, Haus Rani Gali, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9310768395"
+  },
+  {
+    "name": "Sahil Store",
+    "phone": "+(91)-9313091450",
+    "address": "F12/13, Haus Rani, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313091450"
+  },
+  {
+    "name": "Annu General Store",
+    "phone": "+(91)-9891843149",
+    "address": "11-A/2, Hauz Rani, Malviya Nagar, Delhi - 110017, Near Jahan Panah Colony",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891843149"
+  },
+  {
+    "name": "Aadil General Store",
+    "phone": "+(91)-9899438783",
+    "address": "A11/9b, Haus Rani Gali, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899438783"
+  },
+  {
+    "name": "Ajaj General Store",
+    "phone": "+(91)-9313397996",
+    "address": "Haus Rani, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313397996"
+  },
+  {
+    "name": "R R Hira",
+    "phone": "+(91)-9717013269",
+    "address": "D-631, Netaji Nagar, Delhi - 110023, Near Jhanda Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.188163,
+        28.578367
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717013269"
+  },
+  {
+    "name": "Delip store",
+    "phone": "+(91)-9811796857",
+    "address": "123, Malviya Nagar, Delhi - 110017, Near max hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210228,
+        28.5323
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811796857"
+  }
+
+,
+
+  {
+    "name": "Anjana apna bazar",
+    "phone": "+(91)-9999340085",
+    "address": "#3, Ccs suvidha mrkt, Netaji Nagar, Delhi - 110023, Choti mrkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1865,
+        28.5775
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999340085"
+  },
+  {
+    "name": "Goyal store",
+    "phone": "+(91)-9910686849",
+    "address": "#1, Suvidha market, Netaji Nagar, Delhi - 110023, Choti market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1865,
+        28.5775
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910686849"
+  },
+  {
+    "name": "Green Chick Chop",
+    "phone": "+(91)-9999243483",
+    "address": "Shop No 9, Dda Shopping Centre, Munirka, Delhi - 110067, Behind Canara Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175125,
+        28.555562
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999243483"
+  },
+  {
+    "name": "Deepak Store",
+    "phone": "+(91)-9213139709",
+    "address": "Shop No 8, Kashmiri Market, Mandir Marg,, Saket, Delhi,, Saket, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207451,
+        28.531799
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213139709"
+  },
+  {
+    "name": "Store store",
+    "phone": "+(91)-9971841734",
+    "address": "D 67, Main market, Munirka, Delhi - 110067, Opposit Canara Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174958,
+        28.555653
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971841734"
+  },
+  {
+    "name": "Goyel Provision Store",
+    "phone": "+(91)-9871248488",
+    "address": "109, Punjbi Bazar, Kotla Mubarakpur, Delhi - 110003, Naresh Jewellers",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.225438,
+        28.575082
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871248488"
+  },
+  {
+    "name": "Mishra masala",
+    "phone": "+(91)-8287185561",
+    "address": "Main mkt begumpur, Begumpur, Delhi - 110017, Opp. Sect-22 rohini",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.209706,
+        28.531772
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8287185561"
+  },
+  null,
+  {
+    "name": "Poonam General Store",
+    "phone": "+(91)-9456449856",
+    "address": "Main road market, Near Capital court, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174713,
+        28.554937
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9456449856"
+  },
+  {
+    "name": "Gupta Store",
+    "phone": "+(91)-9990107052",
+    "address": "K D Colony,R K Puram Sector - 12, RK Puram Sector 12, Delhi - 110022, Near Kanak Durga Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.17629,
+        28.56595
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990107052"
+  }
+
+,
+
+  {
+    "name": "Dinky General Store",
+    "phone": "+(91)-9654980385",
+    "address": "J4/20, Khirki Extention, Malviya Nagar, Delhi - 110017, Near Krishna Mander",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215667,
+        28.533167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654980385"
+  },
+  {
+    "name": "Hari OM General Store",
+    "phone": "+(91)-9958127457",
+    "address": "T-12 Khirki Extn., Khirki Extn. Malviya Nagar, Malviya Nagar, Delhi - 110017, Near Krishna Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.214783,
+        28.532755
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958127457"
+  },
+  null,
+  {
+    "name": "Shushil Grocery Store",
+    "phone": "+(91)-9899768024",
+    "address": "Store no-49, Main market munirka, Munirka, Delhi - 110067, Near hanuman mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1743,
+        28.55922
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899768024"
+  },
+  {
+    "name": "Shubham Store",
+    "phone": "+(91)-9868899009",
+    "address": "Shop no.JC/40, Khirki Extention, Malviya Nagar, Delhi - 110017, Near Select City Mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218667,
+        28.534167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868899009"
+  },
+  {
+    "name": "Bablu general store",
+    "phone": "+(91)-9971213881",
+    "address": "232, Munirka, Delhi - 110067, Near bus stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174167,
+        28.556833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971213881"
+  },
+  {
+    "name": "shri shaam general store",
+    "phone": "+(91)-9899688951",
+    "address": "shop no,33, prateek market, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174295,
+        28.554312
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899688951"
+  },
+  null,
+  null,
+  {
+    "name": "Laxmi Store",
+    "phone": "+(91)-9654390398",
+    "address": "Shop No 9, Zamrudpur, Zamrudpur-Greater Kailash I, Delhi - 110048, Near Choti Chaupal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.233852,
+        28.551981
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654390398"
+  }
+
+,
+
+  null,
+  {
+    "name": "Raj Store",
+    "phone": "+(91)-9911509058",
+    "address": "165 Ekta Vihar Sec 6, Rk Puram, RK Puram Sector 6, Delhi - 110022, Near Asha Dispensory",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911509058"
+  },
+  {
+    "name": "Vicky Corner",
+    "phone": "+(91)-9560382566",
+    "address": "Shop-4, Sec-1 Rk Puram, R K Puram, Delhi - 110022, NCR Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560382566"
+  },
+  {
+    "name": "S. P. Sharma General Store",
+    "phone": "+(91)-9871173341",
+    "address": "R. K. Puram, Sector-5, Rk Puram Sector-5, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871173341"
+  },
+  {
+    "name": "Abdul Wahid",
+    "phone": "+(91)-8826619083",
+    "address": "Lbs Colony, RK Puram Sector 7, Delhi - 110022, Mkt-2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826619083"
+  },
+  {
+    "name": "Sunny Store",
+    "phone": "+(91)-9650563536",
+    "address": "393, Rk Puram Sec 6, R K Puram, Delhi - 110022, Sunday Bazar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650563536"
+  },
+  {
+    "name": "Munni Store",
+    "phone": "+(91)-9910974643",
+    "address": "2291/9, Soniya Gandhi Camp, RK Puram Sector 7, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910974643"
+  },
+  {
+    "name": "Khandelwal Store",
+    "phone": "+(91)-9582073657",
+    "address": "Shop No 341, R K Puram, Delhi - 110022, Near Asha Dispensary, Ambedkar Basti",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582073657"
+  },
+  {
+    "name": "Iqbal Store",
+    "phone": "+(91)-8130665881",
+    "address": "Ekta Vihar Sec-6, RK Puram Sector 6, Delhi - 110022, Near Khushbu Beauty Parlor",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175552,
+        28.566151
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8130665881"
+  },
+  null
+
+,
+
+  null,
+  null,
+  {
+    "name": "Modi Store-Sahara Q Shop",
+    "phone": "+(91)-9211731258",
+    "address": "Sahara Q Shop, Gitanjali Enclave-Malviya Nagar, Delhi - 110017, Wz 61 Gali No2, Lajwanti Garden, Near Tihar Jail",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.20275,
+        28.530261
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211731258"
+  },
+  {
+    "name": "Shaeen store",
+    "phone": "+(91)-9278125658",
+    "address": "T-64, Hauz rani, Malviya Nagar, Delhi - 110017, Krishna mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.214837,
+        28.531905
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9278125658"
+  },
+  {
+    "name": "Sri ram deparmental store",
+    "phone": "+(91)-9560410251",
+    "address": "Shop no a-110, Sukhdev market, Kotla Mubarakpur, Delhi - 110003, Near gurudwara road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2275,
+        28.575167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560410251"
+  },
+  {
+    "name": "Gupta Store",
+    "phone": "+(91)-9810786340",
+    "address": "H12/16, Malviya Nagar, Delhi - 110017, Near Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.228404,
+        28.540252
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810786340"
+  },
+  null,
+  {
+    "name": "Delhi Fruit & Vegetables Store",
+    "phone": "+(91)-9871786139",
+    "address": "Gate Number 3, R K Puram, Delhi - 110022, Sector 7",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175164,
+        28.566884
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871786139"
+  },
+  {
+    "name": "Guru Nanak Bhandar",
+    "phone": "+(91)-9718949718",
+    "address": "Shop No.9, R K Puram, Delhi - 110022, Sector 4, Rk Puram",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175164,
+        28.566884
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718949718"
+  },
+  null
+
+,
+
+  {
+    "name": "Super store",
+    "phone": "+(91)-9910031212",
+    "address": "Shop No 1 Market No 2, Munirka, Delhi - 110067, Near Jd Tetler School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.173833,
+        28.5515
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910031212"
+  },
+  {
+    "name": "Jagdamba store",
+    "phone": "+(91)-9899079582",
+    "address": "A114, Shop No 2, Panchsheel Vihar, Malviya Nagar, Delhi - 110017, Near Wine Shop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.222,
+        28.534833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899079582"
+  },
+  null,
+  null,
+  {
+    "name": "Vijay Store",
+    "phone": "+(91)-9871320827",
+    "address": "Shop No. 11, Sector. 6 Market, R K Puram, Delhi - 110022, Near Mother Dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1739369681,
+        28.5644815309
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871320827"
+  },
+  {
+    "name": "Mukul Store",
+    "phone": "+(91)-9911503167",
+    "address": "Shop No 1, Rk Puram Sec 12, RK Puram Sector 12, Delhi - 110022, Near Kanak Durga Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172827,
+        28.556345
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911503167"
+  },
+  null,
+  null,
+  null,
+  null
+
+,
+
+  {
+    "name": "Pratap general store",
+    "phone": "+(91)-9911509518",
+    "address": "89, Zamrudpur, Zamrudpur-Greater Kailash I, Delhi - 110048, Near Skin Institute",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.235833,
+        28.5575
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911509518"
+  },
+  {
+    "name": "Om prakash Vinod kumar",
+    "phone": "+(91)-9910021124",
+    "address": "Shop no F9/2, ., Malviya Nagar, Delhi - 110017, near goal chakkar bus stop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.208328,
+        28.529642
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910021124"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Krishna store",
+    "phone": "+(91)-9873036536",
+    "address": "Shop No. 268 f/20, Hauz Rani, Malviya Nagar, Delhi - 110017, Main road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210005,
+        28.52975
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873036536"
+  },
+  {
+    "name": "Gopal Store",
+    "phone": "+(91)-9718022088",
+    "address": "N Block Market ,G K 1, Greater Kailash I, Delhi - 110048, Near Bhandora House",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.232552,
+        28.544399
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718022088"
+  },
+  {
+    "name": "Randeer Store",
+    "phone": "+(91)-9968326642",
+    "address": "Shop No 9, Zamrudpur, Zamrudpur-Greater Kailash I, Delhi - 110048, Near Choti Chaupal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.232552,
+        28.544399
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968326642"
+  },
+  {
+    "name": "Rajesh Store",
+    "phone": "+(91)-9015698996",
+    "address": "House No. 18, Zamrudur, Zamrudpur-Greater Kailash I, Delhi - 110048, Choti Chopal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.232552,
+        28.544399
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9015698996"
+  },
+  null
+
+,
+
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "KIM Stores",
+    "phone": "+(91)-9899502606",
+    "address": "150-A, Munirka, Munirka, Delhi - 110067, Near Babulal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899502606"
+  },
+  {
+    "name": "Jain Store",
+    "phone": "+(91)-9015404045",
+    "address": "Munirika Village, Munirka, Delhi - 110067, Near Mansa Ram Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9015404045"
+  },
+  {
+    "name": "Sitaram General Store",
+    "phone": "+(91)-9971417681",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971417681"
+  },
+  {
+    "name": "Suvidha Enterprises",
+    "phone": "+(91)-9312242710",
+    "address": "187, Munirka, Munirka, Delhi - 110067, Near Rama Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312242710"
+  },
+  {
+    "name": "Tripathi Store",
+    "phone": "+(91)-9899013177",
+    "address": "Rama Market, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899013177"
+  },
+  {
+    "name": "Bindal Provisional Store",
+    "phone": "+(91)-9818824202",
+    "address": "A-73/4,, Baba Gangnath Market, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818824202"
+  }
+
+,
+
+  null,
+  {
+    "name": "Rajesh Genereal Store",
+    "phone": "+(91)-9582147907",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582147907"
+  },
+  {
+    "name": "Randhir Store",
+    "phone": "+(91)-9818985692",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818985692"
+  },
+  {
+    "name": "Indresh General Store",
+    "phone": "+(91)-9289339095",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9289339095"
+  },
+  {
+    "name": "Harfool Store",
+    "phone": "+(91)-7838998611",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838998611"
+  },
+  {
+    "name": "Sikha General Store",
+    "phone": "+(91)-9899658930",
+    "address": "Baba Ganganath Market, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899658930"
+  },
+  null,
+  {
+    "name": "Harfool Store",
+    "phone": "+(91)-9990763347",
+    "address": "Munirka Village, Munirka, Delhi - 110067, Near Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990763347"
+  },
+  {
+    "name": "Rizwan Store",
+    "phone": "+(91)-9278475852",
+    "address": "Munirka Village, Munirka, Delhi - 110067, Near Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9278475852"
+  },
+  null
+
+,
+
+  {
+    "name": "Dhanajai General Store",
+    "phone": "+(91)-9958906035",
+    "address": "Munirka Village, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958906035"
+  },
+  {
+    "name": "Sukh Ram Store",
+    "phone": "+(91)-8860754874",
+    "address": "Munirka, Delhi - 110067, Near Babulal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860754874"
+  },
+  {
+    "name": "Pooja Store",
+    "phone": "+(91)-9990832452",
+    "address": "Munirka, Delhi - 110067, Near Babulal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990832452"
+  },
+  {
+    "name": "Rajiv Store",
+    "phone": "+(91)-9560213109",
+    "address": "Munirika Village, Munirka, Delhi - 110067, Near Mansa Ram Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560213109"
+  },
+  {
+    "name": "Vijay Store",
+    "phone": "+(91)-9654679129",
+    "address": "Munirika Village, Munirka, Delhi - 110067, Near Baba Gang Nath Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654679129"
+  },
+  {
+    "name": "Shukh Ram Store",
+    "phone": "+(91)-9811397615",
+    "address": "127-A, Munirka, Munirka, Delhi - 110067, Near Babulal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172167,
+        28.555048
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811397615"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Babu Lal gyanchand store",
+    "phone": "+(91)-9811157587",
+    "address": "Shop no. 90 G, Zamrudpur-Greater Kailash I, Delhi - 110048, Opp. N block",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2365,
+        28.557
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811157587"
+  }
+
+,
+
+  {
+    "name": "Namra General Store",
+    "phone": "+(91)-9015846900",
+    "address": "shop 3, Malviya Nagar, Delhi - 110017, Near by Grahak seva kendra",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21373,
+        28.530097
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9015846900"
+  },
+  null,
+  null,
+  {
+    "name": "Sangam General Store",
+    "phone": "+(91)-9717720726",
+    "address": "209, Kapoor Wali Gali, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.171461,
+        28.556284
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717720726"
+  },
+  {
+    "name": "Shivani departmentel store",
+    "phone": "+(91)-9718137458",
+    "address": "62 a ,khirki village, Main road, Malviya Nagar, Delhi - 110017, Prithvi Chauhan park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.220505,
+        28.53228
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718137458"
+  },
+  {
+    "name": "Rahul grocery shop",
+    "phone": "+(91)-9711867198",
+    "address": "123A, Main market, Munirka, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.171408,
+        28.558637
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711867198"
+  },
+  {
+    "name": "Shahid General Store",
+    "phone": "+(91)-8375884644",
+    "address": "252, Malviya Nagar, Hauz Rani-Malviya Nagar, Delhi - 110017, Near Main Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210833,
+        28.529
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8375884644"
+  },
+  {
+    "name": "Dinesh Family Store",
+    "phone": "+(91)-9350016432",
+    "address": "249-A, Main Rama Market, Munirka, Delhi - 110067, Besides baba bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.171355,
+        28.558187
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350016432"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "Raj Store",
+    "phone": "+(91)-9990423860",
+    "address": "E 85, Mohammad Pur Village, Mohammadpur, Delhi - 110066, Near D D Prajapati Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1738482,
+        28.5687307
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990423860"
+  },
+  null,
+  {
+    "name": "Sarda General Store",
+    "phone": "+(91)-9582585481",
+    "address": "361, Munirka villege, Munirka, Delhi - 110067, Near Gurudwara Baba Gang nath market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.171197,
+        28.554967
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582585481"
+  },
+  null,
+  {
+    "name": "Farm fresh",
+    "phone": "+(91)-9211126518",
+    "address": "Shop n 176, Khirki-Malviya Nagar, Delhi - 110017, Nr by select city walk mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21878,
+        28.53098
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211126518"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Prakash Store",
+    "phone": "+(91)-9899814727",
+    "address": "Shop No 97, Kanak Durga Colony, RK Puram Sector 12, Delhi - 110022, Near Kanak Durga Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.176333,
+        28.573667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899814727"
+  },
+  {
+    "name": "Jagdamba Store",
+    "phone": "+(91)-9212392600",
+    "address": "251/A, Rama Market, Munirka, Delhi - 110067, Near Ravi motor parts",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.170647,
+        28.558413
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9212392600"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Vikram vihar general store",
+    "phone": "+(91)-9990253393",
+    "address": "44,guru nanak market, Main road, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024, Near moolchand metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.238167,
+        28.563333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990253393"
+  },
+  null,
+  {
+    "name": "Mandeep Store",
+    "phone": "+(91)-9810864668",
+    "address": "1b, Gurunanak Market, Lajpat Nagar, Delhi - 110024, National Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.238333,
+        28.562833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810864668"
+  },
+  {
+    "name": "Bashu Store",
+    "phone": "+(91)-8860101511",
+    "address": "111/5, Humayun Pur, Safdarjung Enclave, Delhi - 110029, Near NCC Gate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203327,
+        28.587837
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860101511"
+  },
+  {
+    "name": "Pappu cakes shop",
+    "phone": "+(91)-9582258355",
+    "address": "Shop No C-4, Main Road, Safdarjung Enclave, Delhi - 110029, Near Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203327,
+        28.587837
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582258355"
+  }
+
+,
+
+  {
+    "name": "Gopal Store",
+    "phone": "+(91)-9810484977",
+    "address": "K-158, Lajpat Nagar 2, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024, SAI Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.236153,
+        28.569599
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810484977"
+  },
+  {
+    "name": "Bhagat Store",
+    "phone": "+(91)-9999819009",
+    "address": "Shop No -352/4, Munirka Village, Munirka, Delhi - 110067, Near Pal Dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.169563,
+        28.553045
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999819009"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "M.Khaneja Communication",
+    "phone": "+(91)-9911111979",
+    "address": "Shop No-10, Tasdar Babar, Lodhi Road, Delhi - 110003, Opp. Block No-17 Qt-881",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.220167,
+        28.585333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911111979"
+  },
+  {
+    "name": "Super bazar",
+    "phone": "+(91)-9540297744",
+    "address": "Shop No .-11, Masjid Moth-south Extension I, Delhi - 110049, Chirag Gali Flower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.234667,
+        28.540667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540297744"
+  },
+  {
+    "name": "Delhi state f&b consumers",
+    "phone": "+(91)-9953872372",
+    "address": "Sec 12, Mini market RK Puram, RK Puram Sector 12, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175,
+        28.575833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953872372"
+  },
+  null,
+  {
+    "name": "DMS BOOTH",
+    "phone": "+(91)-9582850113",
+    "address": "Booth no.1017, RK Puram Sector 12, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174833,
+        28.575667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582850113"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "Balaji Store",
+    "phone": "+(91)-9818131586",
+    "address": "Shop No. 7, Market No. 1, Sector No. 7, R K Puram, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172332,
+        28.573473
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818131586"
+  },
+  {
+    "name": "Arjun store",
+    "phone": "+(91)-8130701334",
+    "address": "123, Saket, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.201828,
+        28.524912
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8130701334"
+  },
+  null,
+  {
+    "name": "Shree Ram General Store",
+    "phone": "+(91)-9871284819",
+    "address": "Hs 14 Shop No.5, Kailash Colony Market, Kailash Colony, Delhi - 110048, Near Anupama Sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241028,
+        28.552605
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871284819"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Sudha Store",
+    "phone": "+(91)-9958400580",
+    "address": "E-242, Kailash Colony, Kailash Colony, Delhi - 110048, Mcd School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241302,
+        28.552713
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958400580"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "New chicken chop",
+    "phone": "+(91)-9871552044",
+    "address": "Shop no.6/25, Double story, Amar Colony-Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241103,
+        28.56378
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871552044"
+  },
+  {
+    "name": "Jmd sari fall",
+    "phone": "+(91)-9990362181",
+    "address": "6/19, Amar colony, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241167,
+        28.563833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990362181"
+  },
+  null,
+  {
+    "name": "OM General Store",
+    "phone": "+(91)-9818469072",
+    "address": "Shop No 39, Basrurkar Market, Moti Bagh 1, Moti Bagh, DELHI - 110021, Near Basrurkar Post Office",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178392,
+        28.581603
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818469072"
+  },
+  null,
+  {
+    "name": "Rohit Genral Store",
+    "phone": "+(91)-9990069117",
+    "address": "Door No F-5, Lado Sarai-Mehrauli, Delhi - 110030",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.193135,
+        28.524831
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990069117"
+  },
+  null,
+  {
+    "name": "Veera daily needs",
+    "phone": "+(91)-8750859448",
+    "address": "C -block, Kavi Nagar, Delhi - 110048, Nr k.d.b school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.237391,
+        28.53914
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8750859448"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  {
+    "name": "Manohar Singh Darshan Singh",
+    "phone": "+(91)-9871275281",
+    "address": "Shop No-56-A, Lodhi Road, Delhi - 110003, Mehar Chand Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.227256,
+        28.585274
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871275281"
+  },
+  {
+    "name": "KBS Fair Price",
+    "phone": "+(91)-9310243155",
+    "address": "806/6, Mehrauli, Delhi - 110030",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.191645,
+        28.524375
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9310243155"
+  },
+  {
+    "name": "Laxmi Store",
+    "phone": "+(91)-9818309664",
+    "address": "Jal Vihar, Lajpat Nagar, Delhi - 110024, Jal Vihar Bus Stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241598,
+        28.569084
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818309664"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Kiran Store",
+    "phone": "+(91)-9990524081",
+    "address": "Shop No. 13, Indra Market. Sector No. 7, R K Puram, Delhi - 110022, Near Malai Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.165941,
+        28.567472
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990524081"
+  }
+
+,
+
+  {
+    "name": "Krishna Store",
+    "phone": "+(91)-9810409816",
+    "address": "Shop No. 11, Indra Market. Sector No. 7, R K Puram, Delhi - 110022, Near Malai Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.165941,
+        28.567472
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810409816"
+  },
+  {
+    "name": "Govindram Store",
+    "phone": "+(91)-9650117104",
+    "address": "Shop No 21, Sec 7 Indra Mkt, RK Puram Sector 7, Delhi - 110022, Near Malai Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.165941,
+        28.567472
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650117104"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Govinda store",
+    "phone": "+(91)-8826907500",
+    "address": "E-29, Amar colony, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024, Near sapna bus stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2445,
+        28.560333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826907500"
+  }
+
+,
+
+  null,
+  {
+    "name": "Lalaji dry fruit n general store",
+    "phone": "+(91)-9999101248",
+    "address": "c/18, Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.244355,
+        28.562253
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999101248"
+  },
+  null,
+  {
+    "name": "Kailash corner",
+    "phone": "+(91)-9310367037",
+    "address": "F-98, Main road, East Of Kailash, Delhi - 110065, Near gnfc house",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.244833,
+        28.5555
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9310367037"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Mukesh Store",
+    "phone": "+(91)-9213985199",
+    "address": "332, Shahpur Jat, Shahpur Jat, Delhi - 110049, Kireet & Co.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.242571,
+        28.570569
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213985199"
+  },
+  null,
+  null
+
+,
+
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Chaudhary General Store",
+    "phone": "+(91)-9868019694",
+    "address": "B-137, Lodhi Road, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226845,
+        28.587819
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868019694"
+  },
+  {
+    "name": "PP General Store",
+    "phone": "+(91)-9717260314",
+    "address": "L-41, Lajpat Nagar, Lajpat Nagar, Delhi - 110024, Family Care Clinic",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.245288,
+        28.562662
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717260314"
+  },
+  {
+    "name": "Grosseryhub.com",
+    "phone": "+(91)-9871327281",
+    "address": "18, Vinobapuri, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.243149,
+        28.569975
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871327281"
+  },
+  {
+    "name": "Sunil Departmental Store",
+    "phone": "+(91)-9015626023",
+    "address": "B-34, Central Market, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024, Near Bikanerwala",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.243149,
+        28.569975
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9015626023"
+  },
+  {
+    "name": "DMS BOOTH",
+    "phone": "+(91)-9560067905",
+    "address": "Booth no.391, Moti Bagh South-Moti Bagh, Delhi - 110021, Near C block",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.172333,
+        28.580833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560067905"
+  },
+  {
+    "name": "KB's Fairprice",
+    "phone": "+(91)-8595101676",
+    "address": "Ground floor D-24, Amar colony, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024, Sapna Cinema road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.245705,
+        28.560872
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8595101676"
+  }
+
+,
+
+  null,
+  {
+    "name": "Nitin Store",
+    "phone": "+(91)-9212910840",
+    "address": "Moti Bagh Village, Moti Bagh, Delhi - 110021",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.173265,
+        28.581865
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9212910840"
+  },
+  {
+    "name": "Sandeep Store",
+    "phone": "+(91)-9711516285",
+    "address": "1/33, Moti Bagh, Delhi - 110021, Near Nanak Pura, E-block",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.173265,
+        28.581865
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711516285"
+  },
+  {
+    "name": "Tika Ram Store",
+    "phone": "+(91)-9891106548",
+    "address": "Mkt Nanak Pura, Moti Bagh, Delhi - 110021",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.173265,
+        28.581865
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891106548"
+  },
+  null,
+  {
+    "name": "D.m.s booth",
+    "phone": "+(91)-9910307581",
+    "address": "Booth No-3361, Shanti Niketan-Moti Bagh, Delhi - 110021, Opp.Sadhu Vaswani Mission Medical Centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.169424,
+        28.577682
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910307581"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Bishan store",
+    "phone": "+(91)-9810367998",
+    "address": "Shop no g-61, Old double storey, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024, Near sunder bal niketan school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.245667,
+        28.5635
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810367998"
+  }
+
+,
+
+  {
+    "name": "BK Store",
+    "phone": "+(91)-9818737744",
+    "address": "B- 11 dayananad colony, Main road., Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024, Near sunder bal niketan school.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.245797,
+        28.563612
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818737744"
+  },
+  {
+    "name": "Sri ram Generaland Confectione...",
+    "phone": "+(91)-9711543733",
+    "address": "B-175, Krishna market, Lajpat Nagar 1-Lajpat Nagar, Delhi - 110024, Behind the gate of guffa mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2415,
+        28.574717
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711543733"
+  },
+  null,
+  {
+    "name": "kapoor store",
+    "phone": "+(91)-9871328003",
+    "address": "E-196/b, krishna market, Lajpat Nagar, Delhi - 110024, near rural punjab",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.243007,
+        28.572285
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871328003"
+  },
+  {
+    "name": "Gupta General Store",
+    "phone": "+(91)-9911133345",
+    "address": "Ramjilal Market, Saket, Delhi - 110017, Saket Bus Terminal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2165,
+        28.5215
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911133345"
+  },
+  null,
+  {
+    "name": "Kukreja Store",
+    "phone": "+(91)-9213842295",
+    "address": "E-122,Lajpat Nagar -1, Lajpat Nagar 1 E block, Lajpat Nagar 1-Lajpat Nagar, Delhi - 110024, Near Bakey Bihari Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.242037,
+        28.574425
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213842295"
+  },
+  {
+    "name": "Bharal store",
+    "phone": "+(91)-9650506192",
+    "address": "12, Saket, Delhi - 110017, Near metro",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210228,
+        28.51987
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650506192"
+  },
+  null,
+  null
+
+,
+
+  null,
+  {
+    "name": "Ramesh Store",
+    "phone": "+(91)-9654383813",
+    "address": "77, Mini Market, Nanak Pura, Delhi - 110021, Near Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.169533,
+        28.58003
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654383813"
+  },
+  null,
+  {
+    "name": "TANISH STORE",
+    "phone": "+(91)-9599338551",
+    "address": "Gali no 1, Saiyad Ul Ajaib, Delhi - 110030, Near saket metro",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.20205,
+        28.519072
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9599338551"
+  },
+  null,
+  {
+    "name": "Variety General Stores",
+    "phone": "+(91)-9818050296",
+    "address": "D 78, Lajpat Nagar 1-Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.241913,
+        28.576425
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818050296"
+  },
+  {
+    "name": "Krishna General Store",
+    "phone": "+(91)-9999862688",
+    "address": "80/4 A, Basant Gaon, Vasant Vihar, Delhi - 110057, Near Power House",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.161174,
+        28.564321
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999862688"
+  },
+  {
+    "name": "Goel Store",
+    "phone": "+(91)-9910064426",
+    "address": "14, Basant Gaon, Vasant Vihar, Delhi - 110057, Near Power House",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.161174,
+        28.564321
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910064426"
+  },
+  {
+    "name": "Aggarwal General Store",
+    "phone": "+(91)-9818511684",
+    "address": "B-30, Vasant Vihar, Delhi - 110057, Near Power House, Basant Gaon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.161174,
+        28.564321
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818511684"
+  },
+  {
+    "name": "Durga Store",
+    "phone": "+(91)-9818193211",
+    "address": "48/3, Basant Gaon, Vasant Vihar, Delhi - 110057",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.161174,
+        28.564321
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818193211"
+  }
+
+]

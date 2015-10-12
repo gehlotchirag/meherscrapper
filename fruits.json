@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Apple (Safarchand / Seb)",
+    "amount": "Rs.180.00",
+    "discountedPrice": "Rs.160.00",
+    "img": "http://baniyababu.com/wp-content/uploads/apple-143x143.jpg",
+    "price": 160,
+    "quantity": 1,
+    "ImgFileName": "apple-143x143.jpg"
+  },
+
+  {
+    "name": "Banana (Kele)",
+    "amount": "Rs.50.00",
+    "discountedPrice": "Rs.45.00",
+    "img": "http://baniyababu.com/wp-content/uploads/banana-143x143.jpg",
+    "price": 45,
+    "quantity": 1,
+    "ImgFileName": "banana-143x143.jpg"
+  },
+
+  {
+    "name": "Papaya (Papai / Papita)",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/papai-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "papai-143x143.jpg"
+  },
+
+  {
+    "name": "Pomegranate (Dalimb / Anar)",
+    "amount": "Rs.140.00",
+    "discountedPrice": "Rs.130.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dalimb-143x143.jpg",
+    "price": 130,
+    "quantity": 1,
+    "ImgFileName": "dalimb-143x143.jpg"
+  },
+
+  {
+    "name": "Figs (Anjir)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.110.00",
+    "img": "http://baniyababu.com/wp-content/uploads/fig-143x143.jpg",
+    "price": 110,
+    "quantity": 1,
+    "ImgFileName": "fig-143x143.jpg"
+  },
+
+  {
+    "name": "Musk Melon Yellow 1Pc",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/musk-melon-143x143.jpg",
+    "price": 50,
+    "quantity": 1,
+    "ImgFileName": "musk-melon-143x143.jpg"
+  },
+
+  {
+    "name": "Tender Coconut Water (Shahal Pani)",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shahal-143x143.jpg",
+    "price": 35,
+    "quantity": 1,
+    "ImgFileName": "shahal-143x143.jpg"
+  },
+
+  {
+    "name": "Kiwi (Kedu) 3PC",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kiwi-143x143.jpg",
+    "price": 100,
+    "quantity": 1,
+    "ImgFileName": "kiwi-143x143.jpg"
+  },
+
+  {
+    "name": "Orange (Santri)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/orange-143x143.jpg",
+    "price": 115,
+    "quantity": 1,
+    "ImgFileName": "orange-143x143.jpg"
+  },
+
+  {
+    "name": "Imported Orange",
+    "amount": "Rs.160.00",
+    "discountedPrice": "Rs.155.00",
+    "img": "http://baniyababu.com/wp-content/uploads/orangejunction-143x143.jpg",
+    "price": 155,
+    "quantity": 1,
+    "ImgFileName": "orangejunction-143x143.jpg"
+  },
+
+  {
+    "name": "Raw papaya",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/raw-papaya-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "raw-papaya-143x143.jpg"
+  },
+
+  {
+    "name": "Pineapple (Ananas )",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/pineapple-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "pineapple-143x143.jpg"
+  },
+
+  {
+    "name": "Sweet Lime (Mausambi)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mosambi-143x143.jpg",
+    "price": 115,
+    "quantity": 1,
+    "ImgFileName": "mosambi-143x143.jpg"
+  },
+
+  {
+    "name": "Dry Plums (Alubukar / Aloo Bhukhara) 1KG",
+    "amount": "Rs.220.00",
+    "discountedPrice": "Rs.180.00",
+    "img": "http://baniyababu.com/wp-content/uploads/aloo-bukar-143x143.jpg",
+    "price": 180,
+    "quantity": 1,
+    "ImgFileName": "aloo-bukar-143x143.jpg"
+  },
+
+  {
+    "name": "Maskmelon (Tarbuj / Kharbhooja)",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tarbuj-143x143.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "tarbuj-143x143.jpg"
+  },
+
+  {
+    "name": "Apple (Safarchand / Seb)",
+    "amount": "Rs.180.00",
+    "discountedPrice": "Rs.160.00",
+    "img": "http://baniyababu.com/wp-content/uploads/apple-186x186.jpg",
+    "price": 160,
+    "quantity": 1,
+    "ImgFileName": "apple-186x186.jpg"
+  },
+
+  {
+    "name": "Banana (Kele)",
+    "amount": "Rs.50.00",
+    "discountedPrice": "Rs.45.00",
+    "img": "http://baniyababu.com/wp-content/uploads/banana-186x186.jpg",
+    "price": 45,
+    "quantity": 1,
+    "ImgFileName": "banana-186x186.jpg"
+  },
+
+  {
+    "name": "Papaya (Papai / Papita)",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/papai-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "papai-186x186.jpg"
+  },
+
+  {
+    "name": "Pomegranate (Dalimb / Anar)",
+    "amount": "Rs.140.00",
+    "discountedPrice": "Rs.130.00",
+    "img": "http://baniyababu.com/wp-content/uploads/dalimb-186x186.jpg",
+    "price": 130,
+    "quantity": 1,
+    "ImgFileName": "dalimb-186x186.jpg"
+  },
+
+  {
+    "name": "Figs (Anjir)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.110.00",
+    "img": "http://baniyababu.com/wp-content/uploads/fig-186x186.jpg",
+    "price": 110,
+    "quantity": 1,
+    "ImgFileName": "fig-186x186.jpg"
+  },
+
+  {
+    "name": "Musk Melon Yellow 1Pc",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.50.00",
+    "img": "http://baniyababu.com/wp-content/uploads/musk-melon-186x186.jpg",
+    "price": 50,
+    "quantity": 1,
+    "ImgFileName": "musk-melon-186x186.jpg"
+  },
+
+  {
+    "name": "Tender Coconut Water (Shahal Pani)",
+    "amount": "Rs.40.00",
+    "discountedPrice": "Rs.35.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shahal-186x186.jpg",
+    "price": 35,
+    "quantity": 1,
+    "ImgFileName": "shahal-186x186.jpg"
+  },
+
+  {
+    "name": "Kiwi (Kedu) 3PC",
+    "amount": "Rs.110.00",
+    "discountedPrice": "Rs.100.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kiwi-186x186.jpg",
+    "price": 100,
+    "quantity": 1,
+    "ImgFileName": "kiwi-186x186.jpg"
+  },
+
+  {
+    "name": "Orange (Santri)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/orange-186x186.jpg",
+    "price": 115,
+    "quantity": 1,
+    "ImgFileName": "orange-186x186.jpg"
+  },
+
+  {
+    "name": "Imported Orange",
+    "amount": "Rs.160.00",
+    "discountedPrice": "Rs.155.00",
+    "img": "http://baniyababu.com/wp-content/uploads/orangejunction-186x186.jpg",
+    "price": 155,
+    "quantity": 1,
+    "ImgFileName": "orangejunction-186x186.jpg"
+  },
+
+  {
+    "name": "Raw papaya",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/raw-papaya-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "raw-papaya-186x186.jpg"
+  },
+
+  {
+    "name": "Pineapple (Ananas )",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/pineapple-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "pineapple-186x186.jpg"
+  },
+
+  {
+    "name": "Sweet Lime (Mausambi)",
+    "amount": "Rs.130.00",
+    "discountedPrice": "Rs.115.00",
+    "img": "http://baniyababu.com/wp-content/uploads/mosambi-186x186.jpg",
+    "price": 115,
+    "quantity": 1,
+    "ImgFileName": "mosambi-186x186.jpg"
+  },
+
+  {
+    "name": "Dry Plums (Alubukar / Aloo Bhukhara) 1KG",
+    "amount": "Rs.220.00",
+    "discountedPrice": "Rs.180.00",
+    "img": "http://baniyababu.com/wp-content/uploads/aloo-bukar-186x186.jpg",
+    "price": 180,
+    "quantity": 1,
+    "ImgFileName": "aloo-bukar-186x186.jpg"
+  },
+
+  {
+    "name": "Maskmelon (Tarbuj / Kharbhooja)",
+    "amount": "Rs.70.00",
+    "discountedPrice": "Rs.60.00",
+    "img": "http://baniyababu.com/wp-content/uploads/tarbuj-186x186.jpg",
+    "price": 60,
+    "quantity": 1,
+    "ImgFileName": "tarbuj-186x186.jpg"
+  }
+
+]

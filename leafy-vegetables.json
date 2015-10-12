@@ -1,0 +1,236 @@
+[
+
+  {
+    "name": "Coriander leaves (Kothimbir / hara dhania)",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kothimbir-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kothimbir-143x143.jpg"
+  },
+  {
+    "name": "spinach (palak)",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/palak-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "palak-143x143.jpg"
+  },
+  {
+    "name": "Curry Leaves (kadhi patta )",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kadhipatta-143x143.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "kadhipatta-143x143.jpg"
+  },
+  {
+    "name": "Onion leaf (Kanda Pat)",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-paat-143x143.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "kanda-paat-143x143.jpg"
+  },
+  {
+    "name": "Colacassia (Alu chi pane / Arbi) 250gm",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/arbii-143x143.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "arbii-143x143.jpg"
+  },
+  {
+    "name": "Colocasia Roots (Alkudi )",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/colocasia-esculenta-var-antiquorum01-194x129.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "colocasia-esculenta-var-antiquorum01-194x129.jpg"
+  },
+  {
+    "name": "Ambat Chuka",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chuka-143x143.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "chuka-143x143.jpg"
+  },
+  {
+    "name": "Chakwat",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chakwat-143x143.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "chakwat-143x143.jpg"
+  },
+  {
+    "name": "suwa (shepu / dill)",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shepu-143x143.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "shepu-143x143.jpg"
+  },
+  {
+    "name": "Ambadi Leafy",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ambadi-leaf-143x143.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "ambadi-leaf-143x143.jpg"
+  },
+  {
+    "name": "fenugreek leaves (methi)",
+    "amount": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/methi-143x143.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "methi-143x143.jpg"
+  },
+  {
+    "name": "Lal Math",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-matth-143x143.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "lal-matth-143x143.jpg"
+  },
+  {
+    "name": "Colacassia (Alu chi pane / Arbi) 500gm",
+    "amount": "Rs.36.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/arbii-143x143.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "arbii-143x143.jpg"
+  },
+  {
+    "name": "Coriander leaves (Kothimbir / hara dhania)",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kothimbir-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "kothimbir-186x186.jpg"
+  },
+  {
+    "name": "spinach (palak)",
+    "amount": "Rs.20.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/palak-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "palak-186x186.jpg"
+  },
+  {
+    "name": "Curry Leaves (kadhi patta )",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kadhipatta-186x186.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "kadhipatta-186x186.jpg"
+  },
+  {
+    "name": "Onion leaf (Kanda Pat)",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.20.00",
+    "img": "http://baniyababu.com/wp-content/uploads/kanda-paat-186x186.jpg",
+    "price": 20,
+    "quantity": 1,
+    "hostedImg": "kanda-paat-186x186.jpg"
+  },
+  {
+    "name": "Colacassia (Alu chi pane / Arbi) 250gm",
+    "amount": "Rs.18.00",
+    "discountedPrice": "Rs.15.00",
+    "img": "http://baniyababu.com/wp-content/uploads/arbii-186x186.jpg",
+    "price": 15,
+    "quantity": 1,
+    "hostedImg": "arbii-186x186.jpg"
+  },
+  {
+    "name": "Colocasia Roots (Alkudi )",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.10.00",
+    "img": "http://baniyababu.com/wp-content/uploads/colocasia-esculenta-var-antiquorum01-246x164.jpg",
+    "price": 10,
+    "quantity": 1,
+    "hostedImg": "colocasia-esculenta-var-antiquorum01-246x164.jpg"
+  },
+  {
+    "name": "Ambat Chuka",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chuka-186x186.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "chuka-186x186.jpg"
+  },
+  {
+    "name": "Chakwat",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/chakwat-186x186.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "chakwat-186x186.jpg"
+  },
+  {
+    "name": "suwa (shepu / dill)",
+    "amount": "Rs.25.00",
+    "discountedPrice": "Rs.18.00",
+    "img": "http://baniyababu.com/wp-content/uploads/shepu-186x186.jpg",
+    "price": 18,
+    "quantity": 1,
+    "hostedImg": "shepu-186x186.jpg"
+  },
+  {
+    "name": "Ambadi Leafy",
+    "amount": "Rs.15.00",
+    "discountedPrice": "Rs.12.00",
+    "img": "http://baniyababu.com/wp-content/uploads/ambadi-leaf-186x186.jpg",
+    "price": 12,
+    "quantity": 1,
+    "hostedImg": "ambadi-leaf-186x186.jpg"
+  },
+  {
+    "name": "fenugreek leaves (methi)",
+    "amount": "Rs.25.00",
+    "img": "http://baniyababu.com/wp-content/uploads/methi-186x186.jpg",
+    "price": 25,
+    "quantity": 1,
+    "hostedImg": "methi-186x186.jpg"
+  },
+  {
+    "name": "Lal Math",
+    "amount": "Rs.19.00",
+    "discountedPrice": "Rs.14.00",
+    "img": "http://baniyababu.com/wp-content/uploads/lal-matth-186x186.jpg",
+    "price": 14,
+    "quantity": 1,
+    "hostedImg": "lal-matth-186x186.jpg"
+  },
+  {
+    "name": "Colacassia (Alu chi pane / Arbi) 500gm",
+    "amount": "Rs.36.00",
+    "discountedPrice": "Rs.30.00",
+    "img": "http://baniyababu.com/wp-content/uploads/arbii-186x186.jpg",
+    "price": 30,
+    "quantity": 1,
+    "hostedImg": "arbii-186x186.jpg"
+  }
+
+]

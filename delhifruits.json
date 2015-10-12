@@ -1,0 +1,5656 @@
+[
+
+  {
+    "name": "Delhi Fruit & Vegetable Copera...",
+    "phone": "+(91)-9312156925",
+    "address": "3, Green Park,Main Market, Green Park, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.204182,
+        28.557235
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312156925"
+  },
+  null,
+  {
+    "name": "Krishan Kumar Fruit",
+    "phone": "+(91)-9810423519",
+    "address": "Stall No-2, Green Park, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.202204,
+        28.55665
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810423519"
+  },
+  null,
+  {
+    "name": "Sai fruit mart",
+    "phone": "+(91)-9810221595",
+    "address": "F-93, Green park main market, Green Park, Delhi - 110016, Opp. Pizza Hut",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.202392,
+        28.556247
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810221595"
+  },
+  {
+    "name": "Avinash fruit shop",
+    "phone": "+(91)-8860372767",
+    "address": "Green Park, Delhi - 110016, Opp.sakir saloon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203,
+        28.558833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860372767"
+  },
+  null,
+  {
+    "name": "Ashok fruits",
+    "phone": "+(91)-8130079506",
+    "address": "C 25, Green Park Extension, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203167,
+        28.559833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8130079506"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "KASHMIRI FRUITS",
+    "phone": "+(91)-9560128344",
+    "address": "F-8, Main road, Yusuf Sarai-Green Park, Delhi - 110016, Near aims",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207603,
+        28.562375
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560128344"
+  },
+  {
+    "name": "Amjad Ali",
+    "phone": "+(91)-8447497405",
+    "address": "Shop No-10, Yusuf Sarai-Green Park, Delhi - 110016, Yusuf Sarai Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.189638,
+        28.53664
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447497405"
+  },
+  {
+    "name": "Ataur rehman",
+    "phone": "+(91)-9811240585",
+    "address": "Gate no.7, Gulmohar enclave, Gautam Nagar, Delhi - 110049, Amitabh Bachchan kothi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210333,
+        28.557333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811240585"
+  },
+  {
+    "name": "Radhika Fruit Merchant",
+    "phone": "+(91)-9891814709",
+    "address": "C-41-A, Main Market Road, Hauz Khas, Delhi - 110016, Near Batra General Store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.207401,
+        28.562396
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891814709"
+  },
+  {
+    "name": "Fruit corner",
+    "phone": "+(91)-9810419700",
+    "address": "C-41/a, hauz mArket, Hauz Khas, Delhi - 110016, Near Batra store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2065,
+        28.550333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810419700"
+  },
+  {
+    "name": "Fruit Corner",
+    "phone": "+(91)-9891370092",
+    "address": "E-112, Hauz Khas, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195667,
+        28.5555
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891370092"
+  },
+  null,
+  {
+    "name": "Ramesh Fruit & Vegetable Vendors",
+    "phone": "+(91)-8860355424",
+    "address": "101, Shahpur Jat, Delhi - 110049, Near Purani Chopal",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21394,
+        28.549064
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860355424"
+  },
+  {
+    "name": "Mahfuz Vegetable",
+    "phone": "+(91)-9899929849",
+    "address": "E-11/72a, Khidki Ext, Hauz Rani, Malviya Nagar, Delhi - 110017, Near moradabadi hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203,
+        28.543
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899929849"
+  },
+  null
+
+,
+
+  {
+    "name": "Safel vegetable and fruits vendor",
+    "phone": "+(91)-9999531061",
+    "address": "Shop no 61, DDA Market, Sarvapriya Vihar, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206833,
+        28.542333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531061"
+  },
+  {
+    "name": "Tinku fruit dealers",
+    "phone": "+(91)-9718968466",
+    "address": "12, Jia Sarai-IIT Delhi, Delhi - 110016, Near chine town",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.19,
+        28.5475
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718968466"
+  },
+  {
+    "name": "Hari fal wala",
+    "phone": "+(91)-9654284211",
+    "address": "D-38, South Extension 2, Delhi - 110049, Near mcdonald",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219,
+        28.568
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654284211"
+  },
+  {
+    "name": "Safal pure veg",
+    "phone": "+(91)-9540850687",
+    "address": "Booth no 019, Panchsheel Park North, Delhi - 110017, Near mother dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215,
+        28.542833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540850687"
+  },
+  {
+    "name": "Shyam sunder fruits",
+    "phone": "+(91)-9911129687",
+    "address": "Shop n 1, Gate no 8, Sarvodaya Enclave, Delhi - 110017, Near mother school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.202133,
+        28.538697
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911129687"
+  },
+  {
+    "name": "Shiv Shakti Safalmandi",
+    "phone": "+(91)-9868087440",
+    "address": "Vikas Complex, Katwaria Sarai, Delhi - 110016, Panchayat Ghar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1905,
+        28.541333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868087440"
+  },
+  {
+    "name": "R G O fruit shop",
+    "phone": "+(91)-9891369496",
+    "address": "Shop no 1 vegetable market, Sarojini Nagar Market, Delhi - 110023, Near DLF multilevel parking",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.19558,
+        28.575758
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891369496"
+  },
+  {
+    "name": "LRS fruit vendor",
+    "phone": "+(91)-9718815956",
+    "address": "Shop no 1, Sarojini Nagar Market, Delhi - 110023",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195503,
+        28.575838
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718815956"
+  },
+  null,
+  {
+    "name": "Deep Fruit Shop",
+    "phone": "+(91)-9350913470",
+    "address": "Sarojini Nagar, Delhi - 110023",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.196111,
+        28.577044
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350913470"
+  }
+
+,
+
+  {
+    "name": "Charan Singh fruit merchant",
+    "phone": "+(91)-9990335045",
+    "address": "Shop no 22, Main market, Malviya Nagar, Delhi - 110017, Near by moti sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21228,
+        28.537137
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990335045"
+  },
+  {
+    "name": "Derby Oversease Pvt. Ltd.",
+    "phone": "+(91)-9999606841",
+    "address": "Derby Oversease Pvt. Ltd., Bersarai, Ber Sarai, Delhi - 110016",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181239,
+        28.549092
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999606841"
+  },
+  {
+    "name": "Raj Fruits mart",
+    "phone": "+(91)-7838434234",
+    "address": "Shopno.1, Main Market, Malviya Nagar, Delhi - 110017, New Bhagat Singh Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212167,
+        28.536333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838434234"
+  },
+  {
+    "name": "Ansari Fruits & Vegetables",
+    "phone": "+(91)-9210192288",
+    "address": "S No- 4, Khokha Mrk, Main road, Malviya Nagar, Delhi - 110017, New Bhagat Singh Mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211,
+        28.535833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9210192288"
+  },
+  {
+    "name": "rashid fruits",
+    "phone": "+(91)-9999877011",
+    "address": "Main road, Main Mkt Rd, Malviya Nagar, Delhi - 110017, Nr Shri Ram Sweets,Nr ITI",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211,
+        28.535833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999877011"
+  },
+  {
+    "name": "SHIBU FRUIT CORNER",
+    "phone": "+(91)-9718682645",
+    "address": "2, Main Road, Shivalik-Malviya Nagar, Delhi - 110017, Near Laxminarayan Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211013,
+        28.535828
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718682645"
+  },
+  {
+    "name": "Shibu fruits wholesale and retail",
+    "phone": "+(91)-9911156051",
+    "address": "Shop No - 2, Main road, Malviya Nagar, Delhi - 110017, Near by Lakshmi narain",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210983,
+        28.535795
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911156051"
+  },
+  {
+    "name": "R.G.O. Fruit Shop",
+    "phone": "+(91)-9891662885",
+    "address": "Subzi Market, Sarojini Nagar, Delhi - 110023, Opp Shop No. 1",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195603,
+        28.578492
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891662885"
+  },
+  null,
+  {
+    "name": "Agrico India",
+    "phone": "+(91)-9811942870",
+    "address": "J - 4/32 Malviya Nagar, Khirki Extension, Malviya Nagar, Delhi - 110017, Near Moradabahi Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212636,
+        28.535747
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811942870"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "Badan Singh Fruit Mart",
+    "phone": "+(91)-9717687894",
+    "address": "M- 502 Kashmari Market, Ina Market, Delhi - 110022, Near Sub Way",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178112,
+        28.560176
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717687894"
+  },
+  null,
+  null,
+  {
+    "name": "RAJ PAL FRESH FRUITS",
+    "phone": "+(91)-9953862670",
+    "address": "T 502, INA Market, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178112,
+        28.560176
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953862670"
+  },
+  {
+    "name": "Manu juice corner",
+    "phone": "+(91)-8375998556",
+    "address": "K-55, Sarojini nagar market, Sarojini Nagar Market, Delhi - 110023",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.192167,
+        28.578167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8375998556"
+  },
+  {
+    "name": "Fresh Fruit Juice",
+    "phone": "+(91)-7503438200",
+    "address": "Opp. Indian bank, Katwaria Sarai, Delhi - 110016, Beside Anil hair cut",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.184945,
+        28.540562
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7503438200"
+  },
+  {
+    "name": "A One Fruit Corner",
+    "phone": "+(91)-9810733123",
+    "address": "288, Main Market, Ina Market, Delhi - 110022, Near Ina Metro/Opp Dilli Haat",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.178551,
+        28.565205
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810733123"
+  },
+  null
+
+,
+
+  null,
+  null,
+  {
+    "name": "Ashok Fruit Traders",
+    "phone": "+(91)-9810096845",
+    "address": "C 21 A, Gulmohar Park Ist Floor, Delhi - 110067",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.177094,
+        28.551769
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810096845"
+  },
+  null,
+  {
+    "name": "Haryana Fresh",
+    "phone": "+(91)-9650595823",
+    "address": "D 96, Main canara bank market, Munirka, Delhi - 110067, Opposite Community Centre",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.17627,
+        28.555462
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650595823"
+  },
+  {
+    "name": "Kashmir Craft Export House",
+    "phone": "+(91)-9313904594",
+    "address": "J - 4/70 - D,, Main Road,, Malviya Nagar, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313904594"
+  },
+  {
+    "name": "SHIBU FRUIT CORNER",
+    "phone": "+(91)-9811580396",
+    "address": "Shop No 2, Malviya Nagar, Delhi - 110017, Opposite Lakshmi Narayan Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210963,
+        28.53258
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811580396"
+  },
+  {
+    "name": "Sabji Shoppi",
+    "phone": "+(91)-9560974190",
+    "address": "Shop no-1-62/5, Main munirka market, Munirka, Delhi - 110067, Canara bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174797,
+        28.554913
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560974190"
+  },
+  {
+    "name": "Sabji shoppi",
+    "phone": "+(91)-9599142485",
+    "address": "Shop no-1 62/5, Main Laxi Market, Munirka, Delhi - 110067, Near canara bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.17475,
+        28.554117
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9599142485"
+  },
+  {
+    "name": "Sabji Shopi",
+    "phone": "+(91)-8743012346",
+    "address": "Shop no-62/5, Laxmi Market, Munirka, Delhi - 110067, Near Canara bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174387,
+        28.554842
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8743012346"
+  }
+
+,
+
+  {
+    "name": "Haryana Fresh",
+    "phone": "+(91)-9650414240",
+    "address": "Shop no-8, Canara Bank Street, Munirka, Delhi - 110067, Munirka Main Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174438,
+        28.553767
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650414240"
+  },
+  {
+    "name": "Raju Enterprises",
+    "phone": "+(91)-9654980165",
+    "address": "Shop No 2, Malviya Nagar, Delhi - 110017, Opp Shree ram dental clinic",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.208787,
+        28.531133
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654980165"
+  },
+  null,
+  {
+    "name": "Harish&suresh fruit shop",
+    "phone": "+(91)-9971534982",
+    "address": "Shop no 8, Kotla Mubarakpur, Delhi - 110003, Sewa nagar market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224833,
+        28.577167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971534982"
+  },
+  {
+    "name": "Fresh fruit corner",
+    "phone": "+(91)-9990213265",
+    "address": "Shop no 1, Kotla Mubarakpur, Delhi - 110003, Sewa nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224833,
+        28.577167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990213265"
+  },
+  {
+    "name": "Manoj fruit shop",
+    "phone": "+(91)-9999561349",
+    "address": "Shop no 10, Kotla Mubarakpur, Delhi - 110003, Sewa nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224667,
+        28.577333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999561349"
+  },
+  null,
+  {
+    "name": "Dhan Raj",
+    "phone": "+(91)-9313109473",
+    "address": "Greater Kailash II, Delhi - 110048, M Block, Near Mother Dairy Booth",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2339930126,
+        28.5504850933
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313109473"
+  },
+  {
+    "name": "Fruit juice corner",
+    "phone": "+(91)-8586914975",
+    "address": "Shop no.R-4, Khirki Extention, Malviya Nagar, Delhi - 110017, Near women's polytechnic",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218833,
+        28.533333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8586914975"
+  },
+  null
+
+,
+
+  {
+    "name": "Arvind Fruit Corner",
+    "phone": "+(91)-9582244881",
+    "address": "Main Market, Sec-8, R K Puram, Delhi - 110022",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175164,
+        28.566884
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582244881"
+  },
+  {
+    "name": "Green For Vegetable",
+    "phone": "+(91)-7838897112",
+    "address": "A-45,Shop No-4,Panchsheel Vihar,Khirki Extension, Khirki Extension, Khirki Extention, Delhi - 110017, juice wala shop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.216805,
+        28.532259
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838897112"
+  },
+  {
+    "name": "Raju Singh fruit",
+    "phone": "+(91)-9899223342",
+    "address": "Shop no e-6, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224667,
+        28.578
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899223342"
+  },
+  {
+    "name": "Raj Kumar fruit",
+    "phone": "+(91)-9999440328",
+    "address": "Shop no - e-9, Kotla Mubarakpur, Delhi - 110003",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224667,
+        28.578
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999440328"
+  },
+  {
+    "name": "Sushil Sabji & Fruit Bhandar",
+    "phone": "+(91)-9999014041",
+    "address": "Khokha No 1,, RK Puram Sector 2, Delhi - 110022, Nr Mother Dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1739369681,
+        28.5644815309
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999014041"
+  },
+  null,
+  {
+    "name": "S S Brothers",
+    "phone": "+(91)-9971185218",
+    "address": "Shop no.26,27, Railway crossing, Kotla Mubarakpur, Delhi - 110003, Seva nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.224937,
+        28.578388
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971185218"
+  },
+  null,
+  {
+    "name": "Vinod Kumar",
+    "phone": "+(91)-9899445526",
+    "address": "Shop Number 4, Chirag Delhi, Delhi - 110017",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.227725,
+        28.538178
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899445526"
+  },
+  {
+    "name": "Safal Mother Dairy",
+    "phone": "+(91)-9654555683",
+    "address": "Shop No-9, Defence Colony, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.232034,
+        28.572047
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654555683"
+  }
+
+,
+
+  {
+    "name": "Farm Fresh",
+    "phone": "+(91)-8588886506",
+    "address": "Shop no-176, Main road,malviya nagar, Malviya Nagar, Delhi - 110017, Opposite- select city walk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218712,
+        28.530992
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8588886506"
+  },
+  null,
+  null,
+  {
+    "name": "Basant juice corner",
+    "phone": "+(91)-9968208432",
+    "address": "Corner point, Main market sec-12 rk PURAM, RK Puram Sector 12, Delhi - 110022, Near Apollo medicos",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.175833,
+        28.575
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968208432"
+  },
+  {
+    "name": "Jawed enterprise",
+    "phone": "+(91)-9717845357",
+    "address": "12, Saket, Delhi - 110017, Main road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.205397,
+        28.526087
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717845357"
+  },
+  {
+    "name": "Shri ram fruits",
+    "phone": "+(91)-9211366822",
+    "address": "E-15, Kailash Colony, Delhi - 110048, Near Metro Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.240833,
+        28.552833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211366822"
+  },
+  null,
+  {
+    "name": "Sabziyaa.com",
+    "phone": "+(91)-8375992231",
+    "address": "5/15, old double storey, Lajpat Nagar 4-Lajpat Nagar, Delhi - 110024",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.24122,
+        28.5634
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8375992231"
+  },
+  null,
+  {
+    "name": "Safal veg vendor and wholesale",
+    "phone": "+(91)-9999531059",
+    "address": "Shop no 059, Shopping complex, Sheikh Sarai 2, Delhi - 110017, Sheikh sarai 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2315,
+        28.533833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531059"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "Guddu Fruits",
+    "phone": "+(91)-9868357144",
+    "address": "Amar Colony Market, Lajpat Nagar, Delhi - 110024, Near Kiddi Land",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.242671,
+        28.561964
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868357144"
+  },
+  null,
+  null,
+  {
+    "name": "Om sai ram vegetable vendor",
+    "phone": "+(91)-8587886008",
+    "address": "Sant nagar road, East Of Kailash, Delhi - 110065",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.244167,
+        28.559833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8587886008"
+  },
+  null,
+  {
+    "name": "Pappy Fruit Corner",
+    "phone": "+(91)-9891441660",
+    "address": "Shop No-5, Saket, Delhi - 110017, Ramji LAL Mkt,Opp 212",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.205151,
+        28.521683
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891441660"
+  },
+  null,
+  {
+    "name": "Manish Trading Co",
+    "phone": "+(91)-9312906342",
+    "address": "Lodhi Road, Delhi - 110003, New Sabzi Mandi,LAL Bagh",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226845,
+        28.587819
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312906342"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  {
+    "name": "Raghav fruits",
+    "phone": "+(91)-9911525789",
+    "address": "Shop No.6,Khokha Mkt, Pushp Vihar, Saket, Delhi - 110017, Opp. PNB Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.216333,
+        28.521667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911525789"
+  },
+  {
+    "name": "Salman vetable & fruit shop",
+    "phone": "+(91)-9312629464",
+    "address": "Shop No.1, Ramji LAL Mkt., Pushp Vihar, Saket, Delhi - 110017, Opp. PNB Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2165,
+        28.521667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312629464"
+  },
+  {
+    "name": "Javed fruit & vegetable corner",
+    "phone": "+(91)-9871786685",
+    "address": "Shop No.1, Ramji LAL Mkt., Pushp Vihar, Saket, Delhi - 110017, Opp. PNB Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2165,
+        28.521667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871786685"
+  },
+  {
+    "name": "Milan fruits",
+    "phone": "+(91)-9818566115",
+    "address": "Shop No.2, Khokha Mkt., Pushp Vihar, Saket, Delhi - 110017, Opp. PNB Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.216333,
+        28.5215
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818566115"
+  },
+  {
+    "name": "shibam juice bhandar",
+    "phone": "+(91)-9716212354",
+    "address": "ck 23, Kavi Nagar Ghaziabad, Ghaziabad - 110048",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.245761,
+        28.548889
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716212354"
+  },
+  {
+    "name": "Kanhaiya Fruit Store",
+    "phone": "+(91)-9818136146",
+    "address": "Shop no-3, Main Road, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024, Near Lal Sai Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.246645,
+        28.56565
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818136146"
+  },
+  {
+    "name": "Safal Pure Veg",
+    "phone": "+(91)-9999531023",
+    "address": "Shop No. 023, Garhi Main Road, Mount Kailash, East Of Kailash, Delhi - 110065, Near Mother Diary",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.247742,
+        28.55337
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531023"
+  }
+
+,
+
+  {
+    "name": "KB friar price",
+    "phone": "+(91)-7428702193",
+    "address": "Shop Number H-20, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024, Opposite Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.242833,
+        28.575833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7428702193"
+  },
+  {
+    "name": "Mintu fruit centre",
+    "phone": "+(91)-9717138752",
+    "address": "Krishna nagar main market, Main road, Lajpat Nagar 2-Lajpat Nagar, Delhi - 110024, Near gurduwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.243167,
+        28.575833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717138752"
+  },
+  {
+    "name": "Ram lal fruit shop",
+    "phone": "+(91)-9654039688",
+    "address": "G block, Krishna market, Lajpat Nagar 1-Lajpat Nagar, Delhi - 110024, Opposite Delhi nagar nigam",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.243167,
+        28.575833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654039688"
+  },
+  {
+    "name": "Safal Pure Veg",
+    "phone": "+(91)-9999531112",
+    "address": "shop no. 112, Vasant Vihar, Delhi - 110057, E block market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.159833,
+        28.561167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531112"
+  },
+  {
+    "name": "Sai Fresh Veg & Fruits",
+    "phone": "+(91)-8447909097",
+    "address": "Sh No 1,H No 54, Gali No 1, Saket, Delhi - 110017, Saidulajab",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.203333,
+        28.518
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447909097"
+  },
+  {
+    "name": "Vijay juice corner",
+    "phone": "+(91)-8586064712",
+    "address": "Main market Garhi, East Of Kailash, Delhi - 110065, Opposite barat ghar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.249167,
+        28.559833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8586064712"
+  },
+  {
+    "name": "Desh raj fruitvendor",
+    "phone": "+(91)-9811307528",
+    "address": "Sant nagar road, East Of Kailash, Delhi - 110065",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.250333,
+        28.562167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811307528"
+  },
+  {
+    "name": "Fruit corner",
+    "phone": "+(91)-9711037158",
+    "address": "Main market, Garhi, East Of Kailash, Delhi - 110065, Near neem chwok",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.250333,
+        28.562167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711037158"
+  },
+  {
+    "name": "Laxmikant fruit vendor",
+    "phone": "+(91)-9210916587",
+    "address": "Shop no 3, Sant nagar road, East Of Kailash, Delhi - 110065",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.250333,
+        28.562167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9210916587"
+  },
+  {
+    "name": "Mukesh kumar fruit vendor",
+    "phone": "+(91)-8743042341",
+    "address": "Sant nagar road, East Of Kailash, Delhi - 110065",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.250333,
+        28.562167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8743042341"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "Shiv Shanker Fruits",
+    "phone": "+(91)-9818221741",
+    "address": "M-block main market, Greater Kailash II, Delhi - 110048, Near twenty four seven",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.244167,
+        28.534
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818221741"
+  },
+  {
+    "name": "Make fruit corner",
+    "phone": "+(91)-9968145442",
+    "address": "Main market , Garhi, East Of Kailash, Delhi - 110065, Near iskcon temple, Krishna medicos",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.252667,
+        28.557833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968145442"
+  },
+  {
+    "name": "Balaji Corner",
+    "phone": "+(91)-9871715307",
+    "address": "C R Park, Delhi - 110019, Market No-1, Opposite Allahabad Bank, Near Video Place",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.247741,
+        28.538197
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871715307"
+  },
+  {
+    "name": "Fruit House",
+    "phone": "+(91)-9312433937",
+    "address": "Plateform No-28, Mkt No-2, C R Park, Delhi - 110019, Nr-Nehru Place",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.247741,
+        28.538197
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312433937"
+  },
+  null,
+  {
+    "name": "Parv",
+    "phone": "+(91)-9540760888",
+    "address": "Office Number-B68/1, East Of Kailash, Delhi - 110065, Near Iskcon Temple",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.253625,
+        28.555977
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540760888"
+  },
+  {
+    "name": "Navab fruit chart",
+    "phone": "+(91)-9718357550",
+    "address": "Shop no 12, Nehru Place, Delhi - 110019, Near modi tower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.252667,
+        28.547333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718357550"
+  },
+  {
+    "name": "Sonu fruit shop",
+    "phone": "+(91)-9971201283",
+    "address": "F 45, Kalkaji, Delhi - 110019, Near goal chakar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.252663,
+        28.541922
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971201283"
+  }
+
+,
+
+  null,
+  {
+    "name": "Simla Fruit Mart",
+    "phone": "+(91)-9871120074",
+    "address": "72-B, Khanna Mkt, Delhi - 110003, Back side axis bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226495,
+        28.600103
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871120074"
+  },
+  null,
+  null,
+  {
+    "name": "Pawandeep Chadha",
+    "phone": "+(91)-9810997708",
+    "address": "10-B, Mathura Road, Jangpura, Delhi - 110014",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.250461,
+        28.58324
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810997708"
+  },
+  null,
+  {
+    "name": "Sabzi2home",
+    "phone": "+(91)-8505881445",
+    "address": "176, Ignou Road, Neb Sarai, Delhi - 110068",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.202852,
+        28.508899
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8505881445"
+  },
+  {
+    "name": "New Green Vegetables & Fruits ...",
+    "phone": "+(91)-9871878808",
+    "address": "W-6, T-180, Ekta Mg, Sainik Farms, Delhi - 110062, Nr Country Club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2120805,
+        28.508292
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871878808"
+  },
+  {
+    "name": "Sunder Fruit & Vegetable Store",
+    "phone": "+(91)-9899629960",
+    "address": "T 180/2, Sainik Farms, Delhi - 110062, Near Country Club",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2120805,
+        28.508292
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899629960"
+  },
+  {
+    "name": "Shri Balaji Fruit Shop",
+    "phone": "+(91)-9717305461",
+    "address": "Shop No .-9, Ram Market, Budh Bazar, Govindpuri, Kalkaji, Kalkaji, Delhi - 110019",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.258967,
+        28.543456
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717305461"
+  }
+
+,
+
+  null,
+  {
+    "name": "Vegetable bazar",
+    "phone": "+(91)-9990232227",
+    "address": "H17a basement, Main road, Kalkaji, Delhi - 110019, Nr. Dominoz",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.258278,
+        28.540072
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990232227"
+  },
+  null,
+  {
+    "name": "Safal",
+    "phone": "+(91)-9999531135",
+    "address": "Booth No-135, Vasant Kunj, Delhi - 110070, Dda Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.155358,
+        28.528657
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531135"
+  },
+  {
+    "name": "Napisuddin",
+    "phone": "+(91)-9711791966",
+    "address": "SanjAy lane, Main Road, Ashram, Delhi - 110014",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.259,
+        28.575667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711791966"
+  },
+  null,
+  {
+    "name": "Shri Ganesh Tamatar Co",
+    "phone": "+(91)-9911407911",
+    "address": "Shop No 194,, Okhla, Delhi - 110020, Okhla Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2631683287,
+        28.5588095961
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911407911"
+  },
+  null,
+  {
+    "name": "Daily-Veg",
+    "phone": "+(91)-9990833187",
+    "address": "A-549, Double Storey, Kalkaji, Delhi - 110019, Opposite Raghunath Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.259401,
+        28.536397
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990833187"
+  },
+  {
+    "name": "Balaji Fruits",
+    "phone": "+(91)-9654390836",
+    "address": "Shop no-9, Ram Mkt, Guru Ravidass Marg, Govind Puri-Kalkaji, Delhi - 110019, Nr Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261167,
+        28.539167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654390836"
+  }
+
+,
+
+  {
+    "name": "Sexena fruits",
+    "phone": "+(91)-9971525961",
+    "address": "Shop no-91, Main road, Kalkaji, Delhi - 110019, Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261333,
+        28.539167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971525961"
+  },
+  {
+    "name": "Harkishan Fruit Shop",
+    "phone": "+(91)-9654774838",
+    "address": "Shop no-9, Sabji Mkt, Main Road Govindpuri, Govind Puri-Kalkaji, Delhi - 110019, Opp Shulabh Sauchalya",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261333,
+        28.539167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654774838"
+  },
+  {
+    "name": "Sushil fruits",
+    "phone": "+(91)-9910599591",
+    "address": "S no 91, Main road, Kalkaji, Delhi - 110019, Budh mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261333,
+        28.539167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910599591"
+  },
+  {
+    "name": "Umesh Fruit Corner",
+    "phone": "+(91)-9560520571",
+    "address": "Shop No.- 19,Ram Market, Budh Bazar, Govindpuri, Kalkaji, Kalkaji, Delhi - 110019",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261333,
+        28.539
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560520571"
+  },
+  {
+    "name": "Khemchand Fruit Shop",
+    "phone": "+(91)-9958445241",
+    "address": "Shop no-9, Ram Mkt, Guru Ravidass Marg, Govind Puri-Kalkaji, Delhi - 110019, Nr Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261333,
+        28.539
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958445241"
+  },
+  {
+    "name": "Cha ha Bhatija",
+    "phone": "+(91)-9540094681",
+    "address": "B-1, Vasant Kunj, Delhi - 110070, Opposite  Petrol Pump , Fruit Market,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.156833,
+        28.5235
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9540094681"
+  },
+  {
+    "name": "Malik Vegetable & Fruits",
+    "phone": "+(91)-9250540841",
+    "address": "D-6, Vasant Kunj, Delhi - 110070, Masoodpur, Nr Fly Over",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.152247,
+        28.529186
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9250540841"
+  },
+  {
+    "name": "Mitanni fresh fruit shop",
+    "phone": "+(91)-9560467229",
+    "address": "Shop 6, Main road, Vasant Kunj, Delhi - 110070, Near Vasant vihar mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.156739,
+        28.523545
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560467229"
+  },
+  null,
+  null
+
+,
+
+  {
+    "name": "Jai Pal Ram Parsad Saini Fruit...",
+    "phone": "+(91)-9910892931",
+    "address": "Shop No-66, New Sbji Mandi, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910892931"
+  },
+  null,
+  {
+    "name": "Chawla Bros",
+    "phone": "+(91)-9312233315",
+    "address": "13,, Okhla, Delhi - 110020, New Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312233315"
+  },
+  {
+    "name": "Haji Umardeen & Sons",
+    "phone": "+(91)-9810530819",
+    "address": "S No-29, Okhla, Delhi - 110020, New Okhla Sabzi Mandi, Nr Modi Mill",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810530819"
+  },
+  {
+    "name": "Hazi Saukin Fruit Co",
+    "phone": "+(91)-9871614065",
+    "address": "Sh No 265,, Okhla, Delhi - 110020, Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871614065"
+  },
+  null,
+  {
+    "name": "khurja vegetable  co",
+    "phone": "+(91)-9810195604",
+    "address": "166, Okhla, Delhi - 110020, New Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810195604"
+  },
+  {
+    "name": "Taj fruit co",
+    "phone": "+(91)-9810547786",
+    "address": "253, Okhla, Delhi - 110020, Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810547786"
+  },
+  {
+    "name": "Siraj Fruit & VEG Agent",
+    "phone": "+(91)-9266048523",
+    "address": "Sh No 36, Okhla, Delhi - 110020, New Subji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9266048523"
+  },
+  {
+    "name": "Usman bhai",
+    "phone": "+(91)-9911780786",
+    "address": "Shop No-35, Okhla, Delhi - 110020, New Sabzi  Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911780786"
+  }
+
+,
+
+  {
+    "name": "abdul salam & co",
+    "phone": "+(91)-9312284657",
+    "address": "Shop No 196, Okhla, Delhi - 110020, New Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312284657"
+  },
+  {
+    "name": "Madeena Furits Co",
+    "phone": "+(91)-9810747776",
+    "address": "S No 223, Okhla, Delhi - 110020, Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810747776"
+  },
+  {
+    "name": "Syndicate Fruits Co",
+    "phone": "+(91)-9560937116",
+    "address": "S No-152, Okhla, Delhi - 110020, Nr Nehru Place,Okhla Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560937116"
+  },
+  {
+    "name": "Quality Fruits & Vegetable com...",
+    "phone": "+(91)-9250135510",
+    "address": "Shop No-186, Okhla, Delhi - 110020, Nai Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9250135510"
+  },
+  {
+    "name": "Mohd Yunus & Co",
+    "phone": "+(91)-9891178952",
+    "address": "Shop No-204, Okhla, Delhi - 110020, Nai Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891178952"
+  },
+  {
+    "name": "Jagveer Singh Jai Prakash Saini",
+    "phone": "+(91)-9891106358",
+    "address": "Sh No 3, Okhla, Delhi - 110020, Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891106358"
+  },
+  {
+    "name": "Rama Krishna",
+    "phone": "+(91)-9810840785",
+    "address": "Sh No 42,, Okhla, Delhi - 110020, New Sabzi Mandi,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810840785"
+  },
+  {
+    "name": "Green Valley Vegtable Co",
+    "phone": "+(91)-9634521738",
+    "address": "Sh No 85, Okhla, Delhi - 110020, New Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9634521738"
+  },
+  {
+    "name": "Rahish Nadeem & Co",
+    "phone": "+(91)-9899958852",
+    "address": "Shop No 78, Okhla, Delhi - 110020, New Sabzi Mandi, Okhla",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899958852"
+  },
+  {
+    "name": "Chand Fruit Co",
+    "phone": "+(91)-9911691271",
+    "address": "Shop No:-45, Okhla, Delhi - 110020, Okla Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911691271"
+  }
+
+,
+
+  {
+    "name": "Mohd. Ashraf Fruit Merchant",
+    "phone": "+(91)-9990695924",
+    "address": "Shop No-48, Okhla Mandi, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990695924"
+  },
+  {
+    "name": "Shiv Vegetable Co",
+    "phone": "+(91)-9971814914",
+    "address": "44, Okhla Grain Market,, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971814914"
+  },
+  {
+    "name": "Indian Fruit Company",
+    "phone": "+(91)-9871419642",
+    "address": "Shop No 268,170,, New Sabzi Mandi,, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871419642"
+  },
+  {
+    "name": "Hazi Emamudeen Hazi MOH Ali An...",
+    "phone": "+(91)-9311185320",
+    "address": "Shop No 47,, New Sabji Mandi,, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9311185320"
+  },
+  {
+    "name": "Waseem Fruit & Vegetable Supplier",
+    "phone": "+(91)-9871759569",
+    "address": "Shop No. 23, Subzi Mandi, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871759569"
+  },
+  {
+    "name": "Ram Rahim & Company",
+    "phone": "+(91)-9212498333",
+    "address": "20, Okhla, Delhi - 110020, New Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9212498333"
+  },
+  {
+    "name": "Munni LAL Bitti Bhai Amroha Wale",
+    "phone": "+(91)-9953780146",
+    "address": "Shop No 33, Okhla Sabzi ,Mandi, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953780146"
+  },
+  {
+    "name": "Sannu Baba",
+    "phone": "+(91)-9971376766",
+    "address": "Shop No 49, Okhla, Delhi - 110020, New Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971376766"
+  },
+  {
+    "name": "Hazi Ziyauudin & Sons",
+    "phone": "+(91)-9868621788",
+    "address": "Shop No 24, Okhla, Delhi - 110020, New Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868621788"
+  },
+  {
+    "name": "Pardhan Ji Fruit Co",
+    "phone": "+(91)-9350024514",
+    "address": "Shop No. 255, Okhla, Delhi - 110020, New Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350024514"
+  }
+
+,
+
+  {
+    "name": "Indian Fruit Co.",
+    "phone": "+(91)-9810317529",
+    "address": "Shop No. 268,170, Okhla, Delhi - 110020, New Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.26531,
+        28.557395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810317529"
+  },
+  {
+    "name": "Subhash chand fruit corner",
+    "phone": "+(91)-9213280368",
+    "address": "Kalka ji, Kalkaji, Delhi - 110019, Near Ravi das marg",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2615,
+        28.5385
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213280368"
+  },
+  {
+    "name": "S/B fruit corner",
+    "phone": "+(91)-8010854224",
+    "address": "Shop no-5, Main road, Kalkaji, Delhi - 110019, Opp- guruduara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261667,
+        28.538833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8010854224"
+  },
+  {
+    "name": "Manoj fruit shop",
+    "phone": "+(91)-9818836542",
+    "address": "Ravi das marg, Govind Puri-Kalkaji, Delhi - 110019, Near Ravi das marg",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.261667,
+        28.538667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818836542"
+  },
+  {
+    "name": "Al Quresh Fruit Corner",
+    "phone": "+(91)-7838215322",
+    "address": "Chaudhary Nursery, Mahipalpur Road, Vasant Kunj, Delhi - 110070, Near Crpf Camp",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.15204,
+        28.528508
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838215322"
+  },
+  {
+    "name": "Munna Vegetable & Fruits",
+    "phone": "+(91)-9818148482",
+    "address": "Janta Flats, Vasant Kunj, Delhi - 110070, Opp C-2/2550",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.15204,
+        28.528508
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818148482"
+  },
+  null,
+  {
+    "name": "Chand Sitara Fruit & Vegetable Co",
+    "phone": "+(91)-9350431030",
+    "address": "Shop No-146, Okhla Subzi Mandi, Okhla Industrial Area Phase Ii, Delhi - 110020, Near Okhla Railway Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.265748,
+        28.559063
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350431030"
+  },
+  {
+    "name": "Waseem Fruit Center",
+    "phone": "+(91)-9718647375",
+    "address": "Main Road, Chattarpur, Delhi - 110074, Near Aggawal Sweets",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1815867,
+        28.5066599
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718647375"
+  },
+  {
+    "name": "Chacha bhatija fruit shop",
+    "phone": "+(91)-9990506584",
+    "address": "B-1, Abdul road, Vasant Kunj, Delhi - 110070, Opp. fortis hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.158833,
+        28.519833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990506584"
+  }
+
+,
+
+  null,
+  {
+    "name": "Nehru",
+    "phone": "+(91)-8447120112",
+    "address": "148, Maharani Bagh, Delhi - 110065",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.262833,
+        28.575833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447120112"
+  },
+  {
+    "name": "Manoj Vegetable Shop",
+    "phone": "+(91)-9211228297",
+    "address": "Block A1, Chhatarpur, Chhatarpur Enclave, Delhi - 110030, Main Chhatarpur Rd",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.190106,
+        28.502224
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211228297"
+  },
+  {
+    "name": "Sushil Vegetable Shop",
+    "phone": "+(91)-9654898003",
+    "address": "House No-224, Tyagi Champal, Chhatarpur Enclave, Delhi - 110030, Chhatarpur Rd",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.190106,
+        28.502224
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654898003"
+  },
+  {
+    "name": "Green Apple",
+    "phone": "+(91)-9811994459",
+    "address": "D-12,Main Road,Taimoor Nagar, New Friends Colony, Delhi - 110025, Near-Gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.266833,
+        28.570833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811994459"
+  },
+  {
+    "name": "Sunil fruit shop",
+    "phone": "+(91)-7840807185",
+    "address": "New Friends Colony, Delhi - 110025, Near dda market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.267833,
+        28.5695
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7840807185"
+  },
+  null,
+  {
+    "name": "Dev Fruits",
+    "phone": "+(91)-9711583785",
+    "address": "Shop No 45, Main Road, Govind Puri-Kalkaji, Delhi - 110019",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.264564,
+        28.535445
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711583785"
+  },
+  {
+    "name": "raju fresh fruit shop",
+    "phone": "+(91)-9711323137",
+    "address": "New Friends Colony, Delhi - 110025, D-971",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.268833,
+        28.567333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9711323137"
+  },
+  {
+    "name": "Vidhayanand provision Shop",
+    "phone": "+(91)-9654788444",
+    "address": "Shop no 27, Tughlakabad, Delhi - 110044, Near Tughlakabad Fort",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.259803,
+        28.525688
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654788444"
+  }
+
+,
+
+  {
+    "name": "Ram autar fruits corner",
+    "phone": "+(91)-8527514383",
+    "address": "A-9, Main road, New Friends Colony, Delhi - 110025, Bharat nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.27,
+        28.566167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8527514383"
+  },
+  {
+    "name": "ARNEEN FRUIT VENDOR",
+    "phone": "+(91)-9811461418",
+    "address": "Chattarpur Main Road, Chattarpur, Delhi - 110074, Opposite yes Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.183333,
+        28.501167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811461418"
+  },
+  {
+    "name": "Milan fruit shop",
+    "phone": "+(91)-8527903961",
+    "address": "Phool mandi, 100 futta road, Chattarpur, Delhi - 110074, T-point chhattarpur",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185167,
+        28.500167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8527903961"
+  },
+  {
+    "name": "Milan fruit shop",
+    "phone": "+(91)-9958174817",
+    "address": "100 feet road, Mai road, Chattarpur, Delhi - 110074, Nr, hair w r saloon",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185167,
+        28.500167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958174817"
+  },
+  {
+    "name": "Nadeem Fruit Shop",
+    "phone": "+(91)-9999200048",
+    "address": "Near Aggarwal Sweets, Main Mandir Road, Chattarpur, Delhi - 110074, Opposite Dena Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.184188,
+        28.500272
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999200048"
+  },
+  {
+    "name": "Shahubuddin Fruit Shop",
+    "phone": "+(91)-9911243390",
+    "address": "Main Road, Sarai Jullena-New Friends Colony, Delhi - 110025, Near Surya Hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.272,
+        28.560833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911243390"
+  },
+  {
+    "name": "NADEEM FRUIT SHOP",
+    "phone": "+(91)-9910518246",
+    "address": "Shop no - 3, Chattarpur Main Road, Chattarpur, Delhi - 110074, Near dena bank ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.184167,
+        28.500167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910518246"
+  },
+  {
+    "name": "Om SAI Enterprises",
+    "phone": "+(91)-9818462828",
+    "address": "Plot No-383, Gali No-1b,Ratia Mg, Sangam Vihar, Delhi - 110080, Blk-D",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.236362,
+        28.504072
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818462828"
+  },
+  {
+    "name": "Ansari Kela Godaam",
+    "phone": "+(91)-9911876390",
+    "address": "Gali No-8/1, Raitya Mg, Sangam Vihar, Delhi - 110080, Nr Hamdard Ngr, Opp Gate No-3",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.236362,
+        28.504072
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911876390"
+  },
+  {
+    "name": "Mujahid Enterprises",
+    "phone": "+(91)-9639590900",
+    "address": "71, Sarai Jullena-New Friends Colony, Delhi - 110025, Near bus stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.272667,
+        28.561833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9639590900"
+  }
+
+,
+
+  {
+    "name": "Lucky Vegetables",
+    "phone": "+(91)-9716169068",
+    "address": "Shop no.1, H.no.220A, Chattar Pur Enclave, Phase.1, Chattarpur, Delhi - 110074, Near Jai mata di genreal store",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1895,
+        28.498167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716169068"
+  },
+  {
+    "name": "Tahir fruit corner",
+    "phone": "+(91)-9911120797",
+    "address": "91-B, Sarai Jullena-New Friends Colony, Delhi - 110025, OPP.escort hospital gate no -2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.273167,
+        28.56
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911120797"
+  },
+  {
+    "name": "Saleem Vegetable Shop",
+    "phone": "+(91)-9650872657",
+    "address": "Chattarpur, Delhi - 110074, 100 Feet Rd,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.184204,
+        28.498849
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650872657"
+  },
+  {
+    "name": "Mizan Fruit Shop",
+    "phone": "+(91)-9599082701",
+    "address": "Opposite yes Bank, Main Road, Chattarpur, Delhi - 110074, Near MCD Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181603,
+        28.499508
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9599082701"
+  },
+  {
+    "name": "Member Fruit Co",
+    "phone": "+(91)-9136894134",
+    "address": "S No- 48, Okhla, Delhi - 110020, Okhla Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.268971,
+        28.534527
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9136894134"
+  },
+  {
+    "name": "BALAJI FRUIT VENDER",
+    "phone": "+(91)-7764901002",
+    "address": "Shop no 11, Main Chattarpur Road, Chattarpur, Delhi - 110074, Mangal Bazar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1825,
+        28.498833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7764901002"
+  },
+  {
+    "name": "Fresh fruit shop",
+    "phone": "+(91)-9153751983",
+    "address": "Shop no # 4, Main Chattarpur Road, Chattarpur, Delhi - 110074, Near Yes Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1825,
+        28.498833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9153751983"
+  },
+  {
+    "name": "Ashok fruit shop",
+    "phone": "+(91)-9564683334",
+    "address": "Shop no  33, Main Road, Chattarpur, Delhi - 110074, Near SAI Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.182333,
+        28.498833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9564683334"
+  },
+  {
+    "name": "Fresh Fruit shop",
+    "phone": "+(91)-8509987145",
+    "address": "Shop no - 1, Main Road, Chattarpur, Delhi - 110074, Near sethi ELECTRICALS",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.182333,
+        28.498833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8509987145"
+  },
+  {
+    "name": "Rajbul Fruit Saler",
+    "phone": "+(91)-9717237520",
+    "address": "Room No 150, New Friends Colony, Delhi - 110025, Gadi,Ramesh Mkt,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.273147,
+        28.567751
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717237520"
+  }
+
+,
+
+  {
+    "name": "Fresh Veg store",
+    "phone": "+(91)-9038812224",
+    "address": "Shop no 33, Chattarpur Road, Chattarpur, Delhi - 110074, Near Dena Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1825,
+        28.498667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9038812224"
+  },
+  {
+    "name": "Akeel Fruit Shop",
+    "phone": "+(91)-9891269848",
+    "address": "New Friends Colony, Delhi - 110025, Near Mata Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.27356,
+        28.567049
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891269848"
+  },
+  {
+    "name": "Rizwan Fruit Shop",
+    "phone": "+(91)-9555094755",
+    "address": "New Friends Colony, Delhi - 110025, Near Mata Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.27356,
+        28.567049
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9555094755"
+  },
+  {
+    "name": "MAHARANA FRUIT VENDER",
+    "phone": "+(91)-9749656470",
+    "address": "Shop no - 2, CHATTARPUR ROAD, Chattarpur, Delhi - 110074, Near Dena Bank ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1825,
+        28.4985
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9749656470"
+  },
+  {
+    "name": "Le Marche",
+    "phone": "+(91)-9910602222",
+    "address": "D-90/95, 100 Feet Road, Chattarpur, Delhi - 110074",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185729,
+        28.497397
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910602222"
+  },
+  null,
+  {
+    "name": "Nawab Uddin Fruit And Vegetabl...",
+    "phone": "+(91)-9810068922",
+    "address": "Shop No-82, Okhla, Delhi - 110020, Okhla Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.275894,
+        28.541289
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810068922"
+  },
+  {
+    "name": "Hazi Babu Khan",
+    "phone": "+(91)-9971562921",
+    "address": "Shop No 4, Subzi Mandi Okhla, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.275894,
+        28.541289
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971562921"
+  },
+  {
+    "name": "Haji Umardeen & Sons",
+    "phone": "+(91)-9818020445",
+    "address": "Shop No 29, New Sabji Mandi, Okhla, Delhi - 110020",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.275894,
+        28.541289
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818020445"
+  },
+  null
+
+,
+
+  {
+    "name": "Lmj International Limited",
+    "phone": "+(91)-9313530039",
+    "address": "Lmj House, 9,, Hanuman Road,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21469453,
+        28.62277936
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313530039"
+  },
+  {
+    "name": "Zuber Ahmed & Juned Ahmed",
+    "phone": "+(91)-9213624170",
+    "address": "212a,, T Ext,Gali No 8,Vishwas Park,Nr Radha Krishna Model Scheme Uttam Na,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21469453,
+        28.62277936
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213624170"
+  },
+  {
+    "name": "Radhaswami Property Dealer",
+    "phone": "+(91)-9313123099",
+    "address": "Shop Number 4-5,, Mcd Market,Tb Hospital,Kcc Gate Outram Lane,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21469453,
+        28.62277936
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313123099"
+  },
+  null,
+  {
+    "name": "Raj Kumar & Bros",
+    "phone": "+(91)-9818377402",
+    "address": "D-423,New Subzi Mandi,Azad Pur, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818377402"
+  },
+  null,
+  {
+    "name": "Om Agri World",
+    "phone": "+(91)-9810952040",
+    "address": "I - 2256, D S I D C, Nareli Industrial Area, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810952040"
+  },
+  null,
+  {
+    "name": "Organoplatina",
+    "phone": "+(91)-9310071904",
+    "address": "Flat No - 3390, Sector A Pocket B,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9310071904"
+  },
+  null
+
+,
+
+  null,
+  {
+    "name": "Mohd Javed Fruits Co",
+    "phone": "+(91)-9211012035",
+    "address": "C-620 New Mandi,Azad Pur,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211012035"
+  },
+  null,
+  null,
+  {
+    "name": "Jagadambey Onion Company",
+    "phone": "+(91)-9810110315",
+    "address": "A - 270, M, N S M, Azad Pur, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810110315"
+  },
+  null,
+  null,
+  {
+    "name": "Sharma Fruits",
+    "phone": "+(91)-9910702386",
+    "address": "7/261, Farsh Bazar, Shahdara, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910702386"
+  },
+  null,
+  {
+    "name": "Varun Choudhary & Son",
+    "phone": "+(91)-9811009238",
+    "address": "Shop No D-1409,New Subzi Mandi,Azad Pur,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811009238"
+  }
+
+,
+
+  null,
+  {
+    "name": "Satya Prakash & Co",
+    "phone": "+(91)-9811017326",
+    "address": "C-32 New Subzi Mandi,Azad Pur, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811017326"
+  },
+  {
+    "name": "Panipat Fruit Agency",
+    "phone": "+(91)-9811107093",
+    "address": "D-1385,Subzi Mandi,Azad Pur, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811107093"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Sita Ram Shyam Sunder",
+    "phone": "+(91)-9811378138",
+    "address": "G-205,Subzi Mandi,Azad Pur,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811378138"
+  },
+  null,
+  {
+    "name": "Durga Seeds Corporation",
+    "phone": "+(91)-9311145045",
+    "address": "130, Indra Market, Old Subzi Mandi, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9311145045"
+  },
+  {
+    "name": "Sa Engitech Private Limited",
+    "phone": "+(91)-9899132539",
+    "address": "B 4 - 141, 1st Floor, Safdarjung Enclave,, New Delhi, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.219439,
+        28.623405
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899132539"
+  }
+
+,
+
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "HASAN FRUIT SHOP",
+    "phone": "+(91)-8802424547",
+    "address": "Shop No. 840, Post Office Road, Mahipalpur, Delhi - 110037, Near Small Red Light",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.128403,
+        28.545042
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8802424547"
+  },
+  {
+    "name": "FOOD AND YOU",
+    "phone": "+(91)-9350020253",
+    "address": "Shop no-119, Rajpur extention, Chattarpur, Delhi - 110074, Ram chandra market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.191333,
+        28.489167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350020253"
+  },
+  {
+    "name": "Arshad fruits retailer",
+    "phone": "+(91)-9891415936",
+    "address": "30 gaffrar manji, Main road, Jamia Nagar, Delhi - 110025, Litle flower school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.283333,
+        28.557333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891415936"
+  },
+  {
+    "name": "Moon Fruit",
+    "phone": "+(91)-9811231912",
+    "address": "Okhla Industrial Area, Delhi - 110020, Okhla Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.276616,
+        28.529186
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811231912"
+  },
+  {
+    "name": "Milan gulab fruit shop",
+    "phone": "+(91)-9911782586",
+    "address": "Shop no 2, Main road, Vasant Kunj Sector-B, Delhi - 110070, Near Vasant vihar mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.14184,
+        28.513969
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911782586"
+  }
+
+,
+
+  {
+    "name": "Fhaem fruits retailer",
+    "phone": "+(91)-7840802349",
+    "address": "R-233/7, Gali no-7, Zakir Nagar-Jamia Nagar, Delhi - 110025, Near isllah masjid",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2825,
+        28.569667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7840802349"
+  },
+  {
+    "name": "Balaji Fruit & Vegitable",
+    "phone": "+(91)-9810975861",
+    "address": "Gaon & Postoffice Kakrola,, Near Arora Shop,, New Delhi, Delhi - 110001, New Delhi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.218079,
+        28.62623
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810975861"
+  },
+  {
+    "name": "Mohar singh sanjeev saini",
+    "phone": "+(91)-9810588817",
+    "address": "Shop No 8,Sabzi Mandi, Okhla Industrial Area Phase III, Delhi - 110020, Okhla Industrial Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.278597,
+        28.529111
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810588817"
+  },
+  {
+    "name": "M/S Mohd. Hashim",
+    "phone": "+(91)-9873803689",
+    "address": "Shop No 15, New Sabzi Mandi, Okhla, Delhi - 110020, Okhla Industrial Estate",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.278597,
+        28.529111
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873803689"
+  },
+  {
+    "name": "Kadeem Fruit Shop",
+    "phone": "+(91)-8802198519",
+    "address": "Batla House Chowk, Jamia Nagar, Delhi - 110025, Nr Tareen Health Care",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.284833,
+        28.566
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8802198519"
+  },
+  null,
+  {
+    "name": "Chhote Fresh Fruit Shop",
+    "phone": "+(91)-9210357066",
+    "address": "Mehrauli, Delhi - 110030, Main Andheriya Mor Mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.176358,
+        28.489702
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9210357066"
+  },
+  {
+    "name": "Manoj Furit Shop",
+    "phone": "+(91)-9999591882",
+    "address": "Mehrauli, Delhi - 110030, Nr Darga School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.176358,
+        28.489702
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999591882"
+  },
+  {
+    "name": "Sheela Agro Products",
+    "phone": "+(91)-9717698700",
+    "address": "21, Naurang House,, K G Marg, Delhi - 110001",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221328,
+        28.628486
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717698700"
+  },
+  {
+    "name": "Sakeer fruit center",
+    "phone": "+(91)-9654108070",
+    "address": "Kh. No. 580, Mandi road, Sultanpur, Delhi - 110030, Ravindra memorial public school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1645,
+        28.492833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654108070"
+  }
+
+,
+
+  null,
+  null,
+  {
+    "name": "vpg stores pvt ltd",
+    "phone": "+(91)-8800241725",
+    "address": "2f elegance jasola distric center, Jasola Vihar, Delhi - 110025, near dlf tower",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.289305,
+        28.549846
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800241725"
+  },
+  {
+    "name": "Ahuja Fruit & Vegetable Center",
+    "phone": "+(91)-9213089823",
+    "address": "Shop No-57, Connaught Place, Delhi - 110001, Near Hanuman Mandir, Gole Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.206505,
+        28.632642
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213089823"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Saket fruit juice corner",
+    "phone": "+(91)-8447641096",
+    "address": "A 27, IGNOU road, Neb Sarai, Delhi - 110068, Near da pizza corner",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.216547,
+        28.481461
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447641096"
+  },
+  {
+    "name": "MIX FRUIT JUICE",
+    "phone": "+(91)-9718462383",
+    "address": "Hn-8, Rangpuri, Delhi - 110037, Nr radisson hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.117833,
+        28.541
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718462383"
+  },
+  {
+    "name": "Safal mother dairy",
+    "phone": "+(91)-9999531068",
+    "address": "Shop no-068, B -block market, Sarita Vihar, Delhi - 110076, Near state bank of bikaner and Jaipur",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.288345,
+        28.53122
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531068"
+  }
+
+,
+
+  {
+    "name": "VEGGIE LOVE",
+    "phone": "+(91)-9717129914",
+    "address": "E- 66/A, Abul Fazal Enclave 1 Road, Jamia Nagar, Delhi - 110025, Near Hari Kothi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.293397,
+        28.55505
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717129914"
+  },
+  {
+    "name": "Best Fresh Fruit & Vegetable",
+    "phone": "+(91)-9958938737",
+    "address": "Khsara no-114, Main Ignou Road, Neb Sarai, Delhi - 110068, Near Gate No 4, Saket",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.222836,
+        28.477825
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958938737"
+  },
+  {
+    "name": "Best Fresh",
+    "phone": "+(91)-9717335232",
+    "address": "Shop no. 114, IGNOU road, Neb Sarai, Delhi - 110068",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.222836,
+        28.477825
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717335232"
+  },
+  {
+    "name": "Mittal fruits",
+    "phone": "+(91)-8750543096",
+    "address": "15, main bazar, Pahar Ganj, Delhi - 110055",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211145,
+        28.638267
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8750543096"
+  },
+  {
+    "name": "Sfruits",
+    "phone": "+(91)-8800212607",
+    "address": "Near R.k. Traders, Ghitorni, Delhi - 110030, Main Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.145333,
+        28.493833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800212607"
+  },
+  {
+    "name": "vegetable & fruit shop",
+    "phone": "+(91)-9810992229",
+    "address": "Sarita Vihar, Delhi - 110076, J-Pocket Market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.293532,
+        28.534125
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810992229"
+  },
+  {
+    "name": "Fruit Sales Main",
+    "phone": "+(91)-9971863751",
+    "address": "Poc-C, Sarita Vihar, Delhi - 110076, Main Mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.293532,
+        28.534125
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971863751"
+  },
+  {
+    "name": "SHARMA FRUIT.",
+    "phone": "+(91)-8285173997",
+    "address": "27, Nehru Bazar, Near Punchkuain road, Pahar Ganj, Delhi - 110055, Near MAHAVEER Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212508,
+        28.639003
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8285173997"
+  },
+  {
+    "name": "R.K.FRUITS",
+    "phone": "+(91)-8285085311",
+    "address": "26, Nehru bazar, Pahar Ganj, Delhi - 110055, Near mahaveer mander",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212495,
+        28.639053
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8285085311"
+  },
+  {
+    "name": "Shakawat Fruit Vendor",
+    "phone": "+(91)-9958687978",
+    "address": "Infront of Shop No.10, Nehru Bazar, Pahar Ganj, Delhi - 110055, Near Shiv Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212928,
+        28.639375
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958687978"
+  }
+
+,
+
+  null,
+  {
+    "name": "Baldev raj vegetable shop",
+    "phone": "+(91)-9811165663",
+    "address": "261, Rattan lal market, Pahar Ganj, Delhi - 110055, Near r k metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212678,
+        28.639692
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811165663"
+  },
+  {
+    "name": "Yash Pal And sons",
+    "phone": "+(91)-9899021833",
+    "address": "279, rattan vegetable market, Pahar Ganj, Delhi - 110055, near mahavir mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212167,
+        28.639833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899021833"
+  },
+  {
+    "name": "Vinod chabda vegetable suppliers",
+    "phone": "+(91)-8800717280",
+    "address": "278, Nehru bazar, Pahar Ganj, Delhi - 110055, Near r k metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21222,
+        28.639875
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800717280"
+  },
+  {
+    "name": "Dua vegetable shop",
+    "phone": "+(91)-9654063442",
+    "address": "277, Nehru bazar, Pahar Ganj, Delhi - 110055, Near r k metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212263,
+        28.639883
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654063442"
+  },
+  {
+    "name": "Sanjay Fruit Merchant",
+    "phone": "+(91)-8860746257",
+    "address": "Nehru Bazar, Pahar Ganj, Delhi - 110055, Near shop no.4952",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.212833,
+        28.640167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860746257"
+  },
+  {
+    "name": "Mahalaxmi Fruit company",
+    "phone": "+(91)-9968056652",
+    "address": "1624, Ground floor, Rajguru road, Chuna Mandi-Paharganj, Delhi - 110055, opp cinema imperial",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210655,
+        28.64098
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968056652"
+  },
+  {
+    "name": "New jaggi fruit mart",
+    "phone": "+(91)-9013443406",
+    "address": "1623, Chunna mandi road, Pahar Ganj, Delhi - 110055, Imperial Cinema",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210708,
+        28.64108
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9013443406"
+  },
+  {
+    "name": "Safal mother dairy",
+    "phone": "+(91)-9999531069",
+    "address": "Pocket C Market, Pocket c and A Road, Sarita Vihar, Delhi - 110076, Mother Dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2945,
+        28.5295
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531069"
+  },
+  {
+    "name": "Goldy Cold Drinks",
+    "phone": "+(91)-9891420756",
+    "address": "Shop No.4802, Main Market, Pahar Ganj, Delhi - 110055, 62T",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.21357,
+        28.640928
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891420756"
+  }
+
+,
+
+  null,
+  {
+    "name": "Sushil fruit & veg supplier",
+    "phone": "+(91)-8802213677",
+    "address": "26, Old Rajender Nagar, Delhi - 110060, Old rajender nagar market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.185,
+        28.641
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8802213677"
+  },
+  {
+    "name": "Shailender Garg & Co.(CA)",
+    "phone": "+(91)-9811082063",
+    "address": "2045/2 3rd Floor Gali No.6, Chuna Mandi, Pahar Ganj, Delhi - 110055",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215726,
+        28.642126
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811082063"
+  },
+  {
+    "name": "Dharm pal chadha and sons",
+    "phone": "+(91)-9650283754",
+    "address": "4956-57, Nehru bazar, Pahar Ganj, Delhi - 110055, Near manhaveer mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.215726,
+        28.642126
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650283754"
+  },
+  {
+    "name": "Sharma fruits.",
+    "phone": "+(91)-9971330809",
+    "address": "Shop no.27 ground flor ., Nauru bazar., Pahar Ganj, Delhi - 110055, Opp. Narula bakery",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.210395,
+        28.642858
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971330809"
+  },
+  null,
+  {
+    "name": "A Fruit juice corner",
+    "phone": "+(91)-9999789186",
+    "address": "9027, Main road, Pahar Ganj, Delhi - 110055, Near lal haveli hotel",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.211175,
+        28.646022
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999789186"
+  },
+  {
+    "name": "Shri Balaji Fresh Fruits & Veg...",
+    "phone": "+(91)-9818337770",
+    "address": "Shop No. 1 LSC, Mayur Vihar Phase I, Delhi - 110091, Near Mother Dairy",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.29467,
+        28.598142
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818337770"
+  },
+  {
+    "name": "Baba fruit vendor",
+    "phone": "+(91)-9873279024",
+    "address": "In front of yes bank ATM, Main road, Mayur Vihar Phase I Extension, Delhi - 110091, Near Samchar apt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.29535,
+        28.597497
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873279024"
+  },
+  {
+    "name": "Basra fruit wale",
+    "phone": "+(91)-9650453349",
+    "address": "Parwana app road ,Samachar market, Mayur Vihar Phase I, Delhi - 110091, Opp:- ASN Public School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2955,
+        28.597833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9650453349"
+  }
+
+,
+
+  {
+    "name": "Md Kaif fruit store",
+    "phone": "+(91)-9958214918",
+    "address": "Main road Samachar market, Mayur Vihar Phase I, Delhi - 110091, Near :- ASN Public School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.295667,
+        28.597833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958214918"
+  },
+  null,
+  null,
+  {
+    "name": "Fruit shop",
+    "phone": "+(91)-8860936326",
+    "address": "Main road, Mayur Vihar Phase I, Delhi - 110091, Near Ahlcon public school",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.290787,
+        28.607195
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8860936326"
+  },
+  {
+    "name": "Fruit shop",
+    "phone": "+(91)-7836983085",
+    "address": "Shop no. 1, Mayur Vihar Phase I, Delhi - 110091",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.290808,
+        28.607297
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7836983085"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Brij Mohan & Co",
+    "phone": "+(91)-9999364576",
+    "address": "Shop No D 1220, Azad Market, Delhi - 110006, New Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.223176,
+        28.64721
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999364576"
+  },
+  {
+    "name": "Vipin Fruits",
+    "phone": "+(91)-8010796619",
+    "address": "Rajokri Village, A F Rajokri, Delhi - 110038",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.110947,
+        28.5158
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8010796619"
+  }
+
+,
+
+  {
+    "name": "Ajay Kumar",
+    "phone": "+(91)-9268243034",
+    "address": "Rz-3262/36, Tughlakabad, Delhi - 110044, Nr Majidiya Hospital Gate No 6",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.291733,
+        28.506844
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9268243034"
+  },
+  {
+    "name": "Salim fruits shop",
+    "phone": "+(91)-9990125093",
+    "address": "3053, Sir sayed ahmad road, Darya Ganj, Delhi - 110002, Behind golcha Cinema",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.239667,
+        28.644833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990125093"
+  },
+  {
+    "name": "Parag Agriculture",
+    "phone": "+(91)-9311995299",
+    "address": "5a/7, Ansari Rd, Darya Ganj, Delhi - 110002",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.239054,
+        28.645101
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9311995299"
+  },
+  {
+    "name": "Shree Laxmi Associates Private...",
+    "phone": "+(91)-9312093360",
+    "address": "4598/12b, 1st Floor, Ansari Road,, Darya Ganj, Delhi - 110002",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.239054,
+        28.645101
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312093360"
+  },
+  {
+    "name": "Arora Fruti Centre",
+    "phone": "+(91)-9899997169",
+    "address": "Shop No 15,Dayanand Road, Darya Ganj, Delhi - 110002",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.239054,
+        28.645101
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899997169"
+  },
+  {
+    "name": "Saheb Fruit Wale",
+    "phone": "+(91)-9871435589",
+    "address": "Pandav nagar. Main road, Mayur Vihar Phase I, Delhi - 110091, Opp:- fine home apartment",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.292833,
+        28.608333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871435589"
+  },
+  {
+    "name": "Ikram fruit corner.",
+    "phone": "+(91)-9716524816",
+    "address": "Shop no367., Chawri Bazar, Delhi - 110006, Near metro station gate no.1.",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.225967,
+        28.648662
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716524816"
+  },
+  {
+    "name": "Samsad fruit wale",
+    "phone": "+(91)-9958290448",
+    "address": "Patpergang village, Mother dairy road, Mayur Vihar Phase I, Delhi - 110091, Opp :- dispencry chest hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2895,
+        28.6135
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958290448"
+  },
+  {
+    "name": "Daksh Enterprises",
+    "phone": "+(91)-9818572757",
+    "address": "48, Patparganj, Delhi - 110092, Nr Anand Vihar Bus Dept",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.291172,
+        28.6115
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818572757"
+  },
+  {
+    "name": "Rinku Fruit Vendors",
+    "phone": "+(91)-9990819972",
+    "address": "A-23, Shakarpur, Delhi - 110092, School Block",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.277743,
+        28.625966
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990819972"
+  }
+
+,
+
+  {
+    "name": "Guddu fruit",
+    "phone": "+(91)-9560172692",
+    "address": "Amichand chawk, Kukreja hospital road, Mayur Vihar Phase I, Delhi - 110091, Near:- jivan hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2965,
+        28.6055
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560172692"
+  },
+  {
+    "name": "Jai Sri ram fruit bandar",
+    "phone": "+(91)-9213342798",
+    "address": "Amichand chawk, Kukreja hospital road, Mayur Vihar Phase I, Delhi - 110091, Near:- jivan anmol hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2965,
+        28.605667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9213342798"
+  },
+  null,
+  null,
+  {
+    "name": "ZAHID FRUITS CORNER",
+    "phone": "+(91)-9971229604",
+    "address": "S-528 A, SCHOOL BLOCK, Laxmi Nagar, Delhi - 110092, Near to LAXMI NAGAR METRO STATION GATE NO-2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.277,
+        28.6295
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971229604"
+  },
+  {
+    "name": "PAPAYA CORNER",
+    "phone": "+(91)-8882570571",
+    "address": "MAIN ROAD SHAKARPUR, Shakarpur, Delhi - 110092, NEAR TO PNB ATM",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2775,
+        28.6295
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8882570571"
+  },
+  {
+    "name": "Safal thok bazaar",
+    "phone": "+(91)-7827336517",
+    "address": "Sector 1,booth no 88831, Noida Sector 1, Noida - 201301, Near state bank of patiala",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.309,
+        28.589167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7827336517"
+  },
+  {
+    "name": "Deepak fruit bhandar",
+    "phone": "+(91)-9654995382",
+    "address": "New Ashok Nagar, Main road, New Ashok Nagar, Delhi - 110096, Opp :- wine shop",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.309167,
+        28.588833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654995382"
+  },
+  {
+    "name": "SONU PINEAPPLE SHOP",
+    "phone": "+(91)-7388827373",
+    "address": "S-123, MAIN ROAD LAXMI NAGAR, Laxmi Nagar, Delhi - 110092, Near to LAXMI NAGAR METRO",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.277333,
+        28.631
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7388827373"
+  },
+  {
+    "name": "SAI Associates Intl",
+    "phone": "+(91)-9910544986",
+    "address": "2nd Flr B-452/E,Majlis Park,Adarsh Nagar, Street No-5, Rajender Nagar, Delhi - 110008",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.170349,
+        28.650659
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910544986"
+  }
+
+,
+
+  {
+    "name": "Satguru Fruit Bhandar",
+    "phone": "+(91)-9868008451",
+    "address": "C-4, Laxmi Nagar, Delhi - 110092, Gur Ram Dass Ngr,Gurudwara Shri Guru Singh Sabha",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.27731,
+        28.632069
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868008451"
+  },
+  {
+    "name": "Shri JI ENT",
+    "phone": "+(91)-9999427311",
+    "address": "H No-27 B, Laxmi Nagar, Delhi - 110092, Blk J & K, Nr Dda Park",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.27731,
+        28.632069
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999427311"
+  },
+  {
+    "name": "Shanker fruit juice",
+    "phone": "+(91)-9910506939",
+    "address": "Main dadri road, Naya bans, Noida Sector 15, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.314333,
+        28.581333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910506939"
+  },
+  {
+    "name": "Abid & Javed Fruit Shop",
+    "phone": "+(91)-9911826918",
+    "address": "Shop No-3, Fatehpuri, Delhi - 110006, Fruit Market, Opposite Girdhari LAL School Bagh Deewar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.221633,
+        28.656507
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911826918"
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "name": "Gupta Juice",
+    "phone": "+(91)-9560243204",
+    "address": "Vikash Marg, Shakarpur, Delhi, Main Road, Shakarpur, Delhi - 110092",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2822569444,
+        28.6324305555
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560243204"
+  },
+  {
+    "name": "TULSI MAGIC NUTS",
+    "phone": "+(91)-9990182282",
+    "address": "B-7/3, SUBASH CHOK, Laxmi Nagar, Delhi - 110092, Near laxmi nagar metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.280687,
+        28.63378
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990182282"
+  }
+
+,
+
+  {
+    "name": "Bhudutt & Sons",
+    "phone": "+(91)-9911916114",
+    "address": "Badarpur, Delhi - 110044, Subzi Mandi .nr Tughlakabad Rlwy Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.302376,
+        28.501395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911916114"
+  },
+  null,
+  {
+    "name": "Mukesh Agent",
+    "phone": "+(91)-9953246557",
+    "address": "Nasirpur Mandi, Palam Colony, Delhi - 110045, Nr Mahaveer Encl",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.091792,
+        28.586057
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953246557"
+  },
+  {
+    "name": "Mangal fruits",
+    "phone": "+(91)-8130273363",
+    "address": "Shop no.564, Galindo.2, Shadipur, Delhi - 110008, Khanna market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.158833,
+        28.653
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8130273363"
+  },
+  {
+    "name": "Anil fruit vendor",
+    "phone": "+(91)-9582199840",
+    "address": "shop 564, khanna market, Shadipur, Delhi - 110008, near shadipur metro",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.158833,
+        28.653
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9582199840"
+  },
+  {
+    "name": "Chotu a Bhai faal wale",
+    "phone": "+(91)-7838768511",
+    "address": "Khana market, Patel Nagar, Delhi - 110008, Near Patel nagar police station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.158845,
+        28.653022
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838768511"
+  },
+  null,
+  {
+    "name": "Badam fruits shop",
+    "phone": "+(91)-9651084844",
+    "address": "Shop no-23, Jaitpur mor, Badarpur Gurgaon, Gurgaon - 110044, Sub way crossing",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.302333,
+        28.498167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9651084844"
+  },
+  null,
+  {
+    "name": "Om Juice & Shakes",
+    "phone": "+(91)-8527427023",
+    "address": "pocket -D,1, main road, Mayur Vihar Phase II, Delhi - 110091, opp. ICICI SECURITIES",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.300147,
+        28.619978
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8527427023"
+  }
+
+,
+
+  {
+    "name": "Guptaji Vegetable Suppliers",
+    "phone": "+(91)-9891798991",
+    "address": "Main Gali, Noida HO, Noida - 201301, Mangal Bazar,Nithari,Sec 31",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.321727,
+        28.580226
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891798991"
+  },
+  null,
+  null,
+  null,
+  {
+    "name": "Kamlesh Fruit",
+    "phone": "+(91)-9811748769",
+    "address": "S N-7, Anand Parbat, Delhi - 110005, Nehru Ngr",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.174255,
+        28.660419
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811748769"
+  },
+  {
+    "name": "Neeraj vegetable",
+    "phone": "+(91)-9717724156",
+    "address": "Atta pir, Noida 27, Noida Sector 27, Noida - 201301, Near GIP",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324167,
+        28.573667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717724156"
+  },
+  {
+    "name": "Krishna vegetable",
+    "phone": "+(91)-9458659526",
+    "address": "Atta pir, Sec 27,noida, Noida Sector 27, Noida - 201301, Near GIP",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324167,
+        28.573667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9458659526"
+  },
+  {
+    "name": "Anaazmandi",
+    "phone": "+(91)-8750921222",
+    "address": "sec 19, Atta Street, Noida, Noida - 201301, SBI Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.323401,
+        28.57804
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8750921222"
+  },
+  {
+    "name": "B.k vegetable  and fruit bhandar",
+    "phone": "+(91)-9911833878",
+    "address": "Shop no.-5 ma sakumbhari market, Noida Sector 27, Noida - 201301, Near submall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324333,
+        28.573667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911833878"
+  },
+  {
+    "name": "BK vegetable and fruits",
+    "phone": "+(91)-9990674118",
+    "address": "Shop no.5, E block,ma shakumbari market, Noida Sector 27, Noida - 201301, Near sub mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324333,
+        28.573667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990674118"
+  }
+
+,
+
+  {
+    "name": "Unus fruits",
+    "phone": "+(91)-9818253816",
+    "address": "Vasundra Enclave, Main Road, Vasundhara Enclave, Delhi - 110096, Opp:- Delux Apartment",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.3155,
+        28.600333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818253816"
+  },
+  {
+    "name": "Vishnu fruit chart",
+    "phone": "+(91)-9313874421",
+    "address": "Sector -9, Noida Sector 9, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324163,
+        28.576544
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313874421"
+  },
+  {
+    "name": "Aakash fruits",
+    "phone": "+(91)-9716470276",
+    "address": "Khoda colony, Nehru garden, Noida Sector 58, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324163,
+        28.576544
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716470276"
+  },
+  {
+    "name": "Sateesh fal shop",
+    "phone": "+(91)-9953182285",
+    "address": "Gijhor gate, Main gali, Noida Sector 53, Noida - 201301, Near CNG station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324163,
+        28.576544
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953182285"
+  },
+  {
+    "name": "AWANESH fruit corner",
+    "phone": "+(91)-9716153636",
+    "address": "Khora colony, Main road, Noida Sector 57, Noida - 201301, Near bear bar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.324163,
+        28.576544
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9716153636"
+  },
+  {
+    "name": "Ram Avtar Vegetables",
+    "phone": "+(91)-9211409129",
+    "address": "Shop No-754, Vasundhara Enclave, Delhi - 110096, Dda Mkt,Vasundhara Enclave",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.316516,
+        28.599288
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211409129"
+  },
+  {
+    "name": "Safal Mother Dairy",
+    "phone": "+(91)-9871972877",
+    "address": "744, Anand Vihar, Delhi - 110092, Blk-D,Dda Mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.287099,
+        28.636427
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871972877"
+  },
+  {
+    "name": "Jai Fruit Bhandar",
+    "phone": "+(91)-9990259833",
+    "address": "Shop No-12, Main Road, Chattarpur, Delhi - 110074, Near Metro Station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195808,
+        28.449836
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990259833"
+  },
+  {
+    "name": "Krishana Fruits",
+    "phone": "+(91)-9871708568",
+    "address": "Opp Aggarwal Madical, Chattarpur, Delhi - 110074",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.195808,
+        28.449836
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871708568"
+  },
+  {
+    "name": "Mother Dairy Safal Vegetables",
+    "phone": "+(91)-9999531920",
+    "address": "V Block Road 8, DLF City Phase III Gurgaon, Gurgaon - 122010, Nr Sai Baba",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.105408,
+        28.493495
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531920"
+  }
+
+,
+
+  {
+    "name": "Ramdev Rajput",
+    "phone": "+(91)-9999058724",
+    "address": "D-495, Masjid Wali Gali, Vinod Nagar West, Delhi - 110092",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.299626,
+        28.624912
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999058724"
+  },
+  null,
+  {
+    "name": "Sukhbir Fruits",
+    "phone": "+(91)-9654932858",
+    "address": "Water tank, Ramesh Nagar, Delhi - 110015, Opp. Hdfc bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.134833,
+        28.6465
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654932858"
+  },
+  null,
+  {
+    "name": "Ifc International",
+    "phone": "+(91)-9899519323",
+    "address": "B 153, New Fruit Market, Delhi Gpo, Delhi - 110006, Azadpur,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2353,
+        28.6621
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899519323"
+  },
+  null,
+  {
+    "name": "BOOK MY SABJI",
+    "phone": "+(91)-8587872687",
+    "address": "shop-2, Big Shopping mall, Noida Sector 27, Noida - 201301, indira market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.32618,
+        28.574108
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8587872687"
+  },
+  {
+    "name": "Safal Store",
+    "phone": "+(91)-9999531646",
+    "address": "DA Block Market, Hari Nagar, Delhi - 110064, Near tihar jail",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1075,
+        28.624833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531646"
+  },
+  {
+    "name": "Ramjan vegetable store",
+    "phone": "+(91)-7840856352",
+    "address": "Indra market, Noida Sector 27, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.326333,
+        28.573833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7840856352"
+  },
+  {
+    "name": "Noor Fruit Vegetable Shop",
+    "phone": "+(91)-9718542556",
+    "address": "Siris Road, Dlf City Phase III Gurgaon, Gurgaon - 122010, Opposite Senior Secondary School",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.107528,
+        28.489395
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718542556"
+  }
+
+,
+
+  {
+    "name": "Delhi Fruit & Vegetable Co",
+    "phone": "+(91)-9313061113",
+    "address": "Shop No-306, Ghazipur, Delhi - 110096, New Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9313061113"
+  },
+  {
+    "name": "Junieze Fruit",
+    "phone": "+(91)-9350751770",
+    "address": "S No -25, Ghazipur, Delhi - 110096, Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350751770"
+  },
+  {
+    "name": "Deepak Fruit & Vegetable",
+    "phone": "+(91)-9212311415",
+    "address": "Shop No- 148, Ghazipur, Delhi - 110096, Nr Edm Mall, New Gazipur Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9212311415"
+  },
+  {
+    "name": "Haji Habib & Sons",
+    "phone": "+(91)-9873473426",
+    "address": "Shop No-205, Gaji Pur Sabji Mandi, Ghazipur, Delhi - 110096, Ne Edm Mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873473426"
+  },
+  {
+    "name": "Choudhary Samaysingh Kaluram A...",
+    "phone": "+(91)-9350536649",
+    "address": "S No- 194, Ghazipur, Delhi - 110096, New Subzi Mandi, Nr Bus Depot",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9350536649"
+  },
+  {
+    "name": "Dilip Kumar Ashok Kumar",
+    "phone": "+(91)-9968201043",
+    "address": "Shop No-298-299, Ghazipur, Delhi - 110096, New Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9968201043"
+  },
+  {
+    "name": "LAL Ramsawarup Aadhti",
+    "phone": "+(91)-9810145941",
+    "address": "Sh No 119,, Ghazipur, Delhi - 110096, New Sabzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810145941"
+  },
+  {
+    "name": "Gilhotra Fruit & Vegetable Com...",
+    "phone": "+(91)-9911977794",
+    "address": "Shop No-J-13, Ghazipur, Delhi - 110096, New Subji Mandi,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9911977794"
+  },
+  {
+    "name": "Noor Mohd Kale Khan",
+    "phone": "+(91)-9917017753",
+    "address": "Shop No 191, Ghazipur, Delhi - 110096, New Sabzi Mandi,",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9917017753"
+  },
+  {
+    "name": "kishan lal gulshan kumar",
+    "phone": "+(91)-9971610215",
+    "address": "Shop No 109-110, Ghazipur, Delhi - 110096, Nai Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971610215"
+  }
+
+,
+
+  {
+    "name": "Pandit Ji And Company",
+    "phone": "+(91)-9871166225",
+    "address": "Shop No 106,, New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871166225"
+  },
+  {
+    "name": "Mohammad Rafi Traders",
+    "phone": "+(91)-9675489733",
+    "address": "Shop No 315,, New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9675489733"
+  },
+  {
+    "name": "Hazi Vahid And Tamato Company",
+    "phone": "+(91)-9210819286",
+    "address": "Shop No 100,, New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9210819286"
+  },
+  {
+    "name": "Ashok Kumar And Sons",
+    "phone": "+(91)-9717067316",
+    "address": "Shop No 121,, New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717067316"
+  },
+  {
+    "name": "Kammu Mama Secunderabad Vale",
+    "phone": "+(91)-9718580427",
+    "address": "Shop No 163,, New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718580427"
+  },
+  {
+    "name": "Ashok Kumar Rakesh Kumar",
+    "phone": "+(91)-9811252277",
+    "address": "New Sabzi Mandi,, Ghazipur, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.318194,
+        28.600008
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811252277"
+  },
+  {
+    "name": "Jmk fruit co",
+    "phone": "+(91)-9873430433",
+    "address": "H-no-773, Mandir wali gali, Kapashera, Delhi - 110037",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.083708,
+        28.5254
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873430433"
+  },
+  {
+    "name": "Safal Vegetable Store",
+    "phone": "+(91)-9999531808",
+    "address": "808-H Block, Noida Sector 22, Noida - 201301, Near Federal Bank",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.328483,
+        28.579061
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531808"
+  },
+  {
+    "name": "Nasim Abrar Fruit Shop",
+    "phone": "+(91)-9718809352",
+    "address": "16/36, Main Road, Geeta Colony, Delhi - 110031, Khuregi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.273333,
+        28.650833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9718809352"
+  },
+  null
+
+,
+
+  {
+    "name": "Safal Outlet",
+    "phone": "+(91)-9999531805",
+    "address": "Shop Number-81805, I - Block market sector -27, Noida Sector 27, Noida - 201301, Opposite house number-H 118",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.3295,
+        28.576167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531805"
+  },
+  null,
+  null,
+  {
+    "name": "Satnam Singh",
+    "phone": "+(91)-9811201355",
+    "address": "Shop No-64, 86, 103,, Main Road,, Old Subzi Mandi, Delhi - 110007",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.205669,
+        28.669165
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811201355"
+  },
+  {
+    "name": "Fresh fruit juice centre",
+    "phone": "+(91)-9810165515",
+    "address": "Shop No-8 , U 25 Road, Krishna Market, DLF City Phase III Gurgaon, Gurgaon - 122010, Pink Town House Road",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.099244,
+        28.49365
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810165515"
+  },
+  {
+    "name": "Fresh N Frooty",
+    "phone": "+(91)-9811501551",
+    "address": "H-75 Main Market, Rajouri Garden, Delhi - 110027, Near Gambhir Hospital",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.121986,
+        28.642905
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811501551"
+  },
+  null,
+  {
+    "name": "Om Prakash And Sons",
+    "phone": "+(91)-9312288975",
+    "address": "Shop No38/12, Ramesh Nagar, Delhi - 110015",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.131032,
+        28.649754
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312288975"
+  },
+  {
+    "name": "Fruit Chat",
+    "phone": "+(91)-9654503464",
+    "address": "Kashmere Gate, Delhi - 110006",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.226333,
+        28.668333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9654503464"
+  },
+  {
+    "name": "Hajari And Company",
+    "phone": "+(91)-9990067206",
+    "address": "11/167, Kalyan Puri, Delhi - 110091, nr bus stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.31456,
+        28.615079
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990067206"
+  }
+
+,
+
+  {
+    "name": "Fruit Centre",
+    "phone": "+(91)-9971681785",
+    "address": "Shop No:-, Kashmere Gate, Delhi - 110006, Kasmere court",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.231833,
+        28.667833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971681785"
+  },
+  {
+    "name": "Sapna Sadana",
+    "phone": "+(91)-9891571362",
+    "address": "4 A, main road, Krishna Nagar, Delhi - 110051, rashid market",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.279145,
+        28.649387
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891571362"
+  },
+  null,
+  {
+    "name": "Fruit corner",
+    "phone": "+(91)-8447723471",
+    "address": "Shop no. K4 brahmputramarket, Main road, Noida Sector 29, Noida - 201303",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.332833,
+        28.5705
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8447723471"
+  },
+  null,
+  {
+    "name": "Suchdeva juice centre",
+    "phone": "+(91)-7503199434",
+    "address": "6/14, Main rd, Geeta Colony, Delhi - 110031, Nr block 7 gurudwara",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.273,
+        28.653833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7503199434"
+  },
+  {
+    "name": "Safal Mother Dairy",
+    "phone": "+(91)-9999294661",
+    "address": "Shop No- 810, Mehrishi Dayanand Marg, Noida, Noida - 201301, Near Arya Samaj Mandir, Sector-29",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.333333,
+        28.568833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999294661"
+  },
+  {
+    "name": "Gufran Pahalwan Traders",
+    "phone": "+(91)-9818237743",
+    "address": "Noida Ho, Noida - 201301, New Sabji Mandi,Sec-88,Phase 2",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.330689,
+        28.584672
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818237743"
+  },
+  {
+    "name": "MAA Vaishno Vegetable Shop",
+    "phone": "+(91)-8750971100",
+    "address": "Silver Estate, F-29 , Sec-50, Noida Ho, Noida - 201301, Opp. Corner Block",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.330689,
+        28.584672
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8750971100"
+  },
+  {
+    "name": "Aashi Fresh Fruit",
+    "phone": "+(91)-9999164949",
+    "address": "16/3632, Geeta Colony, Delhi - 110031, Khureji Subzi Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.270597,
+        28.655985
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999164949"
+  }
+
+,
+
+  {
+    "name": "Jeet trading Company",
+    "phone": "+(91)-9868283487",
+    "address": "14/78, Geeta Colony, Delhi - 110031, near shivpuri bus stand",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.270597,
+        28.655985
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868283487"
+  },
+  {
+    "name": "LUCKY FRUITS",
+    "phone": "+(91)-9811995091",
+    "address": "A12/1, Subzi Mandi, Moti Nagar, Delhi - 110015, Near Fun Cinema",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.139833,
+        28.657167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9811995091"
+  },
+  {
+    "name": "Aman Fruits Merchant",
+    "phone": "+(91)-9868487875",
+    "address": "C-37, Noida Sector 20, Noida - 201301, Near Dm Chouraha",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.3316908,
+        28.5831274
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868487875"
+  },
+  null,
+  null,
+  {
+    "name": "Fruits & Fruits",
+    "phone": "+(91)-9868098432",
+    "address": "shop no-1, New Gurunanak Market, Moti Nagar, Delhi - 110015, Behind Fire Training Center",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.143875,
+        28.6598
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868098432"
+  },
+  {
+    "name": "Rathore Fruits",
+    "phone": "+(91)-9990482600",
+    "address": "Shop Number-3, Main Road, Shastri Nagar (N), Delhi - 110052, Near Shastri Nagar Metro Station ,Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.181533,
+        28.670997
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9990482600"
+  },
+  {
+    "name": "Faizal fruit juice",
+    "phone": "+(91)-8376965788",
+    "address": "F-10, Tagore Garden, Delhi - 110027, Near Tagore garden metro",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.112833,
+        28.640333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8376965788"
+  },
+  {
+    "name": "Pbr Super Market",
+    "phone": "+(91)-9810083950",
+    "address": "Rzd-3/249,Gali No 9,, Naseer Pir Road,Near Naseer Pur Subzi Mandi,, Mahavir Enclave, Delhi - 110045",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.081469,
+        28.599236
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810083950"
+  },
+  {
+    "name": "Chotu Fruit Bhandar",
+    "phone": "+(91)-9873736608",
+    "address": "Noida Sector 44, Noida - 201303, Near Kartik Appartment",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.3364811692,
+        28.553382
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9873736608"
+  }
+
+,
+
+  {
+    "name": "Always fresh",
+    "phone": "+(91)-8826454960",
+    "address": "Ganga market, Main road, Noida Sector 29, Noida - 201303, Ganga Shopping Complex",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.336312,
+        28.566095
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826454960"
+  },
+  {
+    "name": "Bismilah Vegetables",
+    "phone": "+(91)-9891054703",
+    "address": "C-3, Main Road, Shivpuri-Chandar Nagar, Delhi - 110051",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.279,
+        28.653667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9891054703"
+  },
+  {
+    "name": "Gorver Fruit Shop",
+    "phone": "+(91)-9910832541",
+    "address": "Shop No 6, Rd No 34, Moti Nagar, Delhi - 110015, Guru Nanak Mkt,Opp Apollo Tyre World",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.148331,
+        28.663121
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910832541"
+  },
+  {
+    "name": "Mahesh fruit",
+    "phone": "+(91)-9953129026",
+    "address": "Kalyan puri, Kondli Road, Mayur Vihar Phase Iii, Delhi - 110096, Near Kondli Pul",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.320333,
+        28.615167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9953129026"
+  },
+  {
+    "name": "Sarvan kumar fruits redi vaali.",
+    "phone": "+(91)-8586096480",
+    "address": "478, Jheel Khurenja-Krishna Nagar, Delhi - 110051, near kohli art jewellers",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.274167,
+        28.657167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8586096480"
+  },
+  {
+    "name": "Ramesh Fruit Corner",
+    "phone": "+(91)-9211048944",
+    "address": "478, Sabzi Mandi, Jheel Khurenja-Krishna Nagar, Delhi - 110051",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.274333,
+        28.657167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9211048944"
+  },
+  {
+    "name": "Vegetable n fruit shop",
+    "phone": "+(91)-9810805430",
+    "address": "Mall road, Sec-29, Noida Sector 29, Noida - 201303",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.337,
+        28.570667
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810805430"
+  },
+  {
+    "name": "Santosh vegetable shop",
+    "phone": "+(91)-9871769935",
+    "address": "Sector -8, Sector-8 main road, Noida Sector 8, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.330345,
+        28.596487
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871769935"
+  },
+  {
+    "name": "Manoj vegetable vender",
+    "phone": "+(91)-9971832405",
+    "address": "DLF City Phase III Gurgaon, Gurgaon - 122010, near metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.094217,
+        28.490137
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971832405"
+  },
+  {
+    "name": "Pramod vegetable vender",
+    "phone": "+(91)-9555627107",
+    "address": "DLF City Phase III Gurgaon, Gurgaon - 122010, near metro statio",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.093994,
+        28.490175
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9555627107"
+  }
+
+,
+
+  {
+    "name": "Fruit sailer",
+    "phone": "+(91)-7838939793",
+    "address": "B 35, Moti Nagar, Delhi - 110015, Near ji",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.141667,
+        28.6615
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "7838939793"
+  },
+  {
+    "name": "Anup Juice Bar",
+    "phone": "+(91)-9999203416",
+    "address": "Geeta Colony, Delhi, Main Road, Geeta Colony, Delhi - 110031, Opposite To Bank Of Baroda",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2738194444,
+        28.6580208333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999203416"
+  },
+  {
+    "name": "Ram Niwas",
+    "phone": "+(91)-9991036507",
+    "address": "Moti Nagar, Delhi - 110015, Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.13938,
+        28.660654
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9991036507"
+  },
+  {
+    "name": "Rajesh & Ram Nath Fruits Merchant",
+    "phone": "+(91)-9958470748",
+    "address": "276, Jheel Khurenja-Krishna Nagar, Delhi - 110051, near jheer sab ji mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.275167,
+        28.6575
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958470748"
+  },
+  {
+    "name": "Rajesh Fruit Bhandar",
+    "phone": "+(91)-9899501005",
+    "address": "276, Main Road, Krishna Nagar, Delhi - 110051, Near Hanuman Mandir, Jheel Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2748263888,
+        28.6577430555
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9899501005"
+  },
+  null,
+  {
+    "name": "Safal (mother dairy)",
+    "phone": "+(91)-9999531722",
+    "address": "Booth no. -722, D.D.A. Market, Preet Vihar, Delhi - 110092, Near preet vihar metro station",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.297833,
+        28.642333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999531722"
+  },
+  {
+    "name": "Pappy Fruits",
+    "phone": "+(91)-9868182290",
+    "address": "Jheel Chownk, Jheel Khurenja, Main Road, Jheel Khurenja-Krishna Nagar, Delhi - 110051",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.2752777777,
+        28.6577777777
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9868182290"
+  },
+  {
+    "name": "Rajesh Fruit Shop",
+    "phone": "+(91)-9818775187",
+    "address": "Shop No.5, Main Market, Amarnagar, Faridabad - 121003, Sarai Khawaja",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.300178,
+        28.473815
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818775187"
+  },
+  {
+    "name": "Mukesh And Company",
+    "phone": "+(91)-9871285523",
+    "address": "Shop No 203, Thok Sabji Mandi, Tilak Nagar, Delhi - 110018, Near Keshpur Sabji Mandi",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.100112,
+        28.633161
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9871285523"
+  }
+
+,
+
+  {
+    "name": "Baba JI Fresh Fruits",
+    "phone": "+(91)-9999867725",
+    "address": "G-77, Ramphal Chowk, Dwarka Sector 7, Delhi - 110077, Near Vardhman Mall",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.071542,
+        28.582567
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999867725"
+  },
+  {
+    "name": "Fresh N Green",
+    "phone": "+(91)-9910444092",
+    "address": "Shop No-E 573,Palam Extn, Dwarka Sector 7, Delhi - 110077, Near Ramphal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.071833,
+        28.584833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910444092"
+  },
+  {
+    "name": "L M Three Sixy Five",
+    "phone": "+(91)-9310683662",
+    "address": "P-2/7, Krishna Nagar, Delhi - 110051, Nr Raghunath Mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.277472,
+        28.657974
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9310683662"
+  },
+  {
+    "name": "Om departmental store",
+    "phone": "+(91)-8800298081",
+    "address": "Shop no- G74, vardhaman star city mall, Sector-7, Dwarka Sector 7, Delhi - 110077, Main ramphal chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.071167,
+        28.582922
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800298081"
+  },
+  null,
+  {
+    "name": "MANOJ fruit center",
+    "phone": "+(91)-9312978559",
+    "address": "CHAUHAN market, chalera, Noida Sector 44, Noida - 201303",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.340667,
+        28.56
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9312978559"
+  },
+  {
+    "name": "F & G Supply limited",
+    "phone": "+(91)-9717039673",
+    "address": "Shop no B-183, Palam extn, Dwarka Sector 7, Delhi - 110077, Near Ramphal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.070306,
+        28.586945
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9717039673"
+  },
+  {
+    "name": "Shivam dry fruits",
+    "phone": "+(91)-9810881750",
+    "address": "A-3/208, Main road, New Kondli, Delhi - 110096, Near Radha Krishna mandir",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.330995,
+        28.6021
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9810881750"
+  },
+  null,
+  {
+    "name": "First choice",
+    "phone": "+(91)-9958315044",
+    "address": "Shop no.2, Moti Nagar, Delhi - 110015",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.140333,
+        28.663833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9958315044"
+  }
+
+,
+
+  {
+    "name": "Sandeep fruits",
+    "phone": "+(91)-9560274130",
+    "address": "Noida sec 25, Noida Sector 25, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.337667,
+        28.584833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560274130"
+  },
+  {
+    "name": "Gupta Fruits & Juice Bar",
+    "phone": "+(91)-9910825341",
+    "address": "44-A, Krishna Nagar, Delhi - 110051, Govind Park, Nr Som Bzr",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.289755,
+        28.651402
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9910825341"
+  },
+  {
+    "name": "Raj vegetable and fruits",
+    "phone": "+(91)-9560143558",
+    "address": "Main market, Noida Sector 25, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.337792,
+        28.584575
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9560143558"
+  },
+  {
+    "name": "Mahender fruits shop",
+    "phone": "+(91)-8826329685",
+    "address": "Shop- 1&2, Guru Nanak Mkt, New Moti Nagar, Moti Nagar, Delhi - 110015, New Moti Nagar",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.1405,
+        28.664
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826329685"
+  },
+  {
+    "name": "Bablu",
+    "phone": "+(91)-8826222912",
+    "address": "Jalvayu vihar, Noida Sector 25, Noida - 201301",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.337833,
+        28.584833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8826222912"
+  },
+  {
+    "name": "Grover fruit shop",
+    "phone": "+(91)-9971826726",
+    "address": "Shop no.6, Guru nanak market, Moti Nagar, Delhi - 110015",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.140167,
+        28.664
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9971826726"
+  },
+  {
+    "name": "Hari fruit shop",
+    "phone": "+(91)-9818201744",
+    "address": "Shop-8, Sangam Mkt, New Moti Nagar, Moti Nagar, Delhi - 110015, Sangam Mkt",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.140167,
+        28.664167
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9818201744"
+  },
+  {
+    "name": "F& G Supply pvt Ltd",
+    "phone": "+(91)-8800376226",
+    "address": "b-183 Ramphal Chowk, Dwarka Sector 7, Delhi - 110077, near Ramphal Chowk",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.070739,
+        28.586905
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8800376226"
+  },
+  {
+    "name": "B.k fruit shop",
+    "phone": "+(91)-9999797149",
+    "address": "Near Karampura Terminal, Moti Nagar, Delhi - 110015, Chest Hospitals",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.14,
+        28.664333
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "9999797149"
+  },
+  {
+    "name": "Ankur fruit corner",
+    "phone": "+(91)-8755065096",
+    "address": "A1 -78, Sabzi Mandi, Kondli, Delhi - 110096",
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        77.326167,
+        28.613833
+      ]
+    },
+    "city": "Delhi",
+    "mobile": "8755065096"
+  }
+
+]
